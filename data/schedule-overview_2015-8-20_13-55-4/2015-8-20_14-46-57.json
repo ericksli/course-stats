@@ -1,0 +1,1512 @@
+[
+  {
+    "availableSeats": 100,
+    "capacity": 1725,
+    "code": "GE1401",
+    "credit": 3,
+    "department": "English",
+    "levels": [
+      "B"
+    ],
+    "title": "University English",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 21,
+    "capacity": 125,
+    "code": "GE2401",
+    "credit": 3,
+    "department": "English",
+    "levels": [
+      "B"
+    ],
+    "title": "English for Science",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 172,
+    "capacity": 450,
+    "code": "GE2402",
+    "credit": 3,
+    "department": "English",
+    "levels": [
+      "B"
+    ],
+    "title": "English for Business Communication",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 125,
+    "code": "GE2404",
+    "credit": 3,
+    "department": "English",
+    "levels": [
+      "B"
+    ],
+    "title": "Asian Literature in English",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 75,
+    "code": "GE2405",
+    "credit": 3,
+    "department": "English",
+    "levels": [
+      "B"
+    ],
+    "title": "Creative Writing",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 1,
+    "capacity": 75,
+    "code": "GE2407",
+    "credit": 3,
+    "department": "English",
+    "levels": [
+      "B"
+    ],
+    "title": "Reading Lives, Writing Selves: Autobiography and Culture",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 51,
+    "capacity": 150,
+    "code": "GE2408",
+    "credit": 3,
+    "department": "English",
+    "levels": [
+      "B"
+    ],
+    "title": "Travel Writing: Discovery and Experience",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 59,
+    "capacity": 100,
+    "code": "GE2409",
+    "credit": 3,
+    "department": "English",
+    "levels": [
+      "B"
+    ],
+    "title": "Words and Images: Reading and Writing in the 21st Century",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 89,
+    "capacity": 350,
+    "code": "GE2410",
+    "credit": 3,
+    "department": "English",
+    "levels": [
+      "B"
+    ],
+    "title": "English for Engineering",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 73,
+    "capacity": 250,
+    "code": "GE3401",
+    "credit": 3,
+    "department": "English",
+    "levels": [
+      "B"
+    ],
+    "title": "Exploring English Cinema",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 67,
+    "capacity": 950,
+    "code": "GE1501",
+    "credit": 3,
+    "department": "Chinese and History",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Chinese Civilisation - History and Philosophy",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 19,
+    "capacity": 50,
+    "code": "GE1101",
+    "credit": 3,
+    "department": "Chinese and History",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Chinese Cultural Heritage in Modern Perspective",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 39,
+    "capacity": 120,
+    "code": "GE1104",
+    "credit": 3,
+    "department": "Chinese and History",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Chinese Cultural Canons and Their Modern Application",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 25,
+    "capacity": 75,
+    "code": "GE1107",
+    "credit": 3,
+    "department": "Chinese and History",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "The City in Chinese History and Culture",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 7,
+    "capacity": 180,
+    "code": "GE1110",
+    "credit": 3,
+    "department": "School of Creative Media",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Exploring Contemporary Art",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 45,
+    "capacity": 100,
+    "code": "GE1112",
+    "credit": 3,
+    "department": "Chinese and History",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Chán Culture and Contemporary Society",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 95,
+    "code": "GE1113",
+    "credit": 3,
+    "department": "School of Creative Media",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Visual Storytelling and Cultural Thinking",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 50,
+    "code": "GE1114",
+    "credit": 3,
+    "department": "Chinese and History",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Women's Lives in Chinese History",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 45,
+    "code": "GE1117",
+    "credit": 3,
+    "department": "Public Policy",
+    "levels": [
+      "B"
+    ],
+    "title": "Music and Human Values: Philosophical Investigations",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 17,
+    "capacity": 55,
+    "code": "GE1127",
+    "credit": 3,
+    "department": "School of Creative Media",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Money and Art: Exchange and Transaction As Themes in Art-works",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 60,
+    "code": "GE1128",
+    "credit": 3,
+    "department": "School of Creative Media",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Music for Film",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 80,
+    "code": "GE1129",
+    "credit": 3,
+    "department": "School of Creative Media",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Creative Photography",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 87,
+    "code": "GE1130",
+    "credit": 3,
+    "department": "School of Creative Media",
+    "levels": [
+      "B"
+    ],
+    "title": "Introduction to Digital Media",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 16,
+    "capacity": 80,
+    "code": "GE1132",
+    "credit": 3,
+    "department": "Linguistics and Translation",
+    "levels": [
+      "B"
+    ],
+    "title": "Mind, Brain and Language: How Are Human Beings Special?",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 20,
+    "code": "GE1134",
+    "credit": 3,
+    "department": "Applied Social Sciences",
+    "levels": [
+      "B"
+    ],
+    "title": "Movies and Psychology",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 135,
+    "code": "GE2101",
+    "credit": 3,
+    "department": "Public Policy",
+    "levels": [
+      "B"
+    ],
+    "title": "Rational Thinking and Creative Ideas",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 46,
+    "capacity": 60,
+    "code": "GE2103",
+    "credit": 3,
+    "department": "Chinese and History",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Appreciating Masterpieces of Western Culture",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 55,
+    "code": "GE2105",
+    "credit": 3,
+    "department": "English",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Popular Culture",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 8,
+    "capacity": 45,
+    "code": "GE2106",
+    "credit": 3,
+    "department": "Public Policy",
+    "levels": [
+      "B"
+    ],
+    "title": "Philosophy and Life: A Dialogue",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 60,
+    "code": "GE2108",
+    "credit": 3,
+    "department": "English",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Literature in Our Lives",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 120,
+    "code": "GE2109",
+    "credit": 3,
+    "department": "Applied Social Sciences",
+    "levels": [
+      "B"
+    ],
+    "title": "Love, Sex, and Relationships: Psychological Perspectives",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 40,
+    "capacity": 180,
+    "code": "GE2112",
+    "credit": 3,
+    "department": "Asian & International Studies",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 34,
+    "capacity": 180,
+    "code": "GE2117",
+    "credit": 3,
+    "department": "Asian & International Studies",
+    "levels": [
+      "B"
+    ],
+    "title": "Eat, Drink, Man, Woman: Cultural Identity of Koreans",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 110,
+    "capacity": 180,
+    "code": "GE2120",
+    "credit": 3,
+    "department": "Asian & International Studies",
+    "levels": [
+      "B"
+    ],
+    "title": "Asian Values and Managerial Practices",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 62,
+    "capacity": 123,
+    "code": "GE2122",
+    "credit": 3,
+    "department": "Linguistics and Translation",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "The Cantonese Language in Use: Language, Grammar and Culture",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 31,
+    "capacity": 120,
+    "code": "GE2125",
+    "credit": 3,
+    "department": "Linguistics and Translation",
+    "levels": [
+      "B"
+    ],
+    "title": "The Bible: Its History, Literature, and Influence",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 2,
+    "capacity": 90,
+    "code": "GE2127",
+    "credit": 3,
+    "department": "Architecture and Civil Engg",
+    "levels": [
+      "B"
+    ],
+    "title": "Computer-Aided Visual Design & Electronic Arts - Programing with Image,Audio,Animation & Interaction",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 420,
+    "code": "GE2129",
+    "credit": 3,
+    "department": "Applied Social Sciences",
+    "levels": [
+      "B"
+    ],
+    "title": "Psychology for Young Professionals",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 3,
+    "capacity": 30,
+    "code": "GE3106",
+    "credit": 3,
+    "department": "School of Creative Media",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Documentary and Everyday Urban Life",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 60,
+    "code": "GE4102",
+    "credit": 3,
+    "department": "School of Creative Media",
+    "levels": [
+      "B"
+    ],
+    "title": "Video Game: History, Industry, Society, and Creativity",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 23,
+    "capacity": 80,
+    "code": "GE1201",
+    "credit": 3,
+    "department": "Information Systems",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Information Management and Its Social Impact",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 95,
+    "capacity": 240,
+    "code": "GE1202",
+    "credit": 3,
+    "department": "Economics & Finance",
+    "levels": [
+      "B"
+    ],
+    "title": "Managing Your Personal Finance",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 142,
+    "capacity": 270,
+    "code": "GE1204",
+    "credit": 3,
+    "department": "Accountancy",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Living with the Unexpected and Unknown in Modern Society",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 155,
+    "code": "GE1205",
+    "credit": 3,
+    "department": "Economics & Finance",
+    "levels": [
+      "B"
+    ],
+    "title": "Green Economics",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 240,
+    "code": "GE1206",
+    "credit": 3,
+    "department": "Information Systems",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Accelerating Professional Growth on the Web",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 40,
+    "code": "GE1207",
+    "credit": 3,
+    "department": "Marketing",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Organizational and Personal Image Management",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 66,
+    "code": "GE1212",
+    "credit": 3,
+    "department": "Information Systems",
+    "levels": [
+      "B"
+    ],
+    "title": "Building Personal and Firm Images in the Digital Society",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 29,
+    "capacity": 80,
+    "code": "GE1218",
+    "credit": 3,
+    "department": "Public Policy",
+    "levels": [
+      "B"
+    ],
+    "title": "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 49,
+    "capacity": 180,
+    "code": "GE1222",
+    "credit": 3,
+    "department": "Accountancy",
+    "levels": [
+      "B"
+    ],
+    "title": "Accounting in Everyday Life",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 120,
+    "code": "GE1223",
+    "credit": 3,
+    "department": "Media and Communication",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Public Health Communication",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 73,
+    "capacity": 120,
+    "code": "GE1224",
+    "credit": 3,
+    "department": "Media and Communication",
+    "levels": [
+      "B"
+    ],
+    "title": "Graffiti as Graphic and Global Communication",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 2,
+    "capacity": 160,
+    "code": "GE1225",
+    "credit": 3,
+    "department": "Marketing",
+    "levels": [
+      "B"
+    ],
+    "title": "Become a Smart and Responsible Consumer",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 10,
+    "code": "GE1226",
+    "credit": 3,
+    "department": "Applied Social Sciences",
+    "levels": [
+      "B"
+    ],
+    "title": "Youth in a Changing Society",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 41,
+    "capacity": 80,
+    "code": "GE2202",
+    "credit": 3,
+    "department": "Management Sciences",
+    "levels": [
+      "B"
+    ],
+    "title": "Globalization and Business",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 51,
+    "capacity": 80,
+    "code": "GE2204",
+    "credit": 3,
+    "department": "Management",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Business Ethics and Society",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 153,
+    "capacity": 180,
+    "code": "GE2205",
+    "credit": 3,
+    "department": "Asian & International Studies",
+    "levels": [
+      "B"
+    ],
+    "title": "Lifestyle Diversity and Choices",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 65,
+    "capacity": 160,
+    "code": "GE2209",
+    "credit": 3,
+    "department": "Marketing",
+    "levels": [
+      "B"
+    ],
+    "title": "Market Developments in China",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 76,
+    "capacity": 100,
+    "code": "GE2210",
+    "credit": 3,
+    "department": "Public Policy",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "China: A Socio-Political Transformation",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 80,
+    "code": "GE2211",
+    "credit": 3,
+    "department": "Applied Social Sciences",
+    "levels": [
+      "B"
+    ],
+    "title": "Sexuality, Culture and Diversity",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 48,
+    "capacity": 80,
+    "code": "GE2212",
+    "credit": 3,
+    "department": "Management",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Contemporary Business Communication",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 167,
+    "capacity": 240,
+    "code": "GE2213",
+    "credit": 3,
+    "department": "Management Sciences",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Understanding Uncertainty and Statistical Reasoning",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 38,
+    "capacity": 60,
+    "code": "GE2216",
+    "credit": 3,
+    "department": "English",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "New Literacies in the Information Age",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 55,
+    "code": "GE2218",
+    "credit": 3,
+    "department": "Applied Social Sciences",
+    "levels": [
+      "B"
+    ],
+    "title": "Career Excellence in the 21st Century",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 23,
+    "capacity": 80,
+    "code": "GE2220",
+    "credit": 3,
+    "department": "Marketing",
+    "levels": [
+      "B"
+    ],
+    "title": "Sustainable Business: Doing Good Business While Doing Good",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 240,
+    "code": "GE2221",
+    "credit": 3,
+    "department": "Applied Social Sciences",
+    "levels": [
+      "B"
+    ],
+    "title": "Violence and Crime",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 40,
+    "code": "GE2223",
+    "credit": 3,
+    "department": "Applied Social Sciences",
+    "levels": [
+      "B"
+    ],
+    "title": "Interpersonal Skills and Positive Personal Development",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 26,
+    "capacity": 120,
+    "code": "GE2225",
+    "credit": 3,
+    "department": "Media and Communication",
+    "levels": [
+      "B"
+    ],
+    "title": "Media and Consumption: Food and Fashion in Everyday Life",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 45,
+    "capacity": 95,
+    "code": "GE2226",
+    "credit": 3,
+    "department": "Applied Social Sciences",
+    "levels": [
+      "B"
+    ],
+    "title": "Ageing Society: Hong Kong and Beyond",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 80,
+    "code": "GE2229",
+    "credit": 3,
+    "department": "Economics & Finance",
+    "levels": [
+      "B"
+    ],
+    "title": "Uncovering the Global Economy through News",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 6,
+    "capacity": 75,
+    "code": "GE2231",
+    "credit": 3,
+    "department": "Management",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Business, Media and Society",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 103,
+    "capacity": 160,
+    "code": "GE2242",
+    "credit": 3,
+    "department": "Information Systems",
+    "levels": [
+      "B"
+    ],
+    "title": "Conducting Online Commerce in China",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 32,
+    "capacity": 80,
+    "code": "GE2246",
+    "credit": 3,
+    "department": "Public Policy",
+    "levels": [
+      "B"
+    ],
+    "title": "Changing Our Society: Turning Social Problems into Business Opportunities",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 58,
+    "capacity": 80,
+    "code": "GE2249",
+    "credit": 3,
+    "department": "Management",
+    "levels": [
+      "B"
+    ],
+    "title": "Maximising the Study Abroad Experience",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 72,
+    "capacity": 98,
+    "code": "GE2250",
+    "credit": 3,
+    "department": "Architecture and Civil Engg",
+    "levels": [
+      "B"
+    ],
+    "title": "Understand Global Projects for Business and Engineering Professionals",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 69,
+    "capacity": 90,
+    "code": "GE2251",
+    "credit": 3,
+    "department": "Architecture and Civil Engg",
+    "levels": [
+      "B"
+    ],
+    "title": "Survey in Daily Life: Engineering, Business, and Political Applications",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 66,
+    "capacity": 91,
+    "code": "GE2253",
+    "credit": 3,
+    "department": "Architecture and Civil Engg",
+    "levels": [
+      "B"
+    ],
+    "title": "Real Estate Development: Principles and Process",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 58,
+    "capacity": 80,
+    "code": "GE2254",
+    "credit": 3,
+    "department": "Management",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Competition and Cooperation in Diverse Contexts",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 85,
+    "capacity": 120,
+    "code": "GE3201",
+    "credit": 3,
+    "department": "Media and Communication",
+    "levels": [
+      "B"
+    ],
+    "title": "China in the Eyes of World Media",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 16,
+    "capacity": 80,
+    "code": "GE3204",
+    "credit": 3,
+    "department": "Management",
+    "levels": [
+      "B"
+    ],
+    "title": "Business and Hong Kong Society",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 60,
+    "code": "GE1301",
+    "credit": 3,
+    "department": "Sch of Energy and Environment",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Climate Change and Extreme Weather",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 105,
+    "code": "GE1305",
+    "credit": 3,
+    "department": "Physics & Materials Science",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Everyday Physics: Its Impact on You and Society",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 65,
+    "code": "GE1310",
+    "credit": 3,
+    "department": "Biology & Chemistry",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "The Biochemistry of Attraction",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 126,
+    "capacity": 195,
+    "code": "GE1322",
+    "credit": 3,
+    "department": "Electronic Engineering",
+    "levels": [
+      "B"
+    ],
+    "title": "Brain Machine Interface: Technology, Culture, and Society",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 29,
+    "capacity": 45,
+    "code": "GE1325",
+    "credit": 3,
+    "department": "Mechanical and Biomedical Engg",
+    "levels": [
+      "B"
+    ],
+    "title": "From Ideas to Innovative Design",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 140,
+    "code": "GE1326",
+    "credit": 3,
+    "department": "Systems Engg and Engg Mgt",
+    "levels": [
+      "B"
+    ],
+    "title": "Common Accidents in Modern Day City Life - Inevitable? Preventable?",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 72,
+    "capacity": 102,
+    "code": "GE1327",
+    "credit": 3,
+    "department": "Mathematics",
+    "levels": [
+      "B"
+    ],
+    "title": "Navigating Risk",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 6,
+    "capacity": 55,
+    "code": "GE1328",
+    "credit": 3,
+    "department": "Biomedical Sciences",
+    "levels": [
+      "B"
+    ],
+    "title": "Mind, Body and Energy",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 12,
+    "capacity": 97,
+    "code": "GE1330",
+    "credit": 3,
+    "department": "Mechanical and Biomedical Engg",
+    "levels": [
+      "B"
+    ],
+    "title": "Learning from Nature",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 34,
+    "capacity": 105,
+    "code": "GE1331",
+    "credit": 3,
+    "department": "Electronic Engineering",
+    "levels": [
+      "B"
+    ],
+    "title": "Problem Solving Made Easy",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 25,
+    "capacity": 94,
+    "code": "GE1332",
+    "credit": 3,
+    "department": "Architecture and Civil Engg",
+    "levels": [
+      "B"
+    ],
+    "title": "Beauty of Ancient Chinese Architecture",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 71,
+    "capacity": 97,
+    "code": "GE1334",
+    "credit": 3,
+    "department": "Mechanical and Biomedical Engg",
+    "levels": [
+      "B"
+    ],
+    "title": "New Materials in the 21st Century",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 40,
+    "code": "GE1337",
+    "credit": 3,
+    "department": "Sch of Energy and Environment",
+    "levels": [
+      "B"
+    ],
+    "title": "Urban Green City: Pollution and Solution",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 95,
+    "code": "GE1343",
+    "credit": 3,
+    "department": "Architecture and Civil Engg",
+    "levels": [
+      "B"
+    ],
+    "title": "Energy Crisis and Renewable Energy",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 36,
+    "capacity": 97,
+    "code": "GE1344",
+    "credit": 3,
+    "department": "Mechanical and Biomedical Engg",
+    "levels": [
+      "B"
+    ],
+    "title": "Nutrition and Wellness",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 22,
+    "capacity": 80,
+    "code": "GE1346",
+    "credit": 3,
+    "department": "Biology & Chemistry",
+    "levels": [
+      "B"
+    ],
+    "title": "The Chemists Kitchen (The Science of Food and Cooking)",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 26,
+    "capacity": 62,
+    "code": "GE1347",
+    "credit": 3,
+    "department": "Electronic Engineering",
+    "levels": [
+      "B"
+    ],
+    "title": "Technology and the Land Trekking Adventurer",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 54,
+    "code": "GE2301",
+    "credit": 3,
+    "department": "Mechanical and Biomedical Engg",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Science and Technology: From Past to Future",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 16,
+    "capacity": 60,
+    "code": "GE2302",
+    "credit": 3,
+    "department": "Biology & Chemistry",
+    "levels": [
+      "B"
+    ],
+    "title": "Forensics and Modern Society",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 36,
+    "capacity": 91,
+    "code": "GE2303",
+    "credit": 3,
+    "department": "Architecture and Civil Engg",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Save the Earth: Sustainable Development",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 37,
+    "capacity": 50,
+    "code": "GE2304",
+    "credit": 3,
+    "department": "Systems Engg and Engg Mgt",
+    "levels": [
+      "B"
+    ],
+    "title": "Innovation and Entrepreneurship for Young Professionals",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 208,
+    "code": "GE2305",
+    "credit": 3,
+    "department": "Physics & Materials Science",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Astronomy - The Sky and Us",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 230,
+    "code": "GE2314",
+    "credit": 3,
+    "department": "Building Science & Technology",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Construction As One of the Founding Stones of Modern Hong Kong",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 150,
+    "code": "GE2315",
+    "credit": 3,
+    "department": "Computer Science",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Security and Privacy in the Information Age",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 35,
+    "capacity": 220,
+    "code": "GE2316",
+    "credit": 3,
+    "department": "Electronic Engineering",
+    "levels": [
+      "B"
+    ],
+    "title": "Computing Snapshot, Today and Tomorrow",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 144,
+    "capacity": 190,
+    "code": "GE2318",
+    "credit": 3,
+    "department": "Electronic Engineering",
+    "levels": [
+      "B"
+    ],
+    "title": "From Ancient Wisdom to Modern Science",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 30,
+    "capacity": 48,
+    "code": "GE2319",
+    "credit": 3,
+    "department": "Systems Engg and Engg Mgt",
+    "levels": [
+      "B"
+    ],
+    "title": "Industrial Engineering and Management of Modern Enterprises",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 54,
+    "capacity": 70,
+    "code": "GE2320",
+    "credit": 3,
+    "department": "Mechanical and Biomedical Engg",
+    "levels": [
+      "B"
+    ],
+    "title": "Robots in Our Life: How Applications of Robots Affect Our Life and Society",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 95,
+    "capacity": 120,
+    "code": "GE2322",
+    "credit": 3,
+    "department": "Biology & Chemistry",
+    "levels": [
+      "B"
+    ],
+    "title": "The Nobel Spirit",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 15,
+    "capacity": 150,
+    "code": "GE2323",
+    "credit": 3,
+    "department": "Computer Science",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Mobile Social Networks: Practices, Challenges, and Beyond",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 30,
+    "capacity": 60,
+    "code": "GE2324",
+    "credit": 3,
+    "department": "Computer Science",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "The Art and Science of Data",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 18,
+    "capacity": 60,
+    "code": "GE2326",
+    "credit": 3,
+    "department": "Computer Science",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Probability in Action: From the Unfinished Game to the Modern World",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 63,
+    "capacity": 90,
+    "code": "GE2328",
+    "credit": 3,
+    "department": "Systems Engg and Engg Mgt",
+    "levels": [
+      "B"
+    ],
+    "title": "Understanding and Improving Enterprises for Future Leaders",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  },
+  {
+    "availableSeats": 0,
+    "capacity": 110,
+    "code": "GE2329",
+    "credit": 3,
+    "department": "Building Science & Technology",
+    "levels": [
+      "A",
+      "B"
+    ],
+    "title": "Green Buildings: Discovery and Innovations",
+    "waitlistAvailable": "N",
+    "webEnabled": true
+  }
+]
