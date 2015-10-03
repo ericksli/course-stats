@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9a9"),
+	"availableSeats" : 8,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea1a"),
+	"availableSeats" : 8,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea8d"),
+	"availableSeats" : 8,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eafb"),
+	"availableSeats" : 8,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb6e"),
+	"availableSeats" : 8,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebde"),
+	"availableSeats" : 8,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec4c"),
+	"availableSeats" : 8,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecc0"),
+	"availableSeats" : 8,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed31"),
+	"availableSeats" : 7,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eda0"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee13"),
+	"availableSeats" : 7,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee84"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eef5"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef66"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efd7"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f049"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0b9"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f12a"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f19c"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f20c"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f27c"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2ee"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f35f"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3d0"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f43e"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4b0"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f523"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f594"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f605"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f676"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6e8"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f758"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7c9"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f83a"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8ab"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f91b"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f98b"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9fe"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa6f"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fadf"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb50"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbc1"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc33"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fca4"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd15"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd85"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdf7"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe67"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fed9"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff4a"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffbc"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2002c"),
+	"availableSeats" : 9,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2009d"),
+	"availableSeats" : 8,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2010e"),
+	"availableSeats" : 8,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2017f"),
+	"availableSeats" : 8,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201f0"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20261"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202d1"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20343"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203b4"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20426"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20496"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20509"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20578"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205e8"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2065a"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206cb"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2073c"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207ad"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2081e"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2088f"),
+	"availableSeats" : 6,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20901"),
+	"availableSeats" : 20,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20971"),
+	"availableSeats" : 20,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209e2"),
+	"availableSeats" : 20,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a53"),
+	"availableSeats" : 20,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ac4"),
+	"availableSeats" : 20,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b35"),
+	"availableSeats" : 20,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ba7"),
+	"availableSeats" : 18,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c18"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c88"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cf9"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d69"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ddb"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e4c"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ebe"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f2e"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f9f"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2100e"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21080"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210f2"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21164"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211d5"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21245"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212b6"),
+	"availableSeats" : 11,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21328"),
+	"availableSeats" : 11,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21397"),
+	"availableSeats" : 11,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21409"),
+	"availableSeats" : 11,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2147a"),
+	"availableSeats" : 11,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214ec"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2155b"),
+	"availableSeats" : 11,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215cf"),
+	"availableSeats" : 11,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2163e"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216af"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2171f"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2178e"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21802"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21873"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218e5"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21955"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219c6"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a37"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21aa9"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b19"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b8b"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bfc"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c6c"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cdd"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d4d"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dc0"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e30"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ea2"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f13"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f82"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ff3"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22065"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220d8"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22146"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221b8"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2222b"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2229b"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2230a"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2237c"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223ed"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2245f"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224cf"),
+	"availableSeats" : 11,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2253f"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225b2"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22622"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22692"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22704"),
+	"availableSeats" : 11,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22776"),
+	"availableSeats" : 11,
+	"capacity" : 30,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227e8"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22855"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228c8"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22938"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229ab"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a1b"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a89"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22afd"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b6e"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bde"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c4e"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cc1"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d32"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22da4"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e14"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e87"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ef4"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f67"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fd8"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23049"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230ba"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2312c"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2319d"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2320d"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2327e"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232ee"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23360"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233d0"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23441"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234b4"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23523"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23595"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23606"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23677"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236ea"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2375a"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237c9"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2383d"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238ac"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2391d"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2398e"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239ff"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a71"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ae2"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b53"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bc3"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c34"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ca5"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d16"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d87"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23df9"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e69"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23eda"),
+	"availableSeats" : 13,
+	"capacity" : 16,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f4b"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fbc"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2402e"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2409f"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2410f"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24182"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241f2"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24261"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242d2"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24344"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243b7"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24428"),
+	"availableSeats" : 33,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24497"),
+	"availableSeats" : 30,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24509"),
+	"availableSeats" : 25,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2457a"),
+	"availableSeats" : 25,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245ea"),
+	"availableSeats" : 23,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2465b"),
+	"availableSeats" : 23,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246cc"),
+	"availableSeats" : 22,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2473d"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247ad"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2481f"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24891"),
+	"availableSeats" : 20,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24902"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24970"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249e3"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a54"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ac4"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b36"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ba5"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c18"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c89"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cf9"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d6a"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dd9"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e4e"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ec0"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f2f"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f9f"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25012"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25082"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250f3"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25164"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251d6"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25244"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252b7"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25327"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25399"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25409"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2547b"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254ec"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2555d"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255cf"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2563f"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256b0"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25721"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25792"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25803"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25874"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258e6"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25956"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259c9"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a38"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25aa9"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b1a"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b8b"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bfa"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c6d"),
+	"availableSeats" : 28,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cdd"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d51"),
+	"availableSeats" : 25,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dc0"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e30"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ea3"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f13"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f84"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ff5"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26064"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260d7"),
+	"availableSeats" : 21,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26147"),
+	"availableSeats" : 21,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261bb"),
+	"availableSeats" : 21,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2622a"),
+	"availableSeats" : 21,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26299"),
+	"availableSeats" : 21,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2630c"),
+	"availableSeats" : 20,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2637d"),
+	"availableSeats" : 19,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263ec"),
+	"availableSeats" : 17,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2645f"),
+	"availableSeats" : 16,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264cf"),
+	"availableSeats" : 16,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26542"),
+	"availableSeats" : 16,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265b3"),
+	"availableSeats" : 16,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26622"),
+	"availableSeats" : 16,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26695"),
+	"availableSeats" : 15,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26705"),
+	"availableSeats" : 15,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26776"),
+	"availableSeats" : 15,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267e7"),
+	"availableSeats" : 15,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26858"),
+	"availableSeats" : 18,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268cb"),
+	"availableSeats" : 13,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2693a"),
+	"availableSeats" : 13,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269ac"),
+	"availableSeats" : 13,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a1c"),
+	"availableSeats" : 13,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a8d"),
+	"availableSeats" : 13,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26afe"),
+	"availableSeats" : 13,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b6f"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bdf"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c51"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cc1"),
+	"availableSeats" : 19,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d34"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26da2"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e17"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e86"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ef7"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f6a"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fd7"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27049"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270b8"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2712c"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2719c"),
+	"availableSeats" : 18,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2720f"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2727f"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272f1"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27360"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273d1"),
+	"availableSeats" : 10,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27444"),
+	"availableSeats" : 10,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274b3"),
+	"availableSeats" : 10,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27523"),
+	"availableSeats" : 10,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27596"),
+	"availableSeats" : 10,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27608"),
+	"availableSeats" : 10,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27678"),
+	"availableSeats" : 17,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276e8"),
+	"availableSeats" : 10,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2775a"),
+	"availableSeats" : 10,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277cb"),
+	"availableSeats" : 10,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2783c"),
+	"availableSeats" : 10,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278ad"),
+	"availableSeats" : 10,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2791d"),
+	"availableSeats" : 10,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2798e"),
+	"availableSeats" : 10,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a01"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a71"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ae3"),
+	"availableSeats" : 11,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b53"),
+	"availableSeats" : 17,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bc4"),
+	"availableSeats" : 17,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c33"),
+	"availableSeats" : 17,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ca5"),
+	"availableSeats" : 17,
+	"capacity" : 40,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d17"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d87"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27df9"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e6a"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27edb"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f4c"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fbe"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2802e"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2809f"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2810f"),
+	"availableSeats" : 17,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28181"),
+	"availableSeats" : 16,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281f1"),
+	"availableSeats" : 15,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28264"),
+	"availableSeats" : 14,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282d4"),
+	"availableSeats" : 14,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28345"),
+	"availableSeats" : 13,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283b6"),
+	"availableSeats" : 12,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28426"),
+	"availableSeats" : 12,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28499"),
+	"availableSeats" : 11,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28508"),
+	"availableSeats" : 11,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28577"),
+	"availableSeats" : 10,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285eb"),
+	"availableSeats" : 10,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2865c"),
+	"availableSeats" : 10,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286cb"),
+	"availableSeats" : 10,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2873d"),
+	"availableSeats" : 8,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287af"),
+	"availableSeats" : 8,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28821"),
+	"availableSeats" : 8,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28891"),
+	"availableSeats" : 6,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288ff"),
+	"availableSeats" : 6,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28972"),
+	"availableSeats" : 6,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289e4"),
+	"availableSeats" : 4,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a55"),
+	"availableSeats" : 3,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ac6"),
+	"availableSeats" : 3,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b37"),
+	"availableSeats" : 10,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ba8"),
+	"availableSeats" : 3,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c1b"),
+	"availableSeats" : 10,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c8a"),
+	"availableSeats" : 10,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cfb"),
+	"availableSeats" : 9,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d6e"),
+	"availableSeats" : 8,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dde"),
+	"availableSeats" : 8,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e4e"),
+	"availableSeats" : 7,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ebf"),
+	"availableSeats" : 8,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f2f"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f9f"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29012"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29083"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290f4"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29165"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291d6"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29249"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292b8"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29329"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29399"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2940a"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2947c"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294ed"),
+	"availableSeats" : 2,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2955e"),
+	"availableSeats" : 2,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295ce"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2963f"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a296af"),
+	"availableSeats" : 1,
+	"capacity" : 60,
+	"code" : "GE2326",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Probability in Action: From the Unfinished Game to the Modern World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e949"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9ba"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea2b"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea9b"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb0d"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb7e"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebed"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec5f"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecd0"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed42"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edb3"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee24"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee95"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef06"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef77"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efea"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f059"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0ca"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f13a"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1ad"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f21d"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f28e"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2fe"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f36f"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3e1"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f451"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4c2"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f533"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5a5"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f617"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f687"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6f8"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f769"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7da"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f84b"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8bc"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f92e"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f99c"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa0f"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa80"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1faee"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb62"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbd2"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc44"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcb5"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd25"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd96"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe07"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe7d"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fee9"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff5b"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffcc"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2003d"),
+	"availableSeats" : 1,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200ae"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2011f"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20193"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20200"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20272"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202e3"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20353"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203c4"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20435"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204a6"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20516"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20589"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205fa"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2066a"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206dc"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2074c"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207bd"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2082f"),
+	"availableSeats" : 0,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208a0"),
+	"availableSeats" : 43,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20911"),
+	"availableSeats" : 43,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20982"),
+	"availableSeats" : 43,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209f3"),
+	"availableSeats" : 43,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a64"),
+	"availableSeats" : 43,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ad5"),
+	"availableSeats" : 37,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b46"),
+	"availableSeats" : 12,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bb7"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c28"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c99"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d0a"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d7b"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dec"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e5c"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ecd"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f3f"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fb0"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21021"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21091"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21103"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21174"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211e5"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21256"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212c7"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21338"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213a9"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2141a"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2148b"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214fd"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2156d"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215de"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2164f"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216c0"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21731"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217a1"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21813"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21884"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218f4"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21966"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219d7"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a47"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ab8"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b2a"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b9b"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c0c"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c7c"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cee"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d5f"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dd0"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e40"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21eb3"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f23"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f94"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22005"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22077"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220e7"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22157"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221c8"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2223a"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222ab"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2231c"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2238d"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223fe"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2246e"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224e0"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22551"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225c2"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22632"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226a4"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22716"),
+	"availableSeats" : 0,
+	"capacity" : 88,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22787"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227f6"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22869"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228d9"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22949"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229bb"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a2a"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a9d"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b0e"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b7f"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bef"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c61"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cd1"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d43"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22db3"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e25"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e94"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f07"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f78"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22feb"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2305a"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230ce"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2313c"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231ac"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2321f"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2328f"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232ff"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23374"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233e1"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23453"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234c4"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23534"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235a6"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2361c"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23688"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236f9"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23769"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237db"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2384c"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238bc"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2392e"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2399d"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a10"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a81"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23af1"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b64"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bd4"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c45"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cb8"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d27"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d9e"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e09"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e7a"),
+	"availableSeats" : 39,
+	"capacity" : 45,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23eed"),
+	"availableSeats" : 1,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f5e"),
+	"availableSeats" : 1,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fcd"),
+	"availableSeats" : 1,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2403e"),
+	"availableSeats" : 1,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240af"),
+	"availableSeats" : 1,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24121"),
+	"availableSeats" : 1,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24191"),
+	"availableSeats" : 65,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24202"),
+	"availableSeats" : 65,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24273"),
+	"availableSeats" : 65,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242e4"),
+	"availableSeats" : 65,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24355"),
+	"availableSeats" : 65,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243c7"),
+	"availableSeats" : 61,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24437"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244ac"),
+	"availableSeats" : 23,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24518"),
+	"availableSeats" : 22,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2458a"),
+	"availableSeats" : 21,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245fd"),
+	"availableSeats" : 22,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2466c"),
+	"availableSeats" : 20,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246dc"),
+	"availableSeats" : 22,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2474d"),
+	"availableSeats" : 21,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247bf"),
+	"availableSeats" : 19,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2482f"),
+	"availableSeats" : 17,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248a1"),
+	"availableSeats" : 35,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24912"),
+	"availableSeats" : 17,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24983"),
+	"availableSeats" : 16,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249f3"),
+	"availableSeats" : 15,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a64"),
+	"availableSeats" : 15,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ad6"),
+	"availableSeats" : 14,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b47"),
+	"availableSeats" : 13,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bb8"),
+	"availableSeats" : 14,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c29"),
+	"availableSeats" : 14,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c99"),
+	"availableSeats" : 14,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d0b"),
+	"availableSeats" : 14,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d7d"),
+	"availableSeats" : 33,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dec"),
+	"availableSeats" : 13,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e5e"),
+	"availableSeats" : 12,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ecf"),
+	"availableSeats" : 12,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f3e"),
+	"availableSeats" : 12,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fb1"),
+	"availableSeats" : 11,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25022"),
+	"availableSeats" : 10,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25094"),
+	"availableSeats" : 9,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25104"),
+	"availableSeats" : 9,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25175"),
+	"availableSeats" : 10,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251e6"),
+	"availableSeats" : 10,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25256"),
+	"availableSeats" : 31,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252c8"),
+	"availableSeats" : 11,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25339"),
+	"availableSeats" : 10,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253aa"),
+	"availableSeats" : 10,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2541a"),
+	"availableSeats" : 10,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2548c"),
+	"availableSeats" : 8,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254fd"),
+	"availableSeats" : 7,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2556e"),
+	"availableSeats" : 7,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255df"),
+	"availableSeats" : 7,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25650"),
+	"availableSeats" : 6,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256c1"),
+	"availableSeats" : 6,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25732"),
+	"availableSeats" : 28,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257a2"),
+	"availableSeats" : 5,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25814"),
+	"availableSeats" : 5,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25885"),
+	"availableSeats" : 6,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258f6"),
+	"availableSeats" : 6,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25966"),
+	"availableSeats" : 6,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259d8"),
+	"availableSeats" : 5,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a4a"),
+	"availableSeats" : 6,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25aba"),
+	"availableSeats" : 6,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b2c"),
+	"availableSeats" : 6,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b9c"),
+	"availableSeats" : 25,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c0d"),
+	"availableSeats" : 25,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c7d"),
+	"availableSeats" : 24,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cef"),
+	"availableSeats" : 23,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d5f"),
+	"availableSeats" : 5,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dd1"),
+	"availableSeats" : 5,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e42"),
+	"availableSeats" : 5,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25eb3"),
+	"availableSeats" : 6,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f24"),
+	"availableSeats" : 6,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f95"),
+	"availableSeats" : 6,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2600a"),
+	"availableSeats" : 6,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26077"),
+	"availableSeats" : 35,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260e8"),
+	"availableSeats" : 35,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26159"),
+	"availableSeats" : 35,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261c8"),
+	"availableSeats" : 35,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2623b"),
+	"availableSeats" : 35,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262ab"),
+	"availableSeats" : 25,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2631d"),
+	"availableSeats" : 10,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2638e"),
+	"availableSeats" : 5,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a263ff"),
+	"availableSeats" : 5,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2646f"),
+	"availableSeats" : 3,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264e1"),
+	"availableSeats" : 3,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26552"),
+	"availableSeats" : 2,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265c3"),
+	"availableSeats" : 1,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26634"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266a4"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26715"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26787"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267f7"),
+	"availableSeats" : 9,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26869"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268db"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2694b"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269c1"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a2e"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a9d"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b10"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b80"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bf3"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c62"),
+	"availableSeats" : 7,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cd2"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d44"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26db4"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e25"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e99"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f07"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f78"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fea"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2705a"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270d1"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2713d"),
+	"availableSeats" : 6,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271ad"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2721f"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2728e"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27301"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27373"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273e5"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27453"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274c5"),
+	"availableSeats" : 1,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27536"),
+	"availableSeats" : 1,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275a5"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27618"),
+	"availableSeats" : 6,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27689"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276fa"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2776b"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277dc"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2784d"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278bd"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2792f"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2799f"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a11"),
+	"availableSeats" : 0,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a82"),
+	"availableSeats" : 1,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27af3"),
+	"availableSeats" : 5,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b64"),
+	"availableSeats" : 5,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bd5"),
+	"availableSeats" : 4,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c46"),
+	"availableSeats" : 5,
+	"capacity" : 119,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cb6"),
+	"availableSeats" : 16,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d29"),
+	"availableSeats" : 16,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d98"),
+	"availableSeats" : 16,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e0a"),
+	"availableSeats" : 16,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e7b"),
+	"availableSeats" : 16,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27eea"),
+	"availableSeats" : 16,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f5d"),
+	"availableSeats" : 14,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fce"),
+	"availableSeats" : 1,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28043"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280b0"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28125"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28192"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28202"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28273"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282e4"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28356"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283c7"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28437"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284a9"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2851a"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2858b"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a285fb"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2866d"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286de"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2874f"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287c4"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28832"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288a1"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28913"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28983"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289f5"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a66"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ad7"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b48"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bb8"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c2a"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c9b"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d0e"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d7c"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dee"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e5f"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ed0"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f41"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fb2"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29023"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29094"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29105"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29176"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291e7"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29258"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292c9"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29339"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293ab"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2941c"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2948d"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294fe"),
+	"availableSeats" : 2,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2956f"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295e0"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29651"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1110",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Exploring Contemporary Art",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

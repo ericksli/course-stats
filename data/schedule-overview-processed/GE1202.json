@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e964"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9d5"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea46"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eab7"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb27"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb99"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec0a"),
+	"availableSeats" : 30,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec7b"),
+	"availableSeats" : 30,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecec"),
+	"availableSeats" : 30,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed5d"),
+	"availableSeats" : 30,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edce"),
+	"availableSeats" : 30,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee3e"),
+	"availableSeats" : 30,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eeaf"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef21"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef94"),
+	"availableSeats" : 28,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f003"),
+	"availableSeats" : 28,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f073"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0e5"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f159"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1c7"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f237"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2a9"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f31a"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f38c"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3fa"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f46d"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4de"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f54f"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5bf"),
+	"availableSeats" : 25,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f632"),
+	"availableSeats" : 25,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6a3"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f713"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f783"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7f5"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f867"),
+	"availableSeats" : 24,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8d6"),
+	"availableSeats" : 24,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f948"),
+	"availableSeats" : 24,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9b9"),
+	"availableSeats" : 24,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa2a"),
+	"availableSeats" : 24,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa9a"),
+	"availableSeats" : 23,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb0c"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb7d"),
+	"availableSeats" : 23,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbed"),
+	"availableSeats" : 22,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc5f"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcd1"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd41"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdb2"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe23"),
+	"availableSeats" : 20,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe91"),
+	"availableSeats" : 20,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff06"),
+	"availableSeats" : 20,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff76"),
+	"availableSeats" : 20,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffe7"),
+	"availableSeats" : 33,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20057"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200c9"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2013d"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201ab"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2021e"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2028c"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202fd"),
+	"availableSeats" : 18,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2036f"),
+	"availableSeats" : 17,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203df"),
+	"availableSeats" : 17,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20450"),
+	"availableSeats" : 17,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204c2"),
+	"availableSeats" : 17,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20533"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205a4"),
+	"availableSeats" : 20,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20615"),
+	"availableSeats" : 20,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20686"),
+	"availableSeats" : 20,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206f7"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20768"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207d9"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2084a"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208bb"),
+	"availableSeats" : 75,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2092c"),
+	"availableSeats" : 75,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2099b"),
+	"availableSeats" : 75,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a0e"),
+	"availableSeats" : 75,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a7f"),
+	"availableSeats" : 75,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20aef"),
+	"availableSeats" : 74,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b60"),
+	"availableSeats" : 60,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bd4"),
+	"availableSeats" : 49,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c43"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cb4"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d25"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d93"),
+	"availableSeats" : 45,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e07"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e78"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ee9"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f57"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fca"),
+	"availableSeats" : 55,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2103c"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210ad"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2111e"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2118f"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21200"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21271"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212e2"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21356"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213c3"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21434"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214a5"),
+	"availableSeats" : 53,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21517"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21588"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215f8"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2166a"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216db"),
+	"availableSeats" : 45,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2174c"),
+	"availableSeats" : 45,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217bd"),
+	"availableSeats" : 45,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2182e"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218ad"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21910"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21981"),
+	"availableSeats" : 52,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219f2"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a62"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ad4"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b45"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bb5"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c27"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c98"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d09"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d7a"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dea"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e5c"),
+	"availableSeats" : 49,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ecd"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f3e"),
+	"availableSeats" : 48,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21faf"),
+	"availableSeats" : 48,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2201f"),
+	"availableSeats" : 48,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22091"),
+	"availableSeats" : 48,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22102"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22173"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221e4"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22255"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222c6"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22336"),
+	"availableSeats" : 48,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223a8"),
+	"availableSeats" : 49,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22419"),
+	"availableSeats" : 49,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2248a"),
+	"availableSeats" : 49,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224fc"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2256c"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225dd"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22650"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226bf"),
+	"availableSeats" : 47,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2272f"),
+	"availableSeats" : 46,
+	"capacity" : 118,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227a1"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22812"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22883"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228f4"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22965"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229d6"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a47"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ab6"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b26"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b9a"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c0b"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c7a"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ced"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d5e"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dcf"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e3f"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eb0"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f22"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f93"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23004"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23075"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230e5"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23156"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231c8"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23239"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232a9"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2331b"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2338a"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233fd"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2346e"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234dd"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23550"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235c1"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23630"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236a4"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23714"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23785"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237f6"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23866"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238d8"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23949"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239b8"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a2b"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a9d"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b10"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b7e"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bef"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c60"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cd1"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d42"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23db2"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e25"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e95"),
+	"availableSeats" : 54,
+	"capacity" : 60,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f06"),
+	"availableSeats" : 54,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f77"),
+	"availableSeats" : 54,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ff0"),
+	"availableSeats" : 54,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24059"),
+	"availableSeats" : 54,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240ca"),
+	"availableSeats" : 54,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24139"),
+	"availableSeats" : 54,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241ac"),
+	"availableSeats" : 140,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2421d"),
+	"availableSeats" : 140,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2428d"),
+	"availableSeats" : 140,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242ff"),
+	"availableSeats" : 140,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24370"),
+	"availableSeats" : 140,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243e1"),
+	"availableSeats" : 137,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24451"),
+	"availableSeats" : 121,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244c3"),
+	"availableSeats" : 99,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24534"),
+	"availableSeats" : 99,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245a5"),
+	"availableSeats" : 98,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24616"),
+	"availableSeats" : 98,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24687"),
+	"availableSeats" : 97,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246f6"),
+	"availableSeats" : 94,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24768"),
+	"availableSeats" : 94,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247da"),
+	"availableSeats" : 95,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2484b"),
+	"availableSeats" : 94,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248bc"),
+	"availableSeats" : 118,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2492d"),
+	"availableSeats" : 94,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2499d"),
+	"availableSeats" : 94,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a0e"),
+	"availableSeats" : 93,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a80"),
+	"availableSeats" : 93,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24af1"),
+	"availableSeats" : 93,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b62"),
+	"availableSeats" : 92,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bd0"),
+	"availableSeats" : 91,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c44"),
+	"availableSeats" : 90,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cb5"),
+	"availableSeats" : 91,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d26"),
+	"availableSeats" : 91,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d97"),
+	"availableSeats" : 114,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e08"),
+	"availableSeats" : 91,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e79"),
+	"availableSeats" : 91,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24eea"),
+	"availableSeats" : 91,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f5b"),
+	"availableSeats" : 91,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fcc"),
+	"availableSeats" : 91,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2503d"),
+	"availableSeats" : 92,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250ae"),
+	"availableSeats" : 92,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2511e"),
+	"availableSeats" : 91,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2518f"),
+	"availableSeats" : 91,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251ff"),
+	"availableSeats" : 91,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25272"),
+	"availableSeats" : 112,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252e3"),
+	"availableSeats" : 93,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25354"),
+	"availableSeats" : 94,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253c4"),
+	"availableSeats" : 95,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25435"),
+	"availableSeats" : 95,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254a7"),
+	"availableSeats" : 95,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25516"),
+	"availableSeats" : 95,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25589"),
+	"availableSeats" : 95,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255fa"),
+	"availableSeats" : 95,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2566a"),
+	"availableSeats" : 95,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256dc"),
+	"availableSeats" : 95,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2574d"),
+	"availableSeats" : 110,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257be"),
+	"availableSeats" : 95,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2582f"),
+	"availableSeats" : 94,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258a0"),
+	"availableSeats" : 94,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25911"),
+	"availableSeats" : 94,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25982"),
+	"availableSeats" : 94,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259f2"),
+	"availableSeats" : 93,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a64"),
+	"availableSeats" : 92,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ad5"),
+	"availableSeats" : 92,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b46"),
+	"availableSeats" : 92,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bb7"),
+	"availableSeats" : 108,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c28"),
+	"availableSeats" : 105,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c99"),
+	"availableSeats" : 103,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d09"),
+	"availableSeats" : 100,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d7b"),
+	"availableSeats" : 92,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25deb"),
+	"availableSeats" : 92,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e5d"),
+	"availableSeats" : 92,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ece"),
+	"availableSeats" : 92,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f3f"),
+	"availableSeats" : 93,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fb0"),
+	"availableSeats" : 93,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26020"),
+	"availableSeats" : 93,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26092"),
+	"availableSeats" : 90,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26103"),
+	"availableSeats" : 90,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26174"),
+	"availableSeats" : 90,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261e5"),
+	"availableSeats" : 90,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26256"),
+	"availableSeats" : 90,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262c7"),
+	"availableSeats" : 85,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26337"),
+	"availableSeats" : 73,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263a9"),
+	"availableSeats" : 66,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2641a"),
+	"availableSeats" : 63,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2648b"),
+	"availableSeats" : 64,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264fb"),
+	"availableSeats" : 64,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2656d"),
+	"availableSeats" : 64,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265de"),
+	"availableSeats" : 64,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2664f"),
+	"availableSeats" : 64,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266c0"),
+	"availableSeats" : 63,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26731"),
+	"availableSeats" : 64,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267a2"),
+	"availableSeats" : 64,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26813"),
+	"availableSeats" : 72,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26884"),
+	"availableSeats" : 64,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268f5"),
+	"availableSeats" : 63,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26966"),
+	"availableSeats" : 63,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269d7"),
+	"availableSeats" : 63,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a48"),
+	"availableSeats" : 62,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ab9"),
+	"availableSeats" : 62,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b2a"),
+	"availableSeats" : 62,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b9b"),
+	"availableSeats" : 61,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c0c"),
+	"availableSeats" : 61,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c7d"),
+	"availableSeats" : 71,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cef"),
+	"availableSeats" : 61,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d5f"),
+	"availableSeats" : 61,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dd0"),
+	"availableSeats" : 61,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e41"),
+	"availableSeats" : 61,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eb2"),
+	"availableSeats" : 60,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f22"),
+	"availableSeats" : 60,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f92"),
+	"availableSeats" : 59,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27006"),
+	"availableSeats" : 58,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2707d"),
+	"availableSeats" : 59,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270e7"),
+	"availableSeats" : 57,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27157"),
+	"availableSeats" : 68,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271c9"),
+	"availableSeats" : 56,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2723a"),
+	"availableSeats" : 56,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272ab"),
+	"availableSeats" : 56,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2731b"),
+	"availableSeats" : 56,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2738d"),
+	"availableSeats" : 56,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273fe"),
+	"availableSeats" : 56,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2746d"),
+	"availableSeats" : 56,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274e1"),
+	"availableSeats" : 57,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27551"),
+	"availableSeats" : 57,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275c1"),
+	"availableSeats" : 57,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27631"),
+	"availableSeats" : 67,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276a4"),
+	"availableSeats" : 57,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27714"),
+	"availableSeats" : 57,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27786"),
+	"availableSeats" : 57,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277f8"),
+	"availableSeats" : 55,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27868"),
+	"availableSeats" : 55,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278d9"),
+	"availableSeats" : 55,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2794a"),
+	"availableSeats" : 55,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279ba"),
+	"availableSeats" : 55,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a2b"),
+	"availableSeats" : 55,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a9d"),
+	"availableSeats" : 54,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b0d"),
+	"availableSeats" : 66,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b7f"),
+	"availableSeats" : 66,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bf2"),
+	"availableSeats" : 67,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c61"),
+	"availableSeats" : 66,
+	"capacity" : 160,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cd2"),
+	"availableSeats" : 96,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d43"),
+	"availableSeats" : 96,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27db2"),
+	"availableSeats" : 96,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e23"),
+	"availableSeats" : 96,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e96"),
+	"availableSeats" : 96,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f07"),
+	"availableSeats" : 96,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f78"),
+	"availableSeats" : 96,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fe8"),
+	"availableSeats" : 93,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2805a"),
+	"availableSeats" : 94,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280cb"),
+	"availableSeats" : 92,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2813c"),
+	"availableSeats" : 93,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281ad"),
+	"availableSeats" : 94,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2821e"),
+	"availableSeats" : 92,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2828f"),
+	"availableSeats" : 92,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28300"),
+	"availableSeats" : 91,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28372"),
+	"availableSeats" : 88,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283e2"),
+	"availableSeats" : 88,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28453"),
+	"availableSeats" : 85,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284c4"),
+	"availableSeats" : 86,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28535"),
+	"availableSeats" : 84,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285a5"),
+	"availableSeats" : 83,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28616"),
+	"availableSeats" : 83,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28688"),
+	"availableSeats" : 83,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286f9"),
+	"availableSeats" : 81,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28769"),
+	"availableSeats" : 81,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287db"),
+	"availableSeats" : 82,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2884b"),
+	"availableSeats" : 82,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288be"),
+	"availableSeats" : 82,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2892e"),
+	"availableSeats" : 82,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2899f"),
+	"availableSeats" : 81,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a10"),
+	"availableSeats" : 81,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a81"),
+	"availableSeats" : 79,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28af2"),
+	"availableSeats" : 84,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b63"),
+	"availableSeats" : 79,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bd4"),
+	"availableSeats" : 82,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c45"),
+	"availableSeats" : 82,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cb6"),
+	"availableSeats" : 83,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d28"),
+	"availableSeats" : 83,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d98"),
+	"availableSeats" : 82,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e09"),
+	"availableSeats" : 81,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e7b"),
+	"availableSeats" : 81,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28eeb"),
+	"availableSeats" : 53,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f5a"),
+	"availableSeats" : 48,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fcd"),
+	"availableSeats" : 46,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2903e"),
+	"availableSeats" : 45,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290af"),
+	"availableSeats" : 44,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2911f"),
+	"availableSeats" : 40,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29191"),
+	"availableSeats" : 35,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29202"),
+	"availableSeats" : 37,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29273"),
+	"availableSeats" : 35,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292e4"),
+	"availableSeats" : 31,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29355"),
+	"availableSeats" : 31,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293c6"),
+	"availableSeats" : 29,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29437"),
+	"availableSeats" : 26,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294a8"),
+	"availableSeats" : 24,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29519"),
+	"availableSeats" : 23,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2958a"),
+	"availableSeats" : 21,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295fb"),
+	"availableSeats" : 23,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2966c"),
+	"availableSeats" : 25,
+	"capacity" : 240,
+	"code" : "GE1202",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Managing Your Personal Finance",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

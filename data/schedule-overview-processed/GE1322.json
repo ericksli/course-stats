@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e98b"),
+	"availableSeats" : 26,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9fe"),
+	"availableSeats" : 26,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea6e"),
+	"availableSeats" : 26,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eae0"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb51"),
+	"availableSeats" : 26,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebc2"),
+	"availableSeats" : 25,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec32"),
+	"availableSeats" : 25,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eca4"),
+	"availableSeats" : 25,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed16"),
+	"availableSeats" : 25,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed87"),
+	"availableSeats" : 25,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edf7"),
+	"availableSeats" : 25,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee69"),
+	"availableSeats" : 25,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eed8"),
+	"availableSeats" : 24,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef4a"),
+	"availableSeats" : 24,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efbb"),
+	"availableSeats" : 24,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f036"),
+	"availableSeats" : 24,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f09d"),
+	"availableSeats" : 24,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f10f"),
+	"availableSeats" : 24,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f17f"),
+	"availableSeats" : 24,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1f0"),
+	"availableSeats" : 24,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f261"),
+	"availableSeats" : 24,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2d1"),
+	"availableSeats" : 24,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f343"),
+	"availableSeats" : 24,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3b4"),
+	"availableSeats" : 25,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f425"),
+	"availableSeats" : 24,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f496"),
+	"availableSeats" : 24,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f507"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f577"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5ea"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f65b"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6cb"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f73c"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7ad"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f81e"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f88e"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f902"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f971"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9e2"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa52"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fac4"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb35"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fba4"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc18"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc88"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcf8"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd6a"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdd9"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe4d"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1febb"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff2e"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff9e"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20010"),
+	"availableSeats" : 29,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20081"),
+	"availableSeats" : 29,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200f3"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20162"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201d4"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20245"),
+	"availableSeats" : 23,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202b6"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20328"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20398"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20408"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2047a"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204ea"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2055c"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205cc"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2063e"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206af"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20721"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20791"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20800"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20874"),
+	"availableSeats" : 22,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208e4"),
+	"availableSeats" : 69,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20955"),
+	"availableSeats" : 69,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209c6"),
+	"availableSeats" : 69,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a37"),
+	"availableSeats" : 69,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20aa5"),
+	"availableSeats" : 69,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b19"),
+	"availableSeats" : 66,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b93"),
+	"availableSeats" : 66,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bfa"),
+	"availableSeats" : 58,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c6c"),
+	"availableSeats" : 58,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cdc"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d4e"),
+	"availableSeats" : 55,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dbf"),
+	"availableSeats" : 55,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e30"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ea1"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f12"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f83"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ff4"),
+	"availableSeats" : 64,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21065"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210d4"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21147"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211b7"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21229"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2129a"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2130a"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2137c"),
+	"availableSeats" : 55,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213ed"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2145e"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214cf"),
+	"availableSeats" : 62,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2153f"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215b1"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21622"),
+	"availableSeats" : 55,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21693"),
+	"availableSeats" : 55,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21704"),
+	"availableSeats" : 55,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21775"),
+	"availableSeats" : 55,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217e6"),
+	"availableSeats" : 55,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21855"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218c8"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21936"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219aa"),
+	"availableSeats" : 62,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a1b"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a8c"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21afd"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b6d"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bde"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c50"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cc1"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d31"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21da3"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e14"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e84"),
+	"availableSeats" : 62,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ef6"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f67"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fd8"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2204a"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220ba"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2212b"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2219b"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2220d"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2227e"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222ef"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22360"),
+	"availableSeats" : 59,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223d1"),
+	"availableSeats" : 58,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22443"),
+	"availableSeats" : 58,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224b4"),
+	"availableSeats" : 58,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22525"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22595"),
+	"availableSeats" : 56,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22605"),
+	"availableSeats" : 57,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22677"),
+	"availableSeats" : 57,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226e8"),
+	"availableSeats" : 57,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22759"),
+	"availableSeats" : 57,
+	"capacity" : 93,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227c8"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2283c"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228ab"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2291d"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2298e"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229ff"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a71"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ae1"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b51"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bc3"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c33"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ca5"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d16"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d87"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22df9"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e68"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ed9"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f4b"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fbc"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2302d"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2309e"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2310f"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23180"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231f1"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23261"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232d3"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23344"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233b5"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23426"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23497"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23507"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23578"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235ea"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2365b"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236ca"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2373e"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237b0"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2381f"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2388f"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23901"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23971"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239e3"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a54"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ac5"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b36"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ba7"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c17"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c89"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cf9"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d6b"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ddc"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e4e"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ec8"),
+	"availableSeats" : 44,
+	"capacity" : 46,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f2f"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fa0"),
+	"availableSeats" : 72,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24011"),
+	"availableSeats" : 72,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24082"),
+	"availableSeats" : 72,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240f3"),
+	"availableSeats" : 72,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24166"),
+	"availableSeats" : 72,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241d5"),
+	"availableSeats" : 144,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24245"),
+	"availableSeats" : 144,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242b5"),
+	"availableSeats" : 144,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24328"),
+	"availableSeats" : 144,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24399"),
+	"availableSeats" : 144,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2440a"),
+	"availableSeats" : 140,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24479"),
+	"availableSeats" : 132,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244ed"),
+	"availableSeats" : 129,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2455c"),
+	"availableSeats" : 129,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245ce"),
+	"availableSeats" : 128,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2463d"),
+	"availableSeats" : 128,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246af"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24722"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24791"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24803"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24875"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248e5"),
+	"availableSeats" : 129,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24955"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249c7"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a38"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24aa9"),
+	"availableSeats" : 125,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b29"),
+	"availableSeats" : 125,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b89"),
+	"availableSeats" : 125,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bfc"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c6d"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cde"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d4f"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dc0"),
+	"availableSeats" : 129,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e31"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ea2"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f12"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f84"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ff5"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25066"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250d5"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25148"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251b9"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25229"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2529b"),
+	"availableSeats" : 128,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2530c"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2537d"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253ee"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2545f"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254d1"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25541"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255b2"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25623"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25694"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25705"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25776"),
+	"availableSeats" : 128,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257e6"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25859"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258c8"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2593a"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259ab"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a1c"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a8d"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25afe"),
+	"availableSeats" : 126,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b70"),
+	"availableSeats" : 125,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25be0"),
+	"availableSeats" : 129,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c51"),
+	"availableSeats" : 129,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cc1"),
+	"availableSeats" : 129,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d30"),
+	"availableSeats" : 129,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25da5"),
+	"availableSeats" : 125,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e15"),
+	"availableSeats" : 125,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e86"),
+	"availableSeats" : 125,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ef8"),
+	"availableSeats" : 125,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f67"),
+	"availableSeats" : 125,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fd9"),
+	"availableSeats" : 125,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26048"),
+	"availableSeats" : 125,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260c6"),
+	"availableSeats" : 92,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2612a"),
+	"availableSeats" : 92,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2619d"),
+	"availableSeats" : 92,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2620e"),
+	"availableSeats" : 92,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2627f"),
+	"availableSeats" : 92,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262f0"),
+	"availableSeats" : 87,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26361"),
+	"availableSeats" : 83,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263d1"),
+	"availableSeats" : 78,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26442"),
+	"availableSeats" : 78,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264b4"),
+	"availableSeats" : 78,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26525"),
+	"availableSeats" : 78,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26596"),
+	"availableSeats" : 78,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26606"),
+	"availableSeats" : 79,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2667b"),
+	"availableSeats" : 79,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266e9"),
+	"availableSeats" : 79,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2675a"),
+	"availableSeats" : 79,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267cb"),
+	"availableSeats" : 77,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2683d"),
+	"availableSeats" : 82,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268ad"),
+	"availableSeats" : 77,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2691f"),
+	"availableSeats" : 77,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2698f"),
+	"availableSeats" : 77,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a0d"),
+	"availableSeats" : 76,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a71"),
+	"availableSeats" : 77,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ae0"),
+	"availableSeats" : 77,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b50"),
+	"availableSeats" : 77,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bc4"),
+	"availableSeats" : 76,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c36"),
+	"availableSeats" : 76,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ca6"),
+	"availableSeats" : 81,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d17"),
+	"availableSeats" : 76,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d88"),
+	"availableSeats" : 76,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26df9"),
+	"availableSeats" : 76,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e6a"),
+	"availableSeats" : 76,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eda"),
+	"availableSeats" : 76,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f4b"),
+	"availableSeats" : 76,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fbd"),
+	"availableSeats" : 76,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2702e"),
+	"availableSeats" : 75,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2709f"),
+	"availableSeats" : 75,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27110"),
+	"availableSeats" : 76,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27183"),
+	"availableSeats" : 81,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271f1"),
+	"availableSeats" : 76,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27263"),
+	"availableSeats" : 76,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272d4"),
+	"availableSeats" : 74,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27344"),
+	"availableSeats" : 74,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273b6"),
+	"availableSeats" : 74,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27427"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27499"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27506"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2757a"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275eb"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2765c"),
+	"availableSeats" : 81,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276cd"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2773e"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277af"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27820"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27891"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27902"),
+	"availableSeats" : 74,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27973"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279e4"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a55"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ac7"),
+	"availableSeats" : 73,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b37"),
+	"availableSeats" : 79,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ba7"),
+	"availableSeats" : 79,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c20"),
+	"availableSeats" : 79,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c8a"),
+	"availableSeats" : 79,
+	"capacity" : 127,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cfa"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d6c"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ddc"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e4e"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ebe"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f30"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fa0"),
+	"availableSeats" : 127,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2800f"),
+	"availableSeats" : 122,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28083"),
+	"availableSeats" : 119,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280f3"),
+	"availableSeats" : 117,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28164"),
+	"availableSeats" : 118,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281d4"),
+	"availableSeats" : 117,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28248"),
+	"availableSeats" : 117,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282b8"),
+	"availableSeats" : 117,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28329"),
+	"availableSeats" : 117,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2839a"),
+	"availableSeats" : 117,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28408"),
+	"availableSeats" : 117,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2847c"),
+	"availableSeats" : 117,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284ec"),
+	"availableSeats" : 117,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2855e"),
+	"availableSeats" : 117,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285cf"),
+	"availableSeats" : 117,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28640"),
+	"availableSeats" : 117,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286b1"),
+	"availableSeats" : 117,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28721"),
+	"availableSeats" : 115,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28793"),
+	"availableSeats" : 115,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28803"),
+	"availableSeats" : 115,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28874"),
+	"availableSeats" : 115,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288e6"),
+	"availableSeats" : 115,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28956"),
+	"availableSeats" : 115,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289c8"),
+	"availableSeats" : 115,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a38"),
+	"availableSeats" : 115,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aaa"),
+	"availableSeats" : 115,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b1b"),
+	"availableSeats" : 117,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b8c"),
+	"availableSeats" : 115,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bfe"),
+	"availableSeats" : 116,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c6e"),
+	"availableSeats" : 116,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cde"),
+	"availableSeats" : 116,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d51"),
+	"availableSeats" : 116,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dc1"),
+	"availableSeats" : 116,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e33"),
+	"availableSeats" : 116,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ea3"),
+	"availableSeats" : 116,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f12"),
+	"availableSeats" : 102,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f85"),
+	"availableSeats" : 94,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ff6"),
+	"availableSeats" : 91,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29067"),
+	"availableSeats" : 91,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290d8"),
+	"availableSeats" : 90,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29148"),
+	"availableSeats" : 88,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291ba"),
+	"availableSeats" : 85,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2922b"),
+	"availableSeats" : 84,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292a3"),
+	"availableSeats" : 85,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2930d"),
+	"availableSeats" : 82,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2937d"),
+	"availableSeats" : 79,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293f1"),
+	"availableSeats" : 68,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29464"),
+	"availableSeats" : 68,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294d0"),
+	"availableSeats" : 65,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29542"),
+	"availableSeats" : 63,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295b3"),
+	"availableSeats" : 66,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29624"),
+	"availableSeats" : 66,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29695"),
+	"availableSeats" : 64,
+	"capacity" : 195,
+	"code" : "GE1322",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Brain Machine Interface: Technology, Culture, and Society",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e96c"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9dd"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea4e"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eabe"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb32"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eba1"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec12"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec83"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecf4"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed64"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edd5"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee47"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eeb8"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef29"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef9f"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f00d"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f07e"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0ee"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f15c"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1d0"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f23f"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2b2"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f321"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f393"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f404"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f475"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4e6"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f558"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5ca"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f63a"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6a9"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f71b"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f78b"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7fd"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f86e"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8df"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f94e"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9c1"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa32"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1faa2"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb14"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb85"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbf6"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc67"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcd8"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd49"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdba"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe2d"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe9c"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff0d"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff7c"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffee"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20060"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200ce"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20142"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201b3"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20224"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20295"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20306"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20376"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203e8"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2045b"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204ca"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2053b"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205ac"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2061d"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2068f"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206ff"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2076f"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207e1"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20853"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208c2"),
+	"availableSeats" : 30,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20934"),
+	"availableSeats" : 30,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209a5"),
+	"availableSeats" : 30,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a16"),
+	"availableSeats" : 30,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a87"),
+	"availableSeats" : 30,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20af8"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b69"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bdb"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c4c"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cbc"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d2d"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d9d"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e0f"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e80"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ef0"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f60"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fd3"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21044"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210b5"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21126"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21197"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21208"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2127a"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212e9"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2135a"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213cc"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2143d"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214ae"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2151f"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21591"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21602"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21672"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216e3"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21754"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217c5"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2183f"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218a5"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21917"),
+	"availableSeats" : 23,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21989"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219fa"),
+	"availableSeats" : 17,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a6c"),
+	"availableSeats" : 15,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ada"),
+	"availableSeats" : 11,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b4e"),
+	"availableSeats" : 7,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bbf"),
+	"availableSeats" : 3,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c2f"),
+	"availableSeats" : 3,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ca0"),
+	"availableSeats" : 3,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d0f"),
+	"availableSeats" : 2,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d82"),
+	"availableSeats" : 2,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21df3"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e64"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ed4"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f44"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fb6"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22029"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22098"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2210b"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2217b"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221f1"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2225d"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222ce"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2233f"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223ae"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22421"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22492"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22501"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22574"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225e5"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22654"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226c7"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22738"),
+	"availableSeats" : 0,
+	"capacity" : 58,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227a9"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2281a"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2288a"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228fc"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2296d"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229dd"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a4f"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ac0"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b32"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ba2"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c10"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c84"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cf6"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d66"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dd5"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e47"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eb9"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f2a"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f9b"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2300b"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2307d"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230ee"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2315f"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231d0"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23241"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232b2"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23323"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23393"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23405"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23478"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234e4"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23558"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235c8"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2363a"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236ab"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2371c"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2378a"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237fe"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2386f"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238e1"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23950"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239c2"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a33"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23aa1"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b15"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b86"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bf7"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c68"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cd9"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d4a"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dbb"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e2b"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e9e"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f0e"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f82"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fef"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24061"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240d1"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24142"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241b4"),
+	"availableSeats" : 41,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2422c"),
+	"availableSeats" : 41,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24295"),
+	"availableSeats" : 41,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24305"),
+	"availableSeats" : 41,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24378"),
+	"availableSeats" : 41,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243e9"),
+	"availableSeats" : 25,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2445b"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244cd"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2453b"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245ae"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2461d"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2468f"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24701"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24771"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247e2"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24853"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248c4"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24935"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249a5"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a16"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a88"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24af8"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b6a"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bda"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c4d"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cbc"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d2e"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d9f"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e10"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e81"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ef4"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f63"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fd4"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25045"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250b6"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25128"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25197"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25208"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2527a"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252ec"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2535b"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253ce"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2543e"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254b2"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2551f"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25590"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25602"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25673"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256e4"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25754"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257c5"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25837"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258a8"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25919"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2598a"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259fc"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a6b"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ade"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b4e"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bbe"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c30"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ca1"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d12"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d83"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25df4"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e65"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ed7"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f47"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fb8"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26029"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26099"),
+	"availableSeats" : 23,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2610a"),
+	"availableSeats" : 23,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2617c"),
+	"availableSeats" : 23,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261ee"),
+	"availableSeats" : 23,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2625f"),
+	"availableSeats" : 23,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262cf"),
+	"availableSeats" : 13,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26340"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263b1"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26422"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26493"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26504"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26574"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265e5"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26657"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266c8"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2673b"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267aa"),
+	"availableSeats" : 1,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2681a"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2688c"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268fd"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2696d"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269df"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a4f"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ac1"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b32"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ba2"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c14"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c85"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cf6"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d65"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dd7"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e49"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ebb"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f2b"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f9b"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2700e"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2707e"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270ef"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27160"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271d1"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27242"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272b3"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27324"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27395"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27406"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27477"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274e8"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27559"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275c7"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2763a"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276ac"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2771d"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2778e"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277fe"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2786f"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278e1"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27950"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279c2"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a33"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27aa5"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b16"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b87"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bf7"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c69"),
+	"availableSeats" : 1,
+	"capacity" : 79,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cda"),
+	"availableSeats" : 1,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d4b"),
+	"availableSeats" : 1,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dbb"),
+	"availableSeats" : 1,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e2d"),
+	"availableSeats" : 1,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e9d"),
+	"availableSeats" : 1,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f0f"),
+	"availableSeats" : 1,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f80"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ff0"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28063"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280d3"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28145"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281b3"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28226"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28297"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28308"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2837a"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283ea"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2845b"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284cd"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2853d"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285ae"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28620"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2868e"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28701"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28771"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287e3"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28854"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288c5"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28936"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289a8"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a18"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a89"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28af9"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b6b"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bdc"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c4d"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cbd"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d2f"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28da0"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e11"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e82"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ef3"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f64"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fd5"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29047"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290b8"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29131"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29199"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2920a"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29288"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292eb"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2935d"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293ce"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2943f"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294b0"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29521"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29592"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29604"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29674"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE1223",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Public Health Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

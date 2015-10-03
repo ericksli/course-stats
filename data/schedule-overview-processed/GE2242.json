@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e981"),
+	"availableSeats" : 20,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9f2"),
+	"availableSeats" : 20,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea63"),
+	"availableSeats" : 20,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ead1"),
+	"availableSeats" : 21,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb46"),
+	"availableSeats" : 21,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebb6"),
+	"availableSeats" : 21,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec27"),
+	"availableSeats" : 21,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec98"),
+	"availableSeats" : 20,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed08"),
+	"availableSeats" : 20,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed7c"),
+	"availableSeats" : 20,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edeb"),
+	"availableSeats" : 20,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee5c"),
+	"availableSeats" : 18,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eecd"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef3e"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efaf"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f020"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f091"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f106"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f172"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1e2"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f255"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2c5"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f336"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3a7"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f419"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f48a"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4fa"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f569"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5dd"),
+	"availableSeats" : 17,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f64e"),
+	"availableSeats" : 16,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6bf"),
+	"availableSeats" : 16,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f72f"),
+	"availableSeats" : 16,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7a1"),
+	"availableSeats" : 16,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f812"),
+	"availableSeats" : 16,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f883"),
+	"availableSeats" : 16,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8f4"),
+	"availableSeats" : 16,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f966"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9d4"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa47"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fab9"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb29"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb9a"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc0a"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc7b"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcef"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd5d"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdcf"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe40"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1feb1"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff22"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff92"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20005"),
+	"availableSeats" : 21,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20074"),
+	"availableSeats" : 20,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200e6"),
+	"availableSeats" : 19,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20157"),
+	"availableSeats" : 19,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201c8"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20239"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202a9"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20319"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2038c"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203fd"),
+	"availableSeats" : 14,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2046e"),
+	"availableSeats" : 14,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204df"),
+	"availableSeats" : 14,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2054e"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205c1"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20631"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206a2"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20714"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20785"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207f6"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20867"),
+	"availableSeats" : 15,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208d7"),
+	"availableSeats" : 51,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20947"),
+	"availableSeats" : 51,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209b9"),
+	"availableSeats" : 51,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a2b"),
+	"availableSeats" : 51,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a9d"),
+	"availableSeats" : 51,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b0d"),
+	"availableSeats" : 50,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b7e"),
+	"availableSeats" : 48,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bee"),
+	"availableSeats" : 41,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c60"),
+	"availableSeats" : 40,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cd1"),
+	"availableSeats" : 39,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d42"),
+	"availableSeats" : 41,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20db3"),
+	"availableSeats" : 42,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e24"),
+	"availableSeats" : 42,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e95"),
+	"availableSeats" : 42,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f06"),
+	"availableSeats" : 42,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f77"),
+	"availableSeats" : 42,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fe8"),
+	"availableSeats" : 44,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21057"),
+	"availableSeats" : 42,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210ca"),
+	"availableSeats" : 42,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2113b"),
+	"availableSeats" : 41,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211ac"),
+	"availableSeats" : 41,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2121d"),
+	"availableSeats" : 41,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2128d"),
+	"availableSeats" : 41,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212ff"),
+	"availableSeats" : 41,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21370"),
+	"availableSeats" : 41,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213e1"),
+	"availableSeats" : 41,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21452"),
+	"availableSeats" : 41,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214c2"),
+	"availableSeats" : 42,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21534"),
+	"availableSeats" : 41,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215a5"),
+	"availableSeats" : 39,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21616"),
+	"availableSeats" : 39,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21687"),
+	"availableSeats" : 39,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216f5"),
+	"availableSeats" : 39,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21769"),
+	"availableSeats" : 39,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217da"),
+	"availableSeats" : 39,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2184b"),
+	"availableSeats" : 39,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218bc"),
+	"availableSeats" : 39,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2192d"),
+	"availableSeats" : 39,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2199e"),
+	"availableSeats" : 40,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a0e"),
+	"availableSeats" : 38,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a80"),
+	"availableSeats" : 38,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21af1"),
+	"availableSeats" : 38,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b61"),
+	"availableSeats" : 38,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bd3"),
+	"availableSeats" : 37,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c44"),
+	"availableSeats" : 37,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cb5"),
+	"availableSeats" : 37,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d26"),
+	"availableSeats" : 37,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d97"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e08"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e78"),
+	"availableSeats" : 39,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21eea"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f5b"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fcb"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2203c"),
+	"availableSeats" : 35,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220ad"),
+	"availableSeats" : 35,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2211f"),
+	"availableSeats" : 35,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2218f"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22201"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22272"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222e2"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22353"),
+	"availableSeats" : 41,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223c5"),
+	"availableSeats" : 41,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22436"),
+	"availableSeats" : 42,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224a7"),
+	"availableSeats" : 41,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22518"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22589"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225fa"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2266b"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226db"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2274d"),
+	"availableSeats" : 36,
+	"capacity" : 82,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227bf"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2282f"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228a0"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22911"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22982"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229f3"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a64"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ad3"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b46"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bb5"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c28"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c99"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d0a"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d7b"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dec"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e5a"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ece"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f3e"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fb0"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23021"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23092"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23103"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23174"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231e4"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23256"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232c7"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23338"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233aa"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23419"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2348a"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234fa"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2356e"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235dd"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2364f"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236c0"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23731"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237a1"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23813"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2388d"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238f5"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23966"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239d7"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a48"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ab9"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b2a"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b9a"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c0b"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c7d"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cec"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d5f"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dd0"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e41"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23eb1"),
+	"availableSeats" : 33,
+	"capacity" : 45,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f23"),
+	"availableSeats" : 64,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f93"),
+	"availableSeats" : 64,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24005"),
+	"availableSeats" : 64,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24076"),
+	"availableSeats" : 64,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240e7"),
+	"availableSeats" : 64,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24158"),
+	"availableSeats" : 64,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241c9"),
+	"availableSeats" : 116,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2423a"),
+	"availableSeats" : 116,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242ab"),
+	"availableSeats" : 116,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2431c"),
+	"availableSeats" : 116,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2438b"),
+	"availableSeats" : 116,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243fe"),
+	"availableSeats" : 115,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2446e"),
+	"availableSeats" : 110,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244dd"),
+	"availableSeats" : 108,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24552"),
+	"availableSeats" : 108,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245c2"),
+	"availableSeats" : 107,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24633"),
+	"availableSeats" : 106,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246a2"),
+	"availableSeats" : 106,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24716"),
+	"availableSeats" : 106,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24786"),
+	"availableSeats" : 106,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247f7"),
+	"availableSeats" : 106,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24867"),
+	"availableSeats" : 106,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248d9"),
+	"availableSeats" : 108,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24949"),
+	"availableSeats" : 106,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249bb"),
+	"availableSeats" : 105,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a2b"),
+	"availableSeats" : 105,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a9c"),
+	"availableSeats" : 105,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b0f"),
+	"availableSeats" : 105,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b7f"),
+	"availableSeats" : 105,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bf1"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c61"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cd2"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d44"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24db3"),
+	"availableSeats" : 109,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e26"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e96"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f07"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f78"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fe9"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25058"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250cb"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2513c"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251ad"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2521e"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2528f"),
+	"availableSeats" : 109,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252fd"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25371"),
+	"availableSeats" : 104,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253e2"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25453"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254c4"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25535"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255a6"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25617"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25689"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256f9"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2576a"),
+	"availableSeats" : 107,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257dc"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2584c"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258be"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2592e"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2599e"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a10"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a81"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25af2"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b63"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bd4"),
+	"availableSeats" : 108,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c46"),
+	"availableSeats" : 108,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cb5"),
+	"availableSeats" : 108,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d26"),
+	"availableSeats" : 108,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d97"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e08"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e79"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25eec"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f5c"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fcc"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2603e"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260af"),
+	"availableSeats" : 69,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26121"),
+	"availableSeats" : 69,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26191"),
+	"availableSeats" : 69,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26202"),
+	"availableSeats" : 69,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26273"),
+	"availableSeats" : 69,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262e4"),
+	"availableSeats" : 69,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26354"),
+	"availableSeats" : 68,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263c6"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26437"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264a8"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26519"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2658a"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265fd"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2666c"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266dd"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2674d"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267bf"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26830"),
+	"availableSeats" : 68,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268a0"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26911"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26983"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269f4"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a65"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ad5"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b48"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bb8"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c29"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c9a"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d0b"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d7c"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dea"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e5b"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ecf"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f40"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fb1"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27022"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27093"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27104"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27175"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271e6"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27256"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272c8"),
+	"availableSeats" : 66,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27339"),
+	"availableSeats" : 66,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273a9"),
+	"availableSeats" : 66,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2741a"),
+	"availableSeats" : 66,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2748b"),
+	"availableSeats" : 66,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274fc"),
+	"availableSeats" : 66,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2756e"),
+	"availableSeats" : 66,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275e0"),
+	"availableSeats" : 66,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27650"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276c1"),
+	"availableSeats" : 66,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27732"),
+	"availableSeats" : 65,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277a3"),
+	"availableSeats" : 66,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27814"),
+	"availableSeats" : 66,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27886"),
+	"availableSeats" : 65,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278f6"),
+	"availableSeats" : 65,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27967"),
+	"availableSeats" : 64,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279db"),
+	"availableSeats" : 64,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a49"),
+	"availableSeats" : 64,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27abc"),
+	"availableSeats" : 64,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b2b"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b9c"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c0c"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c84"),
+	"availableSeats" : 67,
+	"capacity" : 109,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cee"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d60"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dde"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e42"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27eb4"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f22"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f95"),
+	"availableSeats" : 103,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28006"),
+	"availableSeats" : 99,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28077"),
+	"availableSeats" : 98,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280e5"),
+	"availableSeats" : 98,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28157"),
+	"availableSeats" : 97,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281ca"),
+	"availableSeats" : 96,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2823b"),
+	"availableSeats" : 96,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282ab"),
+	"availableSeats" : 96,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2831d"),
+	"availableSeats" : 96,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28390"),
+	"availableSeats" : 96,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283fe"),
+	"availableSeats" : 96,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28470"),
+	"availableSeats" : 96,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284e0"),
+	"availableSeats" : 96,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28552"),
+	"availableSeats" : 96,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285c1"),
+	"availableSeats" : 96,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28634"),
+	"availableSeats" : 95,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286a5"),
+	"availableSeats" : 95,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28716"),
+	"availableSeats" : 93,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2878d"),
+	"availableSeats" : 92,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287f7"),
+	"availableSeats" : 92,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28869"),
+	"availableSeats" : 92,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288d9"),
+	"availableSeats" : 92,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2894b"),
+	"availableSeats" : 92,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289bc"),
+	"availableSeats" : 92,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a2d"),
+	"availableSeats" : 93,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a9c"),
+	"availableSeats" : 93,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b0f"),
+	"availableSeats" : 96,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b7f"),
+	"availableSeats" : 93,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bf1"),
+	"availableSeats" : 96,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c62"),
+	"availableSeats" : 95,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cd3"),
+	"availableSeats" : 93,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d44"),
+	"availableSeats" : 93,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28db5"),
+	"availableSeats" : 93,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e24"),
+	"availableSeats" : 93,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e97"),
+	"availableSeats" : 93,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f08"),
+	"availableSeats" : 90,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f79"),
+	"availableSeats" : 88,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fea"),
+	"availableSeats" : 87,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2905a"),
+	"availableSeats" : 81,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290cc"),
+	"availableSeats" : 82,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2913d"),
+	"availableSeats" : 75,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291ae"),
+	"availableSeats" : 72,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2921f"),
+	"availableSeats" : 71,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29290"),
+	"availableSeats" : 72,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292ff"),
+	"availableSeats" : 72,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29372"),
+	"availableSeats" : 68,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293e3"),
+	"availableSeats" : 62,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29454"),
+	"availableSeats" : 59,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294c5"),
+	"availableSeats" : 56,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29536"),
+	"availableSeats" : 52,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295a6"),
+	"availableSeats" : 53,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29618"),
+	"availableSeats" : 53,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29687"),
+	"availableSeats" : 51,
+	"capacity" : 160,
+	"code" : "GE2242",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"B"
+	],
+	"title" : "Conducting Online Commerce in China",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

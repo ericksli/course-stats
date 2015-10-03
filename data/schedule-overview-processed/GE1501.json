@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e945"),
+	"availableSeats" : 84,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9b7"),
+	"availableSeats" : 84,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea27"),
+	"availableSeats" : 82,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea98"),
+	"availableSeats" : 81,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb09"),
+	"availableSeats" : 79,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb7a"),
+	"availableSeats" : 79,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebeb"),
+	"availableSeats" : 77,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec5c"),
+	"availableSeats" : 75,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eccd"),
+	"availableSeats" : 75,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed3e"),
+	"availableSeats" : 75,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edae"),
+	"availableSeats" : 74,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee20"),
+	"availableSeats" : 72,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee91"),
+	"availableSeats" : 72,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef02"),
+	"availableSeats" : 72,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef72"),
+	"availableSeats" : 70,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efe4"),
+	"availableSeats" : 70,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f055"),
+	"availableSeats" : 70,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0c6"),
+	"availableSeats" : 69,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f137"),
+	"availableSeats" : 69,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1a8"),
+	"availableSeats" : 69,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f218"),
+	"availableSeats" : 69,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f28f"),
+	"availableSeats" : 68,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2fb"),
+	"availableSeats" : 67,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f36a"),
+	"availableSeats" : 67,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3dc"),
+	"availableSeats" : 67,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f44e"),
+	"availableSeats" : 67,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4bf"),
+	"availableSeats" : 67,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f530"),
+	"availableSeats" : 67,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5a1"),
+	"availableSeats" : 67,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f612"),
+	"availableSeats" : 67,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f683"),
+	"availableSeats" : 67,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6f7"),
+	"availableSeats" : 67,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f765"),
+	"availableSeats" : 67,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7d6"),
+	"availableSeats" : 67,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f847"),
+	"availableSeats" : 67,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8bb"),
+	"availableSeats" : 67,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f92a"),
+	"availableSeats" : 66,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f99a"),
+	"availableSeats" : 66,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa0a"),
+	"availableSeats" : 66,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa7c"),
+	"availableSeats" : 66,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1faec"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb5e"),
+	"availableSeats" : 66,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbcf"),
+	"availableSeats" : 66,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc40"),
+	"availableSeats" : 66,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcb1"),
+	"availableSeats" : 65,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd21"),
+	"availableSeats" : 64,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd92"),
+	"availableSeats" : 64,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe03"),
+	"availableSeats" : 63,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe75"),
+	"availableSeats" : 63,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fee5"),
+	"availableSeats" : 63,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff56"),
+	"availableSeats" : 63,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffc8"),
+	"availableSeats" : 94,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20039"),
+	"availableSeats" : 90,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200aa"),
+	"availableSeats" : 87,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2011b"),
+	"availableSeats" : 85,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2018c"),
+	"availableSeats" : 61,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201fc"),
+	"availableSeats" : 61,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2026e"),
+	"availableSeats" : 59,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202df"),
+	"availableSeats" : 59,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20355"),
+	"availableSeats" : 58,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203c1"),
+	"availableSeats" : 58,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20433"),
+	"availableSeats" : 58,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204a3"),
+	"availableSeats" : 58,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20514"),
+	"availableSeats" : 61,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20585"),
+	"availableSeats" : 60,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205f6"),
+	"availableSeats" : 60,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20667"),
+	"availableSeats" : 60,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206d8"),
+	"availableSeats" : 60,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2074a"),
+	"availableSeats" : 60,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207ba"),
+	"availableSeats" : 58,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2082b"),
+	"availableSeats" : 58,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2089d"),
+	"availableSeats" : 282,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2090d"),
+	"availableSeats" : 282,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20980"),
+	"availableSeats" : 282,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209ef"),
+	"availableSeats" : 282,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a62"),
+	"availableSeats" : 282,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ad2"),
+	"availableSeats" : 241,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b42"),
+	"availableSeats" : 140,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bb3"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c23"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c93"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d07"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d76"),
+	"availableSeats" : 2,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20de8"),
+	"availableSeats" : 3,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e59"),
+	"availableSeats" : 2,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20eca"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f3b"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fac"),
+	"availableSeats" : 99,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2101d"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21095"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210ff"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21170"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211e1"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21251"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212c3"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21334"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213a5"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21416"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21487"),
+	"availableSeats" : 74,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214fa"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21569"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215dd"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2164b"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216bc"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2172d"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2179e"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2180f"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21880"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218f1"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21961"),
+	"availableSeats" : 52,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219d2"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a45"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ab5"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b27"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b97"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c08"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c79"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cea"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d5b"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dcb"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e3d"),
+	"availableSeats" : 38,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21eae"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f1e"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f90"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22001"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22072"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220e3"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22154"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221c5"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22234"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222a7"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22318"),
+	"availableSeats" : 29,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22389"),
+	"availableSeats" : 20,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223fa"),
+	"availableSeats" : 11,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2246c"),
+	"availableSeats" : 6,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224dc"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2254e"),
+	"availableSeats" : 0,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225be"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2262f"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226a0"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22710"),
+	"availableSeats" : 1,
+	"capacity" : 487,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22782"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227f2"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22863"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228d5"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22946"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229b7"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a28"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a9a"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b09"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b7b"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bec"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c5d"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ccc"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d40"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22db0"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e21"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e93"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f03"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f75"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fe5"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23056"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230c7"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23138"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231a9"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2321a"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2328b"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232fc"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2336d"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233de"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2344f"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234bf"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23530"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235a3"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23612"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23684"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236f5"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23766"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237d7"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23849"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238b7"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2392a"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2399f"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a0c"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a7d"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23aee"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b5f"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bd0"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c40"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cb2"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d23"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d95"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e05"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e76"),
+	"availableSeats" : 221,
+	"capacity" : 257,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ee7"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f58"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fc9"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2403c"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240ab"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2411c"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2418d"),
+	"availableSeats" : 233,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241fe"),
+	"availableSeats" : 233,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2426f"),
+	"availableSeats" : 233,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242e0"),
+	"availableSeats" : 233,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24351"),
+	"availableSeats" : 233,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243c3"),
+	"availableSeats" : 220,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24433"),
+	"availableSeats" : 150,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244a4"),
+	"availableSeats" : 98,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24515"),
+	"availableSeats" : 96,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24585"),
+	"availableSeats" : 94,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245f6"),
+	"availableSeats" : 95,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24668"),
+	"availableSeats" : 91,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246d8"),
+	"availableSeats" : 89,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2474a"),
+	"availableSeats" : 85,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247bb"),
+	"availableSeats" : 84,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2482c"),
+	"availableSeats" : 85,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2489d"),
+	"availableSeats" : 141,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2490e"),
+	"availableSeats" : 82,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24982"),
+	"availableSeats" : 82,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249ef"),
+	"availableSeats" : 82,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a61"),
+	"availableSeats" : 80,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ad2"),
+	"availableSeats" : 80,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b43"),
+	"availableSeats" : 80,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bb4"),
+	"availableSeats" : 80,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c25"),
+	"availableSeats" : 80,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c96"),
+	"availableSeats" : 78,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d07"),
+	"availableSeats" : 77,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d78"),
+	"availableSeats" : 131,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24de8"),
+	"availableSeats" : 77,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e5a"),
+	"availableSeats" : 73,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ecb"),
+	"availableSeats" : 73,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f41"),
+	"availableSeats" : 71,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fad"),
+	"availableSeats" : 71,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2501e"),
+	"availableSeats" : 71,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2508f"),
+	"availableSeats" : 71,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250ff"),
+	"availableSeats" : 71,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25173"),
+	"availableSeats" : 69,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251e2"),
+	"availableSeats" : 69,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25254"),
+	"availableSeats" : 123,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252c3"),
+	"availableSeats" : 69,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25335"),
+	"availableSeats" : 68,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253a5"),
+	"availableSeats" : 68,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25418"),
+	"availableSeats" : 68,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25489"),
+	"availableSeats" : 68,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254f9"),
+	"availableSeats" : 68,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2556a"),
+	"availableSeats" : 67,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255db"),
+	"availableSeats" : 67,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2564c"),
+	"availableSeats" : 67,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256bd"),
+	"availableSeats" : 67,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2572e"),
+	"availableSeats" : 116,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2579f"),
+	"availableSeats" : 67,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25810"),
+	"availableSeats" : 66,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25881"),
+	"availableSeats" : 64,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258f2"),
+	"availableSeats" : 63,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25963"),
+	"availableSeats" : 63,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259d4"),
+	"availableSeats" : 62,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a45"),
+	"availableSeats" : 61,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ab6"),
+	"availableSeats" : 61,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b27"),
+	"availableSeats" : 61,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b98"),
+	"availableSeats" : 114,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c09"),
+	"availableSeats" : 110,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c7a"),
+	"availableSeats" : 106,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ceb"),
+	"availableSeats" : 102,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d60"),
+	"availableSeats" : 61,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dcd"),
+	"availableSeats" : 61,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e3f"),
+	"availableSeats" : 60,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25eaf"),
+	"availableSeats" : 60,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f21"),
+	"availableSeats" : 60,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f91"),
+	"availableSeats" : 58,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26002"),
+	"availableSeats" : 58,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26073"),
+	"availableSeats" : 231,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260e4"),
+	"availableSeats" : 231,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26156"),
+	"availableSeats" : 231,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261c6"),
+	"availableSeats" : 231,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26238"),
+	"availableSeats" : 231,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262a8"),
+	"availableSeats" : 163,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26319"),
+	"availableSeats" : 46,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2638b"),
+	"availableSeats" : 3,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a263fb"),
+	"availableSeats" : 2,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2646b"),
+	"availableSeats" : 2,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264dd"),
+	"availableSeats" : 1,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2654d"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265bf"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26631"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266a0"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26712"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26783"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267f5"),
+	"availableSeats" : 20,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26864"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268d6"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26947"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269b7"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a28"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a9b"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b0a"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b7a"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bed"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c5e"),
+	"availableSeats" : 8,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ccf"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d41"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26daf"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e22"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e93"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f04"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f75"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fe5"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27056"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270c8"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27139"),
+	"availableSeats" : 4,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271aa"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2721b"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2728b"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272fd"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2736d"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273df"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27450"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274c1"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27532"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275a3"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27613"),
+	"availableSeats" : 3,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27684"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276f6"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27767"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277d7"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27849"),
+	"availableSeats" : 1,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278b9"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2792b"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2799c"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a0d"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a7e"),
+	"availableSeats" : 0,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27aef"),
+	"availableSeats" : 3,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b5f"),
+	"availableSeats" : 3,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bd1"),
+	"availableSeats" : 3,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c42"),
+	"availableSeats" : 3,
+	"capacity" : 717,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cb2"),
+	"availableSeats" : 54,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d24"),
+	"availableSeats" : 54,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d9c"),
+	"availableSeats" : 54,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e08"),
+	"availableSeats" : 54,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e77"),
+	"availableSeats" : 54,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ee8"),
+	"availableSeats" : 54,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f58"),
+	"availableSeats" : 47,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fcb"),
+	"availableSeats" : 33,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2803b"),
+	"availableSeats" : 29,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280ac"),
+	"availableSeats" : 17,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2811d"),
+	"availableSeats" : 15,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2818e"),
+	"availableSeats" : 17,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281ff"),
+	"availableSeats" : 10,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28270"),
+	"availableSeats" : 8,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282e0"),
+	"availableSeats" : 4,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28355"),
+	"availableSeats" : 2,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283c3"),
+	"availableSeats" : 2,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28434"),
+	"availableSeats" : 2,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284a5"),
+	"availableSeats" : 3,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28516"),
+	"availableSeats" : 3,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28587"),
+	"availableSeats" : 3,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a285f7"),
+	"availableSeats" : 3,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28669"),
+	"availableSeats" : 3,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286da"),
+	"availableSeats" : 7,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2874b"),
+	"availableSeats" : 7,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287bc"),
+	"availableSeats" : 7,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2882d"),
+	"availableSeats" : 7,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2889e"),
+	"availableSeats" : 7,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2890f"),
+	"availableSeats" : 7,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28980"),
+	"availableSeats" : 7,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289f1"),
+	"availableSeats" : 7,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a63"),
+	"availableSeats" : 7,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ad3"),
+	"availableSeats" : 4,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b43"),
+	"availableSeats" : 7,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bb5"),
+	"availableSeats" : 5,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c27"),
+	"availableSeats" : 5,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c97"),
+	"availableSeats" : 6,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d08"),
+	"availableSeats" : 6,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d79"),
+	"availableSeats" : 7,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dea"),
+	"availableSeats" : 7,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e5b"),
+	"availableSeats" : 7,
+	"capacity" : 950,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ecc"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f3d"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fae"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2901e"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29091"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29101"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29172"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291e3"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29254"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292c5"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29336"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293a6"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29417"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29489"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294fb"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2956a"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295dd"),
+	"availableSeats" : 0,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2964d"),
+	"availableSeats" : 1,
+	"capacity" : 954,
+	"code" : "GE1501",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Civilisation - History and Philosophy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

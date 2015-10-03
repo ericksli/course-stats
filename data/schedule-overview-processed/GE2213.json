@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e977"),
+	"availableSeats" : 42,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9e8"),
+	"availableSeats" : 42,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea5b"),
+	"availableSeats" : 42,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eac8"),
+	"availableSeats" : 42,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb3c"),
+	"availableSeats" : 42,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebac"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec1c"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec8e"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecff"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed71"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ede1"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee52"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eec3"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef34"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efa5"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f015"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f087"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0f7"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f169"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1da"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f24a"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2bc"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f32d"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f39e"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f413"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f480"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4f1"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f560"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5d3"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f649"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6b4"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f723"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f797"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f807"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f878"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8ea"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f95e"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9cb"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa3c"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1faaf"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb1f"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb8e"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc00"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc72"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fce4"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd54"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdc5"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe36"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fea6"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff18"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff89"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fffa"),
+	"availableSeats" : 42,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2006a"),
+	"availableSeats" : 42,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200db"),
+	"availableSeats" : 42,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2014d"),
+	"availableSeats" : 42,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201be"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2022e"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202a0"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20310"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20382"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203f3"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20464"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204d5"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20546"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205b7"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20628"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20698"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2070a"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2077b"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207ec"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2085c"),
+	"availableSeats" : 44,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208cc"),
+	"availableSeats" : 102,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2093f"),
+	"availableSeats" : 102,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209b0"),
+	"availableSeats" : 102,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a21"),
+	"availableSeats" : 102,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a92"),
+	"availableSeats" : 102,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b03"),
+	"availableSeats" : 102,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b75"),
+	"availableSeats" : 100,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20be5"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c57"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cc7"),
+	"availableSeats" : 90,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d36"),
+	"availableSeats" : 90,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20da9"),
+	"availableSeats" : 90,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e1a"),
+	"availableSeats" : 90,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e8b"),
+	"availableSeats" : 90,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20efb"),
+	"availableSeats" : 90,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f6d"),
+	"availableSeats" : 90,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fdd"),
+	"availableSeats" : 96,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21051"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210c0"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21131"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211a2"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21213"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21284"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212f5"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21366"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213d6"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21448"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214b9"),
+	"availableSeats" : 94,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21529"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2159b"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2160e"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2167d"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216ee"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2175f"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217d0"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21841"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218b1"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21923"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21994"),
+	"availableSeats" : 91,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a05"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a75"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ae8"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b58"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bc8"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c3a"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cab"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d1d"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d8d"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dfe"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e70"),
+	"availableSeats" : 90,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ee1"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f51"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fc2"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22040"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220a4"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22116"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22185"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221f7"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22267"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222d8"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22351"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223bb"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2242c"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2249d"),
+	"availableSeats" : 89,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2250f"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2257f"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225f0"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22661"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226d1"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22743"),
+	"availableSeats" : 88,
+	"capacity" : 114,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227b5"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22824"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22895"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22907"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22978"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229e9"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a5a"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22acb"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b3c"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bad"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c1b"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c8f"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d00"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d71"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22de4"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e53"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ec4"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f36"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fa6"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23018"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23088"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230f8"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2316a"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231db"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2324c"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232bd"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2332e"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2339f"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2340f"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23480"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234f2"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23563"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235d4"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23645"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236b6"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23727"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23798"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23809"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2387a"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238ed"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2395b"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239ca"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a3e"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23aaf"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b20"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b90"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c02"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c73"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ce5"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d5d"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dc8"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e37"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ea8"),
+	"availableSeats" : 54,
+	"capacity" : 56,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f19"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f89"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ffe"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2406b"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240dd"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2414e"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241bf"),
+	"availableSeats" : 201,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24230"),
+	"availableSeats" : 201,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242a1"),
+	"availableSeats" : 201,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24312"),
+	"availableSeats" : 201,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24390"),
+	"availableSeats" : 201,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243f4"),
+	"availableSeats" : 194,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24465"),
+	"availableSeats" : 184,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244d6"),
+	"availableSeats" : 171,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24547"),
+	"availableSeats" : 171,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245b7"),
+	"availableSeats" : 171,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24628"),
+	"availableSeats" : 172,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2469a"),
+	"availableSeats" : 171,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2470b"),
+	"availableSeats" : 172,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2477c"),
+	"availableSeats" : 172,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247ec"),
+	"availableSeats" : 171,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2485e"),
+	"availableSeats" : 170,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248cf"),
+	"availableSeats" : 176,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24941"),
+	"availableSeats" : 170,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249af"),
+	"availableSeats" : 170,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a22"),
+	"availableSeats" : 170,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a92"),
+	"availableSeats" : 170,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b04"),
+	"availableSeats" : 170,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b75"),
+	"availableSeats" : 170,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24be5"),
+	"availableSeats" : 170,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c57"),
+	"availableSeats" : 170,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cc8"),
+	"availableSeats" : 171,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d39"),
+	"availableSeats" : 171,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24daa"),
+	"availableSeats" : 175,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e1a"),
+	"availableSeats" : 170,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e8b"),
+	"availableSeats" : 170,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24efa"),
+	"availableSeats" : 170,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f6e"),
+	"availableSeats" : 169,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fdf"),
+	"availableSeats" : 169,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25050"),
+	"availableSeats" : 169,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250c1"),
+	"availableSeats" : 169,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25131"),
+	"availableSeats" : 170,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251a3"),
+	"availableSeats" : 169,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25214"),
+	"availableSeats" : 169,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25285"),
+	"availableSeats" : 175,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252ff"),
+	"availableSeats" : 168,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25367"),
+	"availableSeats" : 168,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253d8"),
+	"availableSeats" : 168,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2544a"),
+	"availableSeats" : 168,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254bb"),
+	"availableSeats" : 168,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2552b"),
+	"availableSeats" : 168,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2559c"),
+	"availableSeats" : 167,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2560d"),
+	"availableSeats" : 166,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2567e"),
+	"availableSeats" : 167,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256ef"),
+	"availableSeats" : 166,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2575f"),
+	"availableSeats" : 171,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257d0"),
+	"availableSeats" : 166,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25842"),
+	"availableSeats" : 166,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258b2"),
+	"availableSeats" : 166,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25924"),
+	"availableSeats" : 166,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25995"),
+	"availableSeats" : 166,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a04"),
+	"availableSeats" : 166,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a77"),
+	"availableSeats" : 166,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ae8"),
+	"availableSeats" : 167,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b59"),
+	"availableSeats" : 167,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bc9"),
+	"availableSeats" : 171,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c3b"),
+	"availableSeats" : 170,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cae"),
+	"availableSeats" : 171,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d1d"),
+	"availableSeats" : 171,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d8c"),
+	"availableSeats" : 167,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e00"),
+	"availableSeats" : 167,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e70"),
+	"availableSeats" : 166,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ee1"),
+	"availableSeats" : 165,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f52"),
+	"availableSeats" : 165,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fc4"),
+	"availableSeats" : 165,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26032"),
+	"availableSeats" : 165,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260a4"),
+	"availableSeats" : 132,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26117"),
+	"availableSeats" : 132,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26188"),
+	"availableSeats" : 132,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261f8"),
+	"availableSeats" : 132,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26269"),
+	"availableSeats" : 132,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262da"),
+	"availableSeats" : 128,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2634b"),
+	"availableSeats" : 120,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263bb"),
+	"availableSeats" : 117,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2642d"),
+	"availableSeats" : 117,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2649e"),
+	"availableSeats" : 117,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2650f"),
+	"availableSeats" : 117,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26580"),
+	"availableSeats" : 117,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265ef"),
+	"availableSeats" : 117,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26662"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266d3"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26744"),
+	"availableSeats" : 114,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267b5"),
+	"availableSeats" : 114,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26826"),
+	"availableSeats" : 120,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26896"),
+	"availableSeats" : 114,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26907"),
+	"availableSeats" : 114,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26978"),
+	"availableSeats" : 114,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269e9"),
+	"availableSeats" : 114,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a5c"),
+	"availableSeats" : 114,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26acc"),
+	"availableSeats" : 115,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b3d"),
+	"availableSeats" : 115,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bae"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c1e"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c90"),
+	"availableSeats" : 120,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d03"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d72"),
+	"availableSeats" : 115,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26de3"),
+	"availableSeats" : 115,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e54"),
+	"availableSeats" : 115,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ec5"),
+	"availableSeats" : 115,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f36"),
+	"availableSeats" : 115,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fa7"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27018"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27089"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270fa"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2716b"),
+	"availableSeats" : 120,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271dc"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2724d"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272be"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2732f"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273a0"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27410"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27482"),
+	"availableSeats" : 115,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274f3"),
+	"availableSeats" : 115,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27564"),
+	"availableSeats" : 115,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275d4"),
+	"availableSeats" : 115,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27646"),
+	"availableSeats" : 120,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276b7"),
+	"availableSeats" : 115,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27728"),
+	"availableSeats" : 115,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27798"),
+	"availableSeats" : 115,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27809"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2787b"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278ec"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2795c"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279cd"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a3e"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ab0"),
+	"availableSeats" : 116,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b21"),
+	"availableSeats" : 120,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b91"),
+	"availableSeats" : 119,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c03"),
+	"availableSeats" : 117,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c74"),
+	"availableSeats" : 117,
+	"capacity" : 156,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ce5"),
+	"availableSeats" : 169,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d55"),
+	"availableSeats" : 169,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dc8"),
+	"availableSeats" : 169,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e38"),
+	"availableSeats" : 169,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ea9"),
+	"availableSeats" : 169,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f1a"),
+	"availableSeats" : 169,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f8b"),
+	"availableSeats" : 168,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ffb"),
+	"availableSeats" : 164,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2806d"),
+	"availableSeats" : 165,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280de"),
+	"availableSeats" : 164,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2814f"),
+	"availableSeats" : 163,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281c0"),
+	"availableSeats" : 162,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28231"),
+	"availableSeats" : 162,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282a1"),
+	"availableSeats" : 160,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28313"),
+	"availableSeats" : 159,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28384"),
+	"availableSeats" : 160,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283f5"),
+	"availableSeats" : 160,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28466"),
+	"availableSeats" : 160,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284d7"),
+	"availableSeats" : 160,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28547"),
+	"availableSeats" : 160,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285b9"),
+	"availableSeats" : 160,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2862a"),
+	"availableSeats" : 159,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2869b"),
+	"availableSeats" : 159,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2870c"),
+	"availableSeats" : 159,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2877d"),
+	"availableSeats" : 159,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287ee"),
+	"availableSeats" : 158,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2885e"),
+	"availableSeats" : 158,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288d0"),
+	"availableSeats" : 158,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28941"),
+	"availableSeats" : 158,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289b2"),
+	"availableSeats" : 157,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a24"),
+	"availableSeats" : 157,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a95"),
+	"availableSeats" : 157,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b06"),
+	"availableSeats" : 159,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b76"),
+	"availableSeats" : 157,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28be7"),
+	"availableSeats" : 159,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c59"),
+	"availableSeats" : 159,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cc9"),
+	"availableSeats" : 159,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d3a"),
+	"availableSeats" : 159,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28daa"),
+	"availableSeats" : 159,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e1b"),
+	"availableSeats" : 159,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e8b"),
+	"availableSeats" : 159,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28efe"),
+	"availableSeats" : 140,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f6f"),
+	"availableSeats" : 138,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fe1"),
+	"availableSeats" : 134,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2905b"),
+	"availableSeats" : 127,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290c2"),
+	"availableSeats" : 123,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29133"),
+	"availableSeats" : 122,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291ac"),
+	"availableSeats" : 123,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29215"),
+	"availableSeats" : 124,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29284"),
+	"availableSeats" : 123,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29305"),
+	"availableSeats" : 120,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29368"),
+	"availableSeats" : 117,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293da"),
+	"availableSeats" : 114,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2944a"),
+	"availableSeats" : 113,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294bb"),
+	"availableSeats" : 108,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2952c"),
+	"availableSeats" : 103,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2959d"),
+	"availableSeats" : 105,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2960d"),
+	"availableSeats" : 106,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2967e"),
+	"availableSeats" : 107,
+	"capacity" : 240,
+	"code" : "GE2213",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Understanding Uncertainty and Statistical Reasoning",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

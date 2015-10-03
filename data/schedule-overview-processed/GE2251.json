@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e989"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9f5"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea6a"),
+	"availableSeats" : 11,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ead8"),
+	"availableSeats" : 11,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb49"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebb9"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec2b"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec9c"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed0e"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed7e"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edee"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee60"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eed4"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef42"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efb3"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f026"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f095"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f104"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f178"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1e8"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f259"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2c9"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f33b"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3ac"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f41d"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f48e"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4fe"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f56f"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5e1"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f652"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6c3"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f734"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7a5"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f815"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f887"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8f8"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f96a"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9d8"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa4b"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fabc"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb30"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb9e"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc0e"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc81"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcf1"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd62"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdd4"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe43"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1feb6"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff26"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff96"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20008"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20079"),
+	"availableSeats" : 11,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200ea"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2015b"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201cb"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2023b"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202af"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2031c"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20390"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20401"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20472"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204e3"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20553"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205c5"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20635"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206a7"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20718"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20789"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207f9"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2086b"),
+	"availableSeats" : 12,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208dc"),
+	"availableSeats" : 33,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2094c"),
+	"availableSeats" : 33,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209be"),
+	"availableSeats" : 33,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a2f"),
+	"availableSeats" : 33,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20aa1"),
+	"availableSeats" : 33,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b11"),
+	"availableSeats" : 32,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b83"),
+	"availableSeats" : 28,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bf3"),
+	"availableSeats" : 21,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c64"),
+	"availableSeats" : 22,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cd6"),
+	"availableSeats" : 22,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d46"),
+	"availableSeats" : 23,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20db7"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e28"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e98"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f0a"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f7b"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20feb"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2105b"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210ce"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2113f"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211b0"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21221"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21292"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21303"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21374"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213e5"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21456"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214c7"),
+	"availableSeats" : 22,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21539"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215a9"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2161a"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2168c"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216fb"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2176c"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217de"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2184e"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218c1"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21931"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219a2"),
+	"availableSeats" : 21,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a12"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a86"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21af5"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b67"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bd5"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c48"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cb9"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d2b"),
+	"availableSeats" : 24,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d9b"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e0b"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e83"),
+	"availableSeats" : 21,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21eee"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f5f"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fd0"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22041"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220b2"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22122"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221a1"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22205"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22277"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222e6"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22357"),
+	"availableSeats" : 21,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223c9"),
+	"availableSeats" : 21,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22439"),
+	"availableSeats" : 22,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224ab"),
+	"availableSeats" : 21,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2251d"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2258b"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225fe"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2266e"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226df"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22751"),
+	"availableSeats" : 25,
+	"capacity" : 42,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227cc"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22832"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228b2"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22915"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22987"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229f5"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a68"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ad7"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b4a"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bb8"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c2c"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c9c"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d0e"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d7f"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22df0"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e61"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ed3"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f42"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fb4"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23025"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23096"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23107"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23178"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231e9"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2325a"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232cb"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2333d"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233ad"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2341e"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2348f"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23500"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23571"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235ed"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23653"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236c5"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23734"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237a5"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23817"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23885"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238f9"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23969"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239db"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a4c"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23abd"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b2e"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b9d"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c0f"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c81"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cef"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d63"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dd4"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e46"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23eb6"),
+	"availableSeats" : 20,
+	"capacity" : 20,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f27"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f9a"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24009"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2407a"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240eb"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2415d"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241cd"),
+	"availableSeats" : 71,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2423d"),
+	"availableSeats" : 71,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242ae"),
+	"availableSeats" : 71,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24320"),
+	"availableSeats" : 71,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24391"),
+	"availableSeats" : 71,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24402"),
+	"availableSeats" : 70,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24473"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244e3"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24555"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245c8"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24636"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246a6"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24719"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24789"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247fb"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2486c"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248dd"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2494f"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249bf"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a30"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24aa0"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b13"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b85"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bf5"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c66"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cd7"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d46"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24db8"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e29"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e9a"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f0b"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f7b"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fed"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2505d"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250d3"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25140"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251b2"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25222"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25294"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25304"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25375"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253e6"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25456"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254c8"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25538"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255ab"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2561b"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2568c"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256fa"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2576d"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257e0"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25850"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258bf"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25932"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259a3"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a14"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a84"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25af6"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b67"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bd8"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c49"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cba"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d2b"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d9c"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e0c"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e7c"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25eef"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f60"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fcf"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26046"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260b3"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26125"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26195"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2620c"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26277"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262e8"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26358"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263c8"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2643c"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264ac"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2651d"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2658e"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265fe"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26670"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266e1"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26752"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267c3"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26834"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268a4"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26917"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26987"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269f8"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a69"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26adc"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b4c"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bbc"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c2d"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c9e"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d0f"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d81"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26df0"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e60"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ed3"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f44"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fb5"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27026"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27097"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27107"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27179"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271ea"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2725b"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272cb"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2733c"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273af"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2741f"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27490"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27502"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27572"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275e5"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27655"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276c5"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27736"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277a7"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27817"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27888"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278fa"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2796a"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279dc"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a4e"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ac2"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b2f"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ba0"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c12"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c81"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cf2"),
+	"availableSeats" : 68,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d63"),
+	"availableSeats" : 68,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dd3"),
+	"availableSeats" : 68,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e47"),
+	"availableSeats" : 68,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27eb7"),
+	"availableSeats" : 68,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f28"),
+	"availableSeats" : 68,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f99"),
+	"availableSeats" : 68,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2800a"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2807a"),
+	"availableSeats" : 62,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280ea"),
+	"availableSeats" : 62,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2815b"),
+	"availableSeats" : 62,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281cd"),
+	"availableSeats" : 61,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2823f"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282af"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28321"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28392"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28403"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28474"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284e5"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28556"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285c5"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28638"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286a9"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2871a"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2878a"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287f9"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2886d"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288dd"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2894f"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289c0"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a30"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aa2"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b13"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b85"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bf5"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c65"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cd7"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d48"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28db9"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e2a"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e9b"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f0c"),
+	"availableSeats" : 56,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f7f"),
+	"availableSeats" : 54,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fed"),
+	"availableSeats" : 50,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2905f"),
+	"availableSeats" : 51,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290d0"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29143"),
+	"availableSeats" : 51,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291b2"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29224"),
+	"availableSeats" : 51,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29294"),
+	"availableSeats" : 51,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29303"),
+	"availableSeats" : 45,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29376"),
+	"availableSeats" : 45,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293e7"),
+	"availableSeats" : 46,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29458"),
+	"availableSeats" : 46,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294c9"),
+	"availableSeats" : 49,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2953a"),
+	"availableSeats" : 48,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295aa"),
+	"availableSeats" : 49,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2961c"),
+	"availableSeats" : 50,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2968c"),
+	"availableSeats" : 49,
+	"capacity" : 90,
+	"code" : "GE2251",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Survey in Daily Life: Engineering, Business, and Political Applications",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

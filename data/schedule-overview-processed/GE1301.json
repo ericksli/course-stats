@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e987"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9fc"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea6b"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eade"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb4c"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebbf"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec30"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eca1"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed11"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed83"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edf4"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee65"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eee3"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef47"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efb8"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f029"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f09c"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f10b"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f17c"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1ec"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f25e"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2cf"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f340"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3b1"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f422"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f494"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f504"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f574"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5e7"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f657"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6c8"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f73a"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7ac"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f81b"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f88c"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8fd"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f96e"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9de"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa4f"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fac1"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb32"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbaa"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc14"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc85"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcf5"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd67"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdd7"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe48"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fecb"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff29"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffa5"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2000c"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2007e"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200ef"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20160"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201d3"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20242"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202b3"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20323"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20396"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20406"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20477"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204e7"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20558"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205cb"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2063a"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206ac"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2071d"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2078e"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207fe"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20870"),
+	"availableSeats" : 0,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208e1"),
+	"availableSeats" : 13,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20952"),
+	"availableSeats" : 13,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209c3"),
+	"availableSeats" : 13,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a34"),
+	"availableSeats" : 13,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20aa9"),
+	"availableSeats" : 13,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b16"),
+	"availableSeats" : 9,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b87"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bf9"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c69"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cd9"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d4b"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dbc"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e2e"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e9e"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f0e"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f80"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ff0"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21061"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210e1"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21144"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211b5"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21227"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21297"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21307"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21379"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213ea"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2145b"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214cb"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2153e"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215ae"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2161f"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21690"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21701"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2176f"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217e3"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21851"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218c6"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21933"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219a9"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a18"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a89"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21afa"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b6a"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bda"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c4e"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cbf"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d2f"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21da0"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e11"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e80"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ef3"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f64"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fd5"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22046"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220b7"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22128"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22197"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2220a"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2227b"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222eb"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2235c"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223ce"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2243f"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224b0"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22521"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22592"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22602"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22674"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226e5"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22756"),
+	"availableSeats" : 0,
+	"capacity" : 32,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227c5"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22838"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228a7"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2291a"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2298b"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229fc"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a6d"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ade"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b4f"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bc0"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c31"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ca1"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d13"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d84"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22df5"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e67"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ed7"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f48"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fb9"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2302a"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2309b"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2310c"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2317d"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231ee"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2325e"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232d1"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23341"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233b1"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23422"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23493"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23506"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23575"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235e6"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23658"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236c7"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2373a"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237ab"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2381c"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2388b"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238fe"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2396e"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239e0"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a51"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ac1"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b33"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ba3"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c14"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c87"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cf7"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d68"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dd9"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e4a"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ebb"),
+	"availableSeats" : 12,
+	"capacity" : 19,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f2c"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f9c"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2400d"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2407e"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240ef"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24161"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241d1"),
+	"availableSeats" : 20,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24241"),
+	"availableSeats" : 20,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242b2"),
+	"availableSeats" : 20,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24325"),
+	"availableSeats" : 20,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24396"),
+	"availableSeats" : 20,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24407"),
+	"availableSeats" : 10,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24487"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244e9"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2455a"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245cb"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2463c"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246ab"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2471e"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2478f"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24800"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24871"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248e2"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24954"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249c6"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a35"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24aa7"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b21"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b86"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bf9"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c6b"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cdb"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d4b"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dbd"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e2e"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e9f"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f0f"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f81"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ff2"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25062"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250d2"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25145"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251b6"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25227"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25298"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25309"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2537a"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253eb"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2545d"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254cd"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2553e"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255b1"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2561f"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25691"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25700"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25773"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257e4"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25855"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258c6"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25937"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259a8"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a19"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a8b"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25afb"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b6c"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bdd"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c4e"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cbe"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d34"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25da2"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e11"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e82"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ef4"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f65"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fd6"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26044"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260b8"),
+	"availableSeats" : 11,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26136"),
+	"availableSeats" : 11,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2619a"),
+	"availableSeats" : 11,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2620a"),
+	"availableSeats" : 11,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2627d"),
+	"availableSeats" : 11,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262ec"),
+	"availableSeats" : 3,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2635e"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263cf"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26440"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264b2"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26523"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26592"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26603"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26675"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266e6"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26757"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267c9"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26839"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268aa"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2691c"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2698c"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a04"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a6e"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26add"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b58"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bc1"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c32"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ca3"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d14"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d85"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26df5"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e67"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ed8"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f49"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fba"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2702b"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2709c"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2710c"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2717e"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271ef"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27260"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272d1"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27342"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273b3"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27426"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27495"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2750f"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27577"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275e8"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27659"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276cb"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2773a"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277ab"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2781c"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2788d"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278ff"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27970"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279e2"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a52"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ac0"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b34"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ba4"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c17"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c87"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cf8"),
+	"availableSeats" : 1,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d69"),
+	"availableSeats" : 1,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ddb"),
+	"availableSeats" : 1,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e4c"),
+	"availableSeats" : 1,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ebc"),
+	"availableSeats" : 1,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f2d"),
+	"availableSeats" : 1,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f9e"),
+	"availableSeats" : 1,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2800c"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28080"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280f0"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28161"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281d3"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28244"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282b5"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28326"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28397"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28429"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28479"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284ea"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2855b"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285cc"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2863d"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286ae"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2871f"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2878f"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28801"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28872"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288e3"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28955"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289c7"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a37"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aa7"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b18"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b89"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bfa"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c6b"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cdb"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d4d"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dbd"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e2f"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ea0"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f0f"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f82"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ff3"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29064"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290d5"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29146"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291b6"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29228"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292a6"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2930a"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2937a"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293ec"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2945f"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294cf"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2953f"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295b1"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29621"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29692"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE1301",
+	"credit" : 3,
+	"department" : "Sch of Energy and Environment",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Climate Change and Extreme Weather",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}

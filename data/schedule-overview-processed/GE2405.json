@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e93f"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9b1"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea21"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea92"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb03"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb74"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebe5"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec56"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecc7"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed38"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eda9"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee1a"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee8b"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eefc"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef6d"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efde"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f04f"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0c4"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f131"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1a2"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f213"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f284"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2f4"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f366"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3d7"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f448"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4b9"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f52a"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f59b"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f60c"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f67d"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6f0"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f75f"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7d0"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f841"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8b6"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f923"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f994"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa05"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa75"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fae9"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb58"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbc9"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc3a"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcab"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd1c"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd8d"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdfe"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe6f"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fee1"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff50"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffc3"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20033"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200a4"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20115"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20186"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201f7"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20268"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202d9"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2034a"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203bb"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2042b"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2049d"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2050e"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2057f"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205f0"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20661"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206d3"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20743"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207b4"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20824"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20896"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20907"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20977"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209e9"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a59"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20acb"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b3c"),
+	"availableSeats" : 1,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bad"),
+	"availableSeats" : 1,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c20"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c8f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cff"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d71"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20de2"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e53"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ec4"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f34"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fa6"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21017"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21088"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210f9"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2116a"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211db"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2124c"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212bc"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2132e"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2139f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2140f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21481"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214f2"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21562"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215d4"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21645"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216b6"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21727"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21798"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21809"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2187a"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218eb"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2195c"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219cd"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a3e"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21aaf"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b20"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b91"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c02"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c74"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ce4"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d54"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dc6"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e37"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ea8"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f19"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f8a"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ffb"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2206c"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220dd"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2214f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221bf"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22230"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222a1"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22312"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22383"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223f4"),
+	"availableSeats" : 1,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22465"),
+	"availableSeats" : 1,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224d6"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22547"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225b8"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22629"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2269a"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2270b"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2277c"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227ed"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2285c"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228cf"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22940"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229b1"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a22"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a93"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b04"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b75"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22be6"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c57"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cc8"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d39"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22daa"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e1b"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e8d"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22efd"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f73"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fdf"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23050"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230c1"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23132"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231a4"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23214"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23285"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232f7"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23368"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233d8"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23447"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234ba"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2352b"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2359c"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2360f"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2367e"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236f1"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23761"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237d1"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23842"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238b3"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23924"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23995"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a06"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a77"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ae8"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b59"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bca"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c3b"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cac"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d1d"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d8e"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dff"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e70"),
+	"availableSeats" : 4,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ee1"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f52"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fc3"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24034"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240a5"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24116"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2418b"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241f8"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24269"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242da"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2434a"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243bc"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2442d"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2449e"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2450f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24580"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245f1"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24662"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246d3"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24743"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247b5"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24826"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24897"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24908"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24979"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249ea"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a5b"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24acc"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b3d"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24baf"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c1f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c8f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d01"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d73"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24de2"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e54"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ec5"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f36"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fa6"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25018"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25089"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250fa"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2516b"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251dc"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2524d"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252be"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2532f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2539f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25412"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25482"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254f3"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25564"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255d5"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25646"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256b7"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25728"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25799"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2580a"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2587b"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258ec"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2595d"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259ce"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a3f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ab0"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b21"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b92"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c03"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c74"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ce4"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d56"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dc7"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e38"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ea9"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f1a"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f8b"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ffc"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2606d"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260de"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2614f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261c0"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26232"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262a2"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26313"),
+	"availableSeats" : 1,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26384"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a263f5"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26466"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264d6"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26548"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265bc"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2662a"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2669b"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2670c"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2677d"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267ee"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2685f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268d0"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26941"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269b2"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a23"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a94"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b05"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b76"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26be6"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c58"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cc9"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d3a"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dab"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e1d"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e8d"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26efe"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f6f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fe0"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27057"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270c3"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27133"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271a4"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27215"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27286"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272f7"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27368"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273da"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2744b"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274bb"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2752b"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2759d"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2760e"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2767f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276f0"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27762"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277d2"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27843"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278b4"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27925"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27997"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a07"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a77"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27aea"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b5a"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bcb"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c3d"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cad"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d1e"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d8f"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e00"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e71"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ee2"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f53"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fc3"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28035"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280a6"),
+	"availableSeats" : 3,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28116"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28188"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281f9"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2826a"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282db"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2834c"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283bd"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2842e"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2849f"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28510"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28581"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a285f2"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28663"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286d4"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28749"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287b7"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28827"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2889b"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28909"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2897f"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289eb"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a5c"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28acd"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b3e"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bb0"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c20"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c91"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d02"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d73"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28de8"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e55"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ec6"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f39"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fa8"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29019"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2908a"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290fb"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2916d"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291dd"),
+	"availableSeats" : 1,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2924e"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292bf"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29330"),
+	"availableSeats" : 1,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293a1"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29412"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29483"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294f4"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29567"),
+	"availableSeats" : 0,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295d6"),
+	"availableSeats" : 2,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29649"),
+	"availableSeats" : 7,
+	"capacity" : 75,
+	"code" : "GE2405",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Creative Writing",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}

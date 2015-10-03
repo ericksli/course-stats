@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e96a"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9db"),
+	"availableSeats" : 1,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea4c"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eabd"),
+	"availableSeats" : 1,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb2f"),
+	"availableSeats" : 1,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb9f"),
+	"availableSeats" : 1,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec10"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec82"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecf2"),
+	"availableSeats" : 1,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed62"),
+	"availableSeats" : 1,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edd2"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee45"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eeb6"),
+	"availableSeats" : 1,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef27"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef98"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f00a"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f07a"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0ec"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f15b"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1ce"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f23e"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2af"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f320"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f391"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f403"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f473"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4e4"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f554"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5c6"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f638"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6a6"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f719"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f78a"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7fb"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f86c"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8dd"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f94d"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9c0"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa2f"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa9f"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb12"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb82"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbf4"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc65"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcd6"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd47"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdb8"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe29"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe9a"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff0c"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff7d"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffed"),
+	"availableSeats" : 4,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2005e"),
+	"availableSeats" : 2,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200d1"),
+	"availableSeats" : 2,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20140"),
+	"availableSeats" : 2,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201b1"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20220"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20294"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20304"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20375"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203e7"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20454"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204c8"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20539"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205aa"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2061b"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2068c"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206fd"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2076d"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207df"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20851"),
+	"availableSeats" : 0,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208c1"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20932"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209a1"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a14"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a84"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20af5"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b67"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bd8"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c49"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cba"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d2b"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d9c"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e0d"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e7e"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ef5"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f5f"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fd1"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21042"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210b3"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21124"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21195"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21206"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21276"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212ea"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21358"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213ca"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2143c"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214ad"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2151e"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2158e"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215ff"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21670"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216e1"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21753"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217c4"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21834"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218a2"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21916"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21986"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219f8"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a69"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ad8"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b4c"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bbc"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c2d"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c9f"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d0d"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d80"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21df1"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e62"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ed2"),
+	"availableSeats" : 16,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f42"),
+	"availableSeats" : 16,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fb5"),
+	"availableSeats" : 15,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22026"),
+	"availableSeats" : 15,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22097"),
+	"availableSeats" : 15,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22108"),
+	"availableSeats" : 15,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22179"),
+	"availableSeats" : 15,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221ea"),
+	"availableSeats" : 15,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2225b"),
+	"availableSeats" : 14,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222cc"),
+	"availableSeats" : 14,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2233d"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223ba"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2241e"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22490"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22502"),
+	"availableSeats" : 15,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22572"),
+	"availableSeats" : 15,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225e3"),
+	"availableSeats" : 15,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22652"),
+	"availableSeats" : 15,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226c6"),
+	"availableSeats" : 15,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22736"),
+	"availableSeats" : 15,
+	"capacity" : 43,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227a7"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22818"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22893"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228fa"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2296c"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229da"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a4d"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22abf"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b30"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ba1"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c17"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c83"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cf3"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d64"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dd4"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e46"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eb6"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f29"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f99"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2300a"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2307b"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230ec"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2315d"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231ce"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2323f"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232b0"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23321"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23390"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23403"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23475"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234e7"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23556"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235c7"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23638"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236a9"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2371a"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23788"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237fd"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2386e"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238df"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2394f"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239c0"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a32"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a9f"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b12"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b85"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bf5"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c66"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cd7"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d48"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dba"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e2a"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e9b"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f0c"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f7d"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fed"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2405f"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240cf"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2413f"),
+	"availableSeats" : 11,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241b2"),
+	"availableSeats" : 35,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24223"),
+	"availableSeats" : 35,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24294"),
+	"availableSeats" : 35,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24307"),
+	"availableSeats" : 35,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24377"),
+	"availableSeats" : 35,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243e7"),
+	"availableSeats" : 35,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24458"),
+	"availableSeats" : 33,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244c9"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2453a"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245ac"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2461c"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2468d"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246fd"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2476f"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247e0"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24851"),
+	"availableSeats" : 30,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248c2"),
+	"availableSeats" : 33,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24933"),
+	"availableSeats" : 30,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249a3"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a1b"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a85"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24af6"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b68"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bd9"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c4a"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cba"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d2b"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d9d"),
+	"availableSeats" : 33,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e0e"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e7f"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ef0"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f61"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fd2"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25043"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250b4"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25125"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25198"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25207"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25279"),
+	"availableSeats" : 32,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252e8"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25359"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253cb"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2543c"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254ad"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25528"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2558f"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255ff"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25672"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256e2"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25751"),
+	"availableSeats" : 32,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257c4"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25834"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258a6"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25917"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25988"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259fa"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a6a"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25adb"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b4c"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bbd"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c2e"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c9f"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d10"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d82"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25df2"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e63"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ed5"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f45"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fb6"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26026"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26098"),
+	"availableSeats" : 26,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26109"),
+	"availableSeats" : 26,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2617a"),
+	"availableSeats" : 26,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261eb"),
+	"availableSeats" : 26,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2625c"),
+	"availableSeats" : 26,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262cd"),
+	"availableSeats" : 24,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2633e"),
+	"availableSeats" : 20,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263af"),
+	"availableSeats" : 15,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2641f"),
+	"availableSeats" : 15,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26491"),
+	"availableSeats" : 14,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26502"),
+	"availableSeats" : 14,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26572"),
+	"availableSeats" : 14,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265e4"),
+	"availableSeats" : 14,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26655"),
+	"availableSeats" : 14,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266c6"),
+	"availableSeats" : 14,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26737"),
+	"availableSeats" : 14,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267a8"),
+	"availableSeats" : 14,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26819"),
+	"availableSeats" : 18,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2688a"),
+	"availableSeats" : 14,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268fb"),
+	"availableSeats" : 14,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2696c"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269ee"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a4e"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26abe"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b30"),
+	"availableSeats" : 13,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ba1"),
+	"availableSeats" : 13,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c12"),
+	"availableSeats" : 13,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c83"),
+	"availableSeats" : 16,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cf4"),
+	"availableSeats" : 13,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d64"),
+	"availableSeats" : 13,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dd6"),
+	"availableSeats" : 13,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e47"),
+	"availableSeats" : 13,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eb9"),
+	"availableSeats" : 13,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f29"),
+	"availableSeats" : 13,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f9a"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2700c"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27079"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270ed"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2715d"),
+	"availableSeats" : 16,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271ce"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27240"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272b1"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27322"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27393"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27405"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27474"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274e5"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27558"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275c5"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27638"),
+	"availableSeats" : 16,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276aa"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2771b"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2778b"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277fc"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2786d"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278df"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2794f"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279c1"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a31"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27aa3"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b13"),
+	"availableSeats" : 16,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b86"),
+	"availableSeats" : 15,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bf8"),
+	"availableSeats" : 15,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c67"),
+	"availableSeats" : 15,
+	"capacity" : 55,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cd8"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d49"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27db9"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e2b"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e9b"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f0d"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f7d"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ff1"),
+	"availableSeats" : 22,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28060"),
+	"availableSeats" : 20,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280d1"),
+	"availableSeats" : 19,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28142"),
+	"availableSeats" : 18,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281b5"),
+	"availableSeats" : 16,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28225"),
+	"availableSeats" : 16,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28296"),
+	"availableSeats" : 15,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28305"),
+	"availableSeats" : 16,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28377"),
+	"availableSeats" : 15,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283e9"),
+	"availableSeats" : 14,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28459"),
+	"availableSeats" : 13,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284ca"),
+	"availableSeats" : 13,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2853b"),
+	"availableSeats" : 13,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285ad"),
+	"availableSeats" : 13,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2861d"),
+	"availableSeats" : 13,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28697"),
+	"availableSeats" : 13,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286fe"),
+	"availableSeats" : 7,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28773"),
+	"availableSeats" : 7,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287e2"),
+	"availableSeats" : 7,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28852"),
+	"availableSeats" : 7,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288c3"),
+	"availableSeats" : 6,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28934"),
+	"availableSeats" : 6,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289a4"),
+	"availableSeats" : 6,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a17"),
+	"availableSeats" : 6,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a8c"),
+	"availableSeats" : 6,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28af8"),
+	"availableSeats" : 13,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b69"),
+	"availableSeats" : 6,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bda"),
+	"availableSeats" : 13,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c4b"),
+	"availableSeats" : 12,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cbc"),
+	"availableSeats" : 11,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d2d"),
+	"availableSeats" : 10,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d9e"),
+	"availableSeats" : 10,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e0f"),
+	"availableSeats" : 8,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e80"),
+	"availableSeats" : 7,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ef6"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f63"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fd4"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29044"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290b4"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2912f"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29196"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29208"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2927f"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292f1"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2935b"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293cb"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2943d"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294ae"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2951f"),
+	"availableSeats" : 2,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29590"),
+	"availableSeats" : 4,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29601"),
+	"availableSeats" : 2,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29672"),
+	"availableSeats" : 2,
+	"capacity" : 80,
+	"code" : "GE1218",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Make a Difference: The Challenge of Social Entrepreneurship in a Globalized World",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

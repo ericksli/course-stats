@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e992"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9f7"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea66"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ead7"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb48"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebba"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec2a"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec9b"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed0c"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed7d"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edef"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee5f"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eed0"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef40"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efb2"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f023"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f094"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f102"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f176"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1e6"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f258"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2ca"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f339"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3ad"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f41c"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f48d"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4ff"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f56e"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5e0"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f651"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6c2"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f733"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7a3"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f816"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f886"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8f7"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f968"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9d7"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa4a"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1faba"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb2b"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb9d"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc0f"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc7f"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcf0"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd61"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdd2"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe42"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1feb4"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff25"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff97"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20007"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20078"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200e9"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2015a"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201cc"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2023d"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202ad"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2031e"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2038f"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20400"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20470"),
+	"availableSeats" : 13,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204e2"),
+	"availableSeats" : 13,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20552"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205c4"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20634"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206a6"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20717"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20788"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207fa"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2086a"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208db"),
+	"availableSeats" : 31,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2094b"),
+	"availableSeats" : 31,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209bd"),
+	"availableSeats" : 31,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a2e"),
+	"availableSeats" : 31,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a9f"),
+	"availableSeats" : 31,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b10"),
+	"availableSeats" : 31,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b81"),
+	"availableSeats" : 29,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bf2"),
+	"availableSeats" : 26,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c61"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cd4"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d45"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20db6"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e27"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e9c"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f08"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f7a"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fec"),
+	"availableSeats" : 26,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2105a"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210cd"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2113e"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211af"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2121f"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21291"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2130c"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21373"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213e4"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21455"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214c6"),
+	"availableSeats" : 27,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21537"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215a7"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21619"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2168a"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216fa"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2176d"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217dd"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21854"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218bf"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21930"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219a1"),
+	"availableSeats" : 26,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a11"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a83"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21af4"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b65"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bd4"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c47"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cb8"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d28"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d9a"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e0c"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e7b"),
+	"availableSeats" : 26,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21eed"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f5d"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fcf"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2203f"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220af"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22123"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22198"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22204"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22275"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222e5"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22356"),
+	"availableSeats" : 26,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223c8"),
+	"availableSeats" : 26,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2243a"),
+	"availableSeats" : 26,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224aa"),
+	"availableSeats" : 26,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2251b"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2258d"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225fd"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2266f"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226de"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2274f"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227c1"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22834"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228a6"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22914"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22985"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229f6"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a67"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ad6"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b49"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bb9"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c2b"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c9d"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d0d"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d7e"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22def"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e60"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ed1"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f44"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fb3"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23024"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23095"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23106"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23176"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231e8"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2325b"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232ca"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2333b"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233ac"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2341d"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2348e"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234ff"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23570"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235e1"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23652"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236c3"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23735"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237a6"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23816"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23884"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238f8"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23968"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239da"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a4b"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23abc"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b2d"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b9e"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c0e"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c80"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cf0"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d62"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dd3"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e44"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23eb4"),
+	"availableSeats" : 20,
+	"capacity" : 28,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f26"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f97"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24008"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24079"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240ea"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2415c"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241cc"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2424b"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242b1"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2431e"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2438f"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24401"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24472"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244e1"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24554"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245c4"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24638"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246a5"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24718"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2478a"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247fa"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2486b"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248db"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2494d"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249be"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a2f"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24aa1"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b11"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b82"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bf3"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c64"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cd5"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d47"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24db7"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e27"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e99"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f0a"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f7c"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ff0"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2505b"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250ce"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2513f"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251b0"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25220"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25292"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25303"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25374"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253e5"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25457"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254c7"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25539"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255a9"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2561a"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2568b"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25703"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2576e"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257de"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2584f"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258c2"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25930"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259a2"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a13"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a85"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25af5"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b66"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bd7"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c48"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cb8"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d29"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d99"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e0a"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e7d"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25eee"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f5f"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fd0"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26049"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260b2"),
+	"availableSeats" : 42,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26123"),
+	"availableSeats" : 42,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26194"),
+	"availableSeats" : 42,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26205"),
+	"availableSeats" : 42,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26276"),
+	"availableSeats" : 42,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262e7"),
+	"availableSeats" : 42,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26359"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263ca"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2643a"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264ab"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2651c"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2658d"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265fc"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2666f"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266df"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26751"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267c2"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26833"),
+	"availableSeats" : 40,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268a5"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26915"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26986"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269f7"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a68"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ad9"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b4a"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bbb"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c2c"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c9d"),
+	"availableSeats" : 40,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d0d"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d7f"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26def"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e5f"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ed2"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f43"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fb4"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27025"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27096"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27108"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27178"),
+	"availableSeats" : 40,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271e8"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2725a"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272ca"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2733d"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273ad"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2741e"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2748f"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27500"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27571"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275e2"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27653"),
+	"availableSeats" : 40,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276c4"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27735"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277a6"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2781e"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27890"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278f9"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2796c"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279da"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a4c"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ac4"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b30"),
+	"availableSeats" : 40,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b9f"),
+	"availableSeats" : 40,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c10"),
+	"availableSeats" : 40,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c80"),
+	"availableSeats" : 41,
+	"capacity" : 66,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cf4"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d65"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dd2"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e45"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27eb6"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f27"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f98"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28009"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2807c"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280e8"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2815a"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281cc"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2823e"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282b0"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2831f"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28391"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28402"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28473"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284e4"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28555"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285c4"),
+	"availableSeats" : 71,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28637"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286a8"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28719"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28789"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28805"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2886c"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288dc"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2894e"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289be"),
+	"availableSeats" : 69,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a31"),
+	"availableSeats" : 69,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aa0"),
+	"availableSeats" : 69,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b12"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b83"),
+	"availableSeats" : 69,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bf4"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c64"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cd6"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d47"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28db7"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e28"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e9a"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f0b"),
+	"availableSeats" : 66,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f7c"),
+	"availableSeats" : 64,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fee"),
+	"availableSeats" : 63,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2905e"),
+	"availableSeats" : 63,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290cf"),
+	"availableSeats" : 65,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29140"),
+	"availableSeats" : 66,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291b1"),
+	"availableSeats" : 65,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29222"),
+	"availableSeats" : 65,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29293"),
+	"availableSeats" : 64,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29302"),
+	"availableSeats" : 63,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29375"),
+	"availableSeats" : 64,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293e5"),
+	"availableSeats" : 66,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29457"),
+	"availableSeats" : 66,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294c8"),
+	"availableSeats" : 68,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29539"),
+	"availableSeats" : 69,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295a9"),
+	"availableSeats" : 70,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2961b"),
+	"availableSeats" : 72,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2968b"),
+	"availableSeats" : 73,
+	"capacity" : 98,
+	"code" : "GE2250",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understand Global Projects for Business and Engineering Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

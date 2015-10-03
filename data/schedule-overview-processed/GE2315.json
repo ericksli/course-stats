@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9a1"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea12"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea83"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eaf3"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb65"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebd6"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec46"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecb5"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed28"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed9a"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee0b"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee7c"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eeed"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef5f"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efce"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f03f"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0b1"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f122"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f192"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f204"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f275"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2e7"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f354"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3c9"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f437"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4a9"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f51b"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f58c"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5fc"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f66e"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6df"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f74f"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7c1"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f832"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8a3"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f914"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f984"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9f4"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa67"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fad8"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb49"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbc3"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc2b"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc9c"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd0d"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd7e"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdef"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe60"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fed1"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff42"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffb4"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20023"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20095"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20105"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20177"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201e9"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20259"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202c9"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2033b"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203ac"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2041d"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2048e"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20500"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20571"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205e0"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20652"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206ca"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20735"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207a5"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20817"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20887"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208f8"),
+	"availableSeats" : 36,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20969"),
+	"availableSeats" : 36,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209d9"),
+	"availableSeats" : 36,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a4b"),
+	"availableSeats" : 36,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20abb"),
+	"availableSeats" : 36,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b2d"),
+	"availableSeats" : 26,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b9e"),
+	"availableSeats" : 11,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c0f"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c7f"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cf0"),
+	"availableSeats" : 1,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d62"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dd3"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e44"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20eb5"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f25"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f97"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21009"),
+	"availableSeats" : 4,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2107a"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210ea"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2115b"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211cc"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2123d"),
+	"availableSeats" : 1,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212b0"),
+	"availableSeats" : 1,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2131f"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2138f"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21400"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21470"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214e3"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21552"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215c5"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21636"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216a7"),
+	"availableSeats" : 1,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21718"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21789"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217fa"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2186a"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218de"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2194d"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219be"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a2f"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21aa0"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b10"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b83"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bf2"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c64"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cd5"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d46"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21db6"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e29"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e99"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f07"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f79"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fee"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2205e"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220ce"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2213e"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221b1"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22220"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22291"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22304"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22375"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223e4"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22455"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224c7"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22538"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225a8"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2261b"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22689"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226fc"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2276c"),
+	"availableSeats" : 0,
+	"capacity" : 74,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227de"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2284e"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228c0"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22936"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229a2"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a13"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a85"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22af4"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b66"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bd7"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c48"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cb8"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d2a"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d9b"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e0e"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e7d"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eed"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f5f"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fd0"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2303e"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230b2"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23123"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23194"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23205"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23276"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232e9"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23358"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233c9"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23439"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234ab"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2351c"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2358d"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235fd"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2366e"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236e0"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23751"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237c0"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23832"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238a4"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23915"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23986"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239f7"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a69"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ad8"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b4a"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bbd"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c2c"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c9d"),
+	"availableSeats" : 33,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d0d"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d7f"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23def"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e61"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ed2"),
+	"availableSeats" : 35,
+	"capacity" : 38,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f42"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fb4"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24024"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24096"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24107"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24177"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241e9"),
+	"availableSeats" : 51,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2425d"),
+	"availableSeats" : 51,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242cb"),
+	"availableSeats" : 51,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2433c"),
+	"availableSeats" : 51,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243ae"),
+	"availableSeats" : 51,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2441e"),
+	"availableSeats" : 44,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2448f"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24500"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24572"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245e2"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24652"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246c5"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24736"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247a6"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24814"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24889"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248f9"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2496a"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249db"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a4c"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24abc"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b2d"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b9f"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c0f"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c81"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cf2"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d62"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dd3"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e46"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24eb3"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f26"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f9e"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25009"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2507a"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250ea"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2515c"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251ce"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2523e"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252ae"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25320"),
+	"availableSeats" : 1,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25391"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25402"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25473"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254e3"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25555"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255c5"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25637"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256a7"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25719"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25789"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257fb"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2586c"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258dd"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2594e"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259bd"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a30"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25aa2"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b12"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b83"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bf2"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c65"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ce0"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d47"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25db6"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e28"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e9b"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f0b"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f7c"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fed"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2605d"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260cf"),
+	"availableSeats" : 30,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26140"),
+	"availableSeats" : 30,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261b1"),
+	"availableSeats" : 30,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26222"),
+	"availableSeats" : 30,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26291"),
+	"availableSeats" : 30,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26302"),
+	"availableSeats" : 14,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26372"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263e6"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26457"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264c7"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2653e"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265ab"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26620"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2668c"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266fd"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2676e"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267e1"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26851"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268c0"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26932"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269a3"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a14"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a85"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26af6"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b67"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bda"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c48"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cb9"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d2b"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26da4"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e0c"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e7c"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eef"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f5f"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fd3"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27042"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270b4"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27124"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27194"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27206"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27277"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272e7"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2735a"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273c9"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2743b"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274ac"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2751e"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2758f"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275ff"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27670"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276e0"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27752"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277c3"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27833"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278a5"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27916"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27991"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279f8"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a69"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ada"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b4b"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bbc"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c2d"),
+	"availableSeats" : 1,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c9d"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d0f"),
+	"availableSeats" : 3,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d7f"),
+	"availableSeats" : 3,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27df1"),
+	"availableSeats" : 3,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e62"),
+	"availableSeats" : 3,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ed2"),
+	"availableSeats" : 3,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f45"),
+	"availableSeats" : 3,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fb4"),
+	"availableSeats" : 1,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28026"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28097"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28108"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28179"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281e9"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28258"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282cb"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28347"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283ae"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2841d"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28492"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28501"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28572"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285e3"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28654"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286c4"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28736"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287a7"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28818"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28888"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288f9"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28969"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289dc"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a4d"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28abd"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b30"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b9f"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c11"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c82"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cf3"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d62"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dd5"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e45"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28eb7"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f28"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f97"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29009"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2907d"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290eb"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2915d"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291d2"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2923f"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292b0"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29321"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29391"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29402"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29472"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294e3"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29555"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295c5"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29637"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a296aa"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2315",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Security and Privacy in the Information Age",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

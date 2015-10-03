@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e959"),
+	"availableSeats" : 1,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9cb"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea3c"),
+	"availableSeats" : 1,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eaad"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb1f"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb8e"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebff"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec71"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ece2"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed56"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edc5"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee35"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eea8"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef17"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef88"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eff9"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f06a"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0db"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f14c"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1c6"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f22e"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2a0"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f311"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f380"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3f2"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f463"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4d4"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f546"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5b6"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f628"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f698"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f70a"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f78c"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7ea"),
+	"availableSeats" : 1,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f85e"),
+	"availableSeats" : 1,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8cd"),
+	"availableSeats" : 1,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f93e"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9af"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa20"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa91"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb02"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb72"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbe3"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc55"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcc6"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd37"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fda8"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe18"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe8a"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fefc"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff6b"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffdd"),
+	"availableSeats" : 8,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2004f"),
+	"availableSeats" : 5,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200c0"),
+	"availableSeats" : 5,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2012e"),
+	"availableSeats" : 4,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201a1"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20214"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20283"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202f4"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20364"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203d6"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20446"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204b7"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20529"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2059a"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2060b"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2067a"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206ed"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2075f"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207d1"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2083f"),
+	"availableSeats" : 0,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208b0"),
+	"availableSeats" : 44,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20923"),
+	"availableSeats" : 44,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20991"),
+	"availableSeats" : 44,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a04"),
+	"availableSeats" : 44,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a76"),
+	"availableSeats" : 44,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ae7"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b58"),
+	"availableSeats" : 26,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bc7"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c38"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20caa"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d1b"),
+	"availableSeats" : 1,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d8c"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dfd"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e6f"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20edf"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f50"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fc3"),
+	"availableSeats" : 11,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21032"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210a2"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21114"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21184"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211f5"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21267"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212d8"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2134a"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213ba"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2142b"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214a8"),
+	"availableSeats" : 6,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2150d"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2157e"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215ef"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2165f"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216d2"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21741"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217b2"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21824"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21895"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21907"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21977"),
+	"availableSeats" : 3,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219e6"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a59"),
+	"availableSeats" : 1,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21acb"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b3b"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bab"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c1d"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c8e"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cff"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d70"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21de0"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e52"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ec4"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f32"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fa5"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22015"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22086"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220f7"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22169"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221d9"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2224b"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222bc"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2232c"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223a5"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2240e"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22480"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224f1"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22560"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225d3"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22643"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226b5"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22724"),
+	"availableSeats" : 0,
+	"capacity" : 85,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22797"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2280a"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22879"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228eb"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2295c"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229cd"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a3e"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22aae"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b1e"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b91"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c01"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c73"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ce1"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d55"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dc6"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e34"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ea8"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f17"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f89"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ffa"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2306b"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230dc"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2314b"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231be"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23231"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232a1"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23311"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23382"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233f3"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23464"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234d2"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23546"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235b6"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23627"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23699"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2370a"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2377b"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237ec"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2385d"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238cd"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2393f"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239b1"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a21"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a91"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b03"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b73"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23be4"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c56"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cc6"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d38"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23da7"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e1a"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e8a"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f05"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f6c"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fde"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2404f"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240c0"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2413b"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241a4"),
+	"availableSeats" : 65,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24213"),
+	"availableSeats" : 65,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24284"),
+	"availableSeats" : 65,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242f6"),
+	"availableSeats" : 65,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24367"),
+	"availableSeats" : 65,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243d7"),
+	"availableSeats" : 63,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24448"),
+	"availableSeats" : 53,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244b9"),
+	"availableSeats" : 46,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24528"),
+	"availableSeats" : 46,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2459c"),
+	"availableSeats" : 45,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2460c"),
+	"availableSeats" : 45,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2467d"),
+	"availableSeats" : 42,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246ef"),
+	"availableSeats" : 42,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2475f"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247d2"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24840"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248b3"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24922"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24993"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a05"),
+	"availableSeats" : 41,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a76"),
+	"availableSeats" : 41,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ae8"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b58"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bc9"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c3a"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cab"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d1d"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d8e"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dfe"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e6f"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ee1"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f51"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fc1"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25033"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250a3"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25115"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25185"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251fb"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25268"),
+	"availableSeats" : 47,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252d8"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2534a"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253bb"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2542c"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2549d"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2550f"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2557e"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255f1"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25660"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256d2"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25743"),
+	"availableSeats" : 46,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257b4"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25824"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25895"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25907"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25978"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259e9"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a5a"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25acb"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b3b"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bad"),
+	"availableSeats" : 46,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c1e"),
+	"availableSeats" : 46,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c8f"),
+	"availableSeats" : 46,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d00"),
+	"availableSeats" : 46,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d71"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25de2"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e53"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ec4"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f35"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fa5"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26017"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26088"),
+	"availableSeats" : 36,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260f9"),
+	"availableSeats" : 36,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2616a"),
+	"availableSeats" : 36,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261db"),
+	"availableSeats" : 36,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2624c"),
+	"availableSeats" : 36,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262bd"),
+	"availableSeats" : 26,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2632f"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2639f"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26410"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26481"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264f2"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26564"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265d4"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26645"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266b6"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26727"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26799"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2680a"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2687d"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268ea"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2695c"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269cd"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a3f"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26aaf"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b22"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b91"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c02"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c74"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ce4"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d56"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dc7"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e38"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ea8"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f19"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f89"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ffb"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2706c"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270dd"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2714e"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271bf"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27233"),
+	"availableSeats" : 1,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272a2"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27312"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27383"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273f4"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27465"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274d6"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27548"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275b9"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27629"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2769a"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2770b"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2777c"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277ed"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2785e"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278cf"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27940"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279ae"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a22"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a92"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b03"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b74"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27be9"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c56"),
+	"availableSeats" : 0,
+	"capacity" : 117,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cc8"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d42"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27daa"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e1b"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e8c"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27efe"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f6e"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fdd"),
+	"availableSeats" : 31,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28050"),
+	"availableSeats" : 18,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280c1"),
+	"availableSeats" : 17,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28133"),
+	"availableSeats" : 16,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281a3"),
+	"availableSeats" : 12,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28214"),
+	"availableSeats" : 9,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28285"),
+	"availableSeats" : 7,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282f6"),
+	"availableSeats" : 7,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28367"),
+	"availableSeats" : 5,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283d9"),
+	"availableSeats" : 6,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28448"),
+	"availableSeats" : 3,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284ba"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2852a"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2859c"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2860d"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2867e"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286f1"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28760"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287d0"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28842"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288b3"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28926"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28995"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a06"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a77"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ae8"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b59"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bca"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c3b"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cac"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d1d"),
+	"availableSeats" : 1,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d8e"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dff"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e70"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ee1"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f52"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fc3"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29034"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290a6"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29117"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29187"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291f8"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29269"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292da"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2934c"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293bc"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2942d"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2949e"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2950e"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29580"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295f1"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29663"),
+	"availableSeats" : 4,
+	"capacity" : 180,
+	"code" : "GE2112",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Vampires, Monsters and Teen Demons: A Study of the Gothic in Literature and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

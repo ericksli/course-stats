@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e98a"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9fd"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea6d"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eadf"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb50"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebc0"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec33"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eca3"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed14"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed85"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edf6"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee67"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eed7"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef49"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efba"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f045"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f09b"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f10d"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f17e"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1ef"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f260"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2d2"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f342"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3b3"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f424"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f495"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f506"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f576"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5e8"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f659"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6ca"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f73b"),
+	"availableSeats" : 2,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7ab"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f81d"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f88f"),
+	"availableSeats" : 2,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8fe"),
+	"availableSeats" : 2,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f970"),
+	"availableSeats" : 2,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9df"),
+	"availableSeats" : 2,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa51"),
+	"availableSeats" : 2,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fac3"),
+	"availableSeats" : 2,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb34"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fba5"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc16"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc86"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcf9"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd69"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdd8"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe4b"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1feba"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff2d"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff9d"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2000f"),
+	"availableSeats" : 2,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20080"),
+	"availableSeats" : 2,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200f1"),
+	"availableSeats" : 2,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20163"),
+	"availableSeats" : 2,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201d1"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20244"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202b5"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20325"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20397"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20409"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20479"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204eb"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2055a"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205cd"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2063d"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206ad"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2071f"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20790"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207ff"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20872"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208e2"),
+	"availableSeats" : 15,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20954"),
+	"availableSeats" : 15,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209c5"),
+	"availableSeats" : 15,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a36"),
+	"availableSeats" : 15,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20aac"),
+	"availableSeats" : 15,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b17"),
+	"availableSeats" : 14,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b88"),
+	"availableSeats" : 9,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bfb"),
+	"availableSeats" : 7,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c6b"),
+	"availableSeats" : 7,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cdb"),
+	"availableSeats" : 7,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d4d"),
+	"availableSeats" : 7,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dbe"),
+	"availableSeats" : 7,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e2f"),
+	"availableSeats" : 7,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ea0"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f11"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f82"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ff3"),
+	"availableSeats" : 9,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21064"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210d3"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21146"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211b8"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21228"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21299"),
+	"availableSeats" : 7,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21309"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2137b"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213eb"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2145d"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214ce"),
+	"availableSeats" : 7,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2153d"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215b0"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21621"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21692"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21703"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21774"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217e4"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21853"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218c7"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21935"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219a8"),
+	"availableSeats" : 7,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a19"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a8b"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21afc"),
+	"availableSeats" : 6,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b6c"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bdd"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c4f"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cc0"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d30"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21da2"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e13"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e82"),
+	"availableSeats" : 7,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ef5"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f66"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fd7"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22048"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220b9"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2212a"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2219a"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2220c"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2227d"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222ed"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2235e"),
+	"availableSeats" : 7,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223d0"),
+	"availableSeats" : 7,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22440"),
+	"availableSeats" : 7,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224b2"),
+	"availableSeats" : 7,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22523"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22594"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22606"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22676"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226e6"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22758"),
+	"availableSeats" : 5,
+	"capacity" : 32,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227c7"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2283a"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228a9"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2291c"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2298d"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229fe"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a6f"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ae0"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b52"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bc2"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c35"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ca3"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d14"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d86"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22df7"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e69"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eda"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f4a"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fba"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2302c"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2309d"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2310e"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2317f"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231f0"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23260"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232d2"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23343"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233b4"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23425"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23496"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23508"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23579"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235e8"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2365a"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236c9"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2373d"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237ad"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2381e"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23890"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23900"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23970"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239e2"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a52"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ac4"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b35"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ba6"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c16"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c88"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cf8"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d69"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ddb"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e4c"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ebd"),
+	"availableSeats" : 14,
+	"capacity" : 17,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f2e"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f9f"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2400f"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24081"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240f2"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24163"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241d3"),
+	"availableSeats" : 27,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24244"),
+	"availableSeats" : 27,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242b4"),
+	"availableSeats" : 27,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24327"),
+	"availableSeats" : 27,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24398"),
+	"availableSeats" : 27,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24409"),
+	"availableSeats" : 27,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24478"),
+	"availableSeats" : 13,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244eb"),
+	"availableSeats" : 7,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2455d"),
+	"availableSeats" : 7,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245cd"),
+	"availableSeats" : 6,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2463e"),
+	"availableSeats" : 6,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246ac"),
+	"availableSeats" : 6,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24720"),
+	"availableSeats" : 5,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24792"),
+	"availableSeats" : 4,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24802"),
+	"availableSeats" : 4,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24873"),
+	"availableSeats" : 2,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248e4"),
+	"availableSeats" : 12,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24956"),
+	"availableSeats" : 2,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249c5"),
+	"availableSeats" : 1,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a36"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24aa8"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b18"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b88"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bfb"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c6e"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cdd"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d4e"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dbe"),
+	"availableSeats" : 12,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e30"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ea1"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f13"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f83"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ff4"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25065"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250d6"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25147"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251b8"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2522a"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2529a"),
+	"availableSeats" : 10,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2530b"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2537c"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253ed"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2545e"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254cf"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25540"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255b0"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25622"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25692"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25704"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25775"),
+	"availableSeats" : 8,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257e5"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25857"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258c7"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25938"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259aa"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a1b"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a8c"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25afd"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b6d"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bdf"),
+	"availableSeats" : 7,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c50"),
+	"availableSeats" : 7,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cc0"),
+	"availableSeats" : 7,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d2f"),
+	"availableSeats" : 7,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25da3"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e14"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e85"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ef6"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f69"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fd7"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26047"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260ba"),
+	"availableSeats" : 18,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26129"),
+	"availableSeats" : 18,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2619c"),
+	"availableSeats" : 18,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2620d"),
+	"availableSeats" : 18,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2627e"),
+	"availableSeats" : 18,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262ef"),
+	"availableSeats" : 16,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26360"),
+	"availableSeats" : 10,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263d2"),
+	"availableSeats" : 3,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26443"),
+	"availableSeats" : 2,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264b1"),
+	"availableSeats" : 3,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26524"),
+	"availableSeats" : 1,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26595"),
+	"availableSeats" : 1,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26605"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26677"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266e8"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26759"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267ca"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2683b"),
+	"availableSeats" : 10,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268ac"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2691b"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2698e"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269fe"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a70"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ae1"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b55"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bc3"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c34"),
+	"availableSeats" : 2,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ca5"),
+	"availableSeats" : 8,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d16"),
+	"availableSeats" : 2,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d87"),
+	"availableSeats" : 2,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26df7"),
+	"availableSeats" : 2,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e69"),
+	"availableSeats" : 2,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26edb"),
+	"availableSeats" : 2,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f4c"),
+	"availableSeats" : 1,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fbc"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2702d"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2709e"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2710e"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27180"),
+	"availableSeats" : 8,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271f2"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27262"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272d3"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27345"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273b5"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27425"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27496"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2750a"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27579"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275ea"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2765b"),
+	"availableSeats" : 5,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276cc"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2773d"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277ae"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2781f"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2788f"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27901"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27972"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279e6"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a54"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ac3"),
+	"availableSeats" : 0,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b36"),
+	"availableSeats" : 5,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ba6"),
+	"availableSeats" : 5,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c1c"),
+	"availableSeats" : 3,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c88"),
+	"availableSeats" : 3,
+	"capacity" : 43,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cfb"),
+	"availableSeats" : 3,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d6b"),
+	"availableSeats" : 3,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dda"),
+	"availableSeats" : 3,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e4d"),
+	"availableSeats" : 3,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ec1"),
+	"availableSeats" : 3,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f2f"),
+	"availableSeats" : 3,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fa1"),
+	"availableSeats" : 3,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2800e"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28082"),
+	"availableSeats" : 1,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280f2"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28163"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281d6"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28246"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282b6"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28328"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28399"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28407"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2847b"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284ed"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2855f"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285cd"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2863f"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286b0"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28722"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28792"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28802"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28875"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288e5"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28957"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289c5"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a39"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aa9"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b19"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b8b"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bfc"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c6d"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cdd"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d4f"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dc0"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e31"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ea2"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f10"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f83"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ff5"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29065"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290d7"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29149"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291b9"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2922a"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2929a"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2930c"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2937b"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293ed"),
+	"availableSeats" : 1,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2945e"),
+	"availableSeats" : 2,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294d1"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29541"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295b2"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29623"),
+	"availableSeats" : 0,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29694"),
+	"availableSeats" : 4,
+	"capacity" : 65,
+	"code" : "GE1310",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Biochemistry of Attraction",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

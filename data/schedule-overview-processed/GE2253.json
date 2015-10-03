@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e983"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9f6"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea70"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ead9"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb4a"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebbb"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec2c"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec9d"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed0d"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed7f"),
+	"availableSeats" : 9,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edf0"),
+	"availableSeats" : 9,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee61"),
+	"availableSeats" : 9,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eed6"),
+	"availableSeats" : 9,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef43"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efb4"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f025"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f097"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f105"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f177"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1ee"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f25a"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2cb"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f33c"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3ab"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f41e"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f48f"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f500"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f570"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5e2"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f653"),
+	"availableSeats" : 8,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6c4"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f735"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7a6"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f817"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f888"),
+	"availableSeats" : 6,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8fa"),
+	"availableSeats" : 6,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f969"),
+	"availableSeats" : 6,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9da"),
+	"availableSeats" : 6,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa4c"),
+	"availableSeats" : 6,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fabd"),
+	"availableSeats" : 6,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb2d"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb9f"),
+	"availableSeats" : 6,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc10"),
+	"availableSeats" : 6,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc80"),
+	"availableSeats" : 6,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcf2"),
+	"availableSeats" : 6,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd63"),
+	"availableSeats" : 6,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdd3"),
+	"availableSeats" : 6,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe46"),
+	"availableSeats" : 6,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1feb5"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff27"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff98"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20009"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2007a"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200eb"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2015e"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201ce"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20241"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202ae"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2031f"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20391"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20402"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20471"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204e4"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20555"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205c7"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20636"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206a8"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20719"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2078a"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207f8"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2086d"),
+	"availableSeats" : 7,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208dd"),
+	"availableSeats" : 30,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20951"),
+	"availableSeats" : 30,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209bf"),
+	"availableSeats" : 30,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a30"),
+	"availableSeats" : 30,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20aa0"),
+	"availableSeats" : 30,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b12"),
+	"availableSeats" : 30,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b82"),
+	"availableSeats" : 29,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bf4"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c65"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ce3"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d48"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20db8"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e2a"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e99"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f0b"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f7c"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fed"),
+	"availableSeats" : 29,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2105d"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210cf"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21140"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211b1"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21220"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21293"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21302"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21375"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213e6"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21457"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214c8"),
+	"availableSeats" : 29,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21538"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215aa"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2161b"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2168b"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216fd"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2176e"),
+	"availableSeats" : 29,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217df"),
+	"availableSeats" : 29,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21858"),
+	"availableSeats" : 29,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218c0"),
+	"availableSeats" : 29,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21937"),
+	"availableSeats" : 29,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219a3"),
+	"availableSeats" : 29,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a13"),
+	"availableSeats" : 29,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a84"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21af6"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b66"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bd6"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c49"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cba"),
+	"availableSeats" : 27,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d2a"),
+	"availableSeats" : 27,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d9d"),
+	"availableSeats" : 27,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e0d"),
+	"availableSeats" : 27,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e8f"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21eef"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f60"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fd2"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22042"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220b3"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22124"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22193"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22206"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22276"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222e7"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22358"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223ca"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2243b"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224ac"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2251c"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2258e"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225ff"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22670"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226e0"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22752"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227c0"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22833"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228a4"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22917"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22986"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229f7"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a69"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ad8"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b4b"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bba"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c2d"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c9e"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d0f"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d80"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22df1"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e62"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ed2"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f43"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fb5"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23026"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23097"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23108"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23179"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231ea"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23259"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232cc"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2333c"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233ae"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2341f"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23490"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23501"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23572"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235e2"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23654"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236c4"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23737"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237a7"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23818"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23886"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238fa"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2396a"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239dc"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a4d"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23abe"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b2f"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ba0"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c10"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c82"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cf2"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d64"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dd5"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e45"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23eb8"),
+	"availableSeats" : 20,
+	"capacity" : 21,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f28"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f98"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2400a"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2407b"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240ec"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2415b"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241ce"),
+	"availableSeats" : 70,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2423c"),
+	"availableSeats" : 70,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242bf"),
+	"availableSeats" : 70,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24321"),
+	"availableSeats" : 70,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24392"),
+	"availableSeats" : 70,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24403"),
+	"availableSeats" : 70,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24475"),
+	"availableSeats" : 69,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244e5"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24556"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245c6"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24637"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246a7"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2471a"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2478b"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247fc"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2486d"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248de"),
+	"availableSeats" : 69,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2494e"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249c0"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a31"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24aa3"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b12"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b83"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bf4"),
+	"availableSeats" : 67,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c65"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cd6"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d49"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24db9"),
+	"availableSeats" : 69,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e28"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e9b"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f0c"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f7e"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fec"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2505c"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250d9"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25141"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251b1"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25223"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25293"),
+	"availableSeats" : 69,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25305"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25376"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253e7"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25458"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254c9"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2553b"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255aa"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2561c"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2568d"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256fb"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2576f"),
+	"availableSeats" : 69,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257df"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25851"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258c1"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25934"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259a4"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a15"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a86"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25af7"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b68"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bd9"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c4a"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cb9"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d2d"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d9d"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e0d"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e7e"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ef0"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f61"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fd1"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2604a"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260b4"),
+	"availableSeats" : 44,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26124"),
+	"availableSeats" : 44,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26196"),
+	"availableSeats" : 44,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26206"),
+	"availableSeats" : 44,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26278"),
+	"availableSeats" : 44,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262ea"),
+	"availableSeats" : 43,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2635a"),
+	"availableSeats" : 42,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263cb"),
+	"availableSeats" : 37,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2643b"),
+	"availableSeats" : 37,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264ad"),
+	"availableSeats" : 37,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2651e"),
+	"availableSeats" : 37,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2658f"),
+	"availableSeats" : 37,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265ff"),
+	"availableSeats" : 37,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26671"),
+	"availableSeats" : 37,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266e2"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26753"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267c5"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26835"),
+	"availableSeats" : 40,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268a6"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26916"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26988"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269f9"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a6a"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ada"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b4b"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bbd"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c2e"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ca1"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d10"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d80"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26df1"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e61"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ed5"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f45"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fb6"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27027"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27098"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27109"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2717b"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271eb"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2725c"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272cc"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27340"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273ae"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27421"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27491"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27501"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27574"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275e3"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27654"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276c6"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27737"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277a8"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27818"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27887"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278fb"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2796b"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279dd"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a4d"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ac6"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b2e"),
+	"availableSeats" : 39,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b9e"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c11"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c82"),
+	"availableSeats" : 37,
+	"capacity" : 59,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cf3"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d64"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dd4"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e46"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27eb8"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f2a"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f9a"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28012"),
+	"availableSeats" : 65,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2807b"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280eb"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2815d"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281cf"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28242"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282b2"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28322"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28393"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28410"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28475"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284e6"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28557"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285c6"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28639"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286aa"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2871c"),
+	"availableSeats" : 67,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2878b"),
+	"availableSeats" : 67,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287fa"),
+	"availableSeats" : 67,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2886e"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288de"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28952"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289c1"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a32"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aa1"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b14"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b84"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bf6"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c66"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cd8"),
+	"availableSeats" : 68,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d49"),
+	"availableSeats" : 67,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dba"),
+	"availableSeats" : 67,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e2b"),
+	"availableSeats" : 67,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e9c"),
+	"availableSeats" : 67,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f13"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f7d"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fef"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29062"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290d1"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29141"),
+	"availableSeats" : 65,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291b3"),
+	"availableSeats" : 62,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29223"),
+	"availableSeats" : 60,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29295"),
+	"availableSeats" : 61,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29304"),
+	"availableSeats" : 59,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29377"),
+	"availableSeats" : 60,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293e8"),
+	"availableSeats" : 58,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29459"),
+	"availableSeats" : 57,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294ca"),
+	"availableSeats" : 57,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2953b"),
+	"availableSeats" : 55,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295ab"),
+	"availableSeats" : 59,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2961e"),
+	"availableSeats" : 61,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2968d"),
+	"availableSeats" : 61,
+	"capacity" : 91,
+	"code" : "GE2253",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"B"
+	],
+	"title" : "Real Estate Development: Principles and Process",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

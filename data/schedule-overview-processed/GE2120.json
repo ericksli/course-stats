@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e95c"),
+	"availableSeats" : 24,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9cd"),
+	"availableSeats" : 24,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea3e"),
+	"availableSeats" : 23,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eaaf"),
+	"availableSeats" : 22,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb2d"),
+	"availableSeats" : 22,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb91"),
+	"availableSeats" : 22,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec00"),
+	"availableSeats" : 22,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec73"),
+	"availableSeats" : 23,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ece4"),
+	"availableSeats" : 23,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed52"),
+	"availableSeats" : 22,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edc6"),
+	"availableSeats" : 22,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee36"),
+	"availableSeats" : 22,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eea6"),
+	"availableSeats" : 22,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef19"),
+	"availableSeats" : 23,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef8a"),
+	"availableSeats" : 22,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1effb"),
+	"availableSeats" : 22,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f06c"),
+	"availableSeats" : 22,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0dd"),
+	"availableSeats" : 22,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f14e"),
+	"availableSeats" : 22,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1bc"),
+	"availableSeats" : 20,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f230"),
+	"availableSeats" : 20,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f29f"),
+	"availableSeats" : 20,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f312"),
+	"availableSeats" : 19,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f383"),
+	"availableSeats" : 18,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3f3"),
+	"availableSeats" : 18,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f465"),
+	"availableSeats" : 18,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4d7"),
+	"availableSeats" : 18,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f547"),
+	"availableSeats" : 17,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5b8"),
+	"availableSeats" : 17,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f62b"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f69b"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f70c"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f77b"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7ec"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f85d"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8cf"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f940"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9b1"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa22"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa93"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb06"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb75"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbe4"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc57"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcc9"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd39"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdaa"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe1b"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe8c"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fefd"),
+	"availableSeats" : 14,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff6e"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffde"),
+	"availableSeats" : 27,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20051"),
+	"availableSeats" : 26,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200c1"),
+	"availableSeats" : 25,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2012f"),
+	"availableSeats" : 24,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201a2"),
+	"availableSeats" : 13,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20213"),
+	"availableSeats" : 13,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20285"),
+	"availableSeats" : 12,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202f8"),
+	"availableSeats" : 11,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20365"),
+	"availableSeats" : 11,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203d7"),
+	"availableSeats" : 11,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20448"),
+	"availableSeats" : 11,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204ba"),
+	"availableSeats" : 11,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2052b"),
+	"availableSeats" : 13,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2059c"),
+	"availableSeats" : 12,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2060d"),
+	"availableSeats" : 12,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2067c"),
+	"availableSeats" : 12,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206ef"),
+	"availableSeats" : 12,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20760"),
+	"availableSeats" : 12,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207cf"),
+	"availableSeats" : 12,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20842"),
+	"availableSeats" : 12,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208b3"),
+	"availableSeats" : 54,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20924"),
+	"availableSeats" : 54,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20993"),
+	"availableSeats" : 54,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a06"),
+	"availableSeats" : 54,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a77"),
+	"availableSeats" : 54,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ae8"),
+	"availableSeats" : 54,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b59"),
+	"availableSeats" : 48,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bc9"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c3a"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cac"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d1d"),
+	"availableSeats" : 40,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d95"),
+	"availableSeats" : 40,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dff"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e72"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ee1"),
+	"availableSeats" : 37,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f52"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fcd"),
+	"availableSeats" : 44,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21034"),
+	"availableSeats" : 40,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210a4"),
+	"availableSeats" : 40,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21115"),
+	"availableSeats" : 40,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21187"),
+	"availableSeats" : 40,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211f8"),
+	"availableSeats" : 40,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21269"),
+	"availableSeats" : 41,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212da"),
+	"availableSeats" : 40,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2134b"),
+	"availableSeats" : 40,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213bc"),
+	"availableSeats" : 40,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2142d"),
+	"availableSeats" : 40,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2149d"),
+	"availableSeats" : 43,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2150f"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21580"),
+	"availableSeats" : 40,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215f1"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21662"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216d3"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21744"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217b4"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21825"),
+	"availableSeats" : 37,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21897"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2190a"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21979"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219ea"),
+	"availableSeats" : 37,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a5b"),
+	"availableSeats" : 37,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21acc"),
+	"availableSeats" : 36,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b3d"),
+	"availableSeats" : 36,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bae"),
+	"availableSeats" : 37,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c1f"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c90"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d01"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d72"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21de2"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e54"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ec5"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f35"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fa7"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22018"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22089"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220f9"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2216b"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221dc"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2224d"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222be"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2232e"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2239f"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22417"),
+	"availableSeats" : 40,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22482"),
+	"availableSeats" : 39,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224f4"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22563"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225d5"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22646"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226b7"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22726"),
+	"availableSeats" : 38,
+	"capacity" : 85,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2279a"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22809"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2287a"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228ec"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2295d"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229d0"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a3f"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ab0"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b2c"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b92"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c03"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c74"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ce4"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d56"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dc7"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e37"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ea9"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f1a"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f8b"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ffb"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2306d"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230dd"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2314d"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231c0"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2322f"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232a0"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23312"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23384"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233f5"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23466"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234d5"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23548"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235b9"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23628"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2369b"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2370c"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2377d"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237ed"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2385f"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238cf"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23941"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239b2"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a23"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a93"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b05"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b76"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23be7"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c58"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cc9"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d3a"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23da9"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e1c"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e8d"),
+	"availableSeats" : 41,
+	"capacity" : 41,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23efc"),
+	"availableSeats" : 61,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f6e"),
+	"availableSeats" : 61,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fe0"),
+	"availableSeats" : 61,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24051"),
+	"availableSeats" : 61,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240c1"),
+	"availableSeats" : 61,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2414b"),
+	"availableSeats" : 61,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241a3"),
+	"availableSeats" : 126,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24215"),
+	"availableSeats" : 126,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24289"),
+	"availableSeats" : 126,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242f7"),
+	"availableSeats" : 126,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24366"),
+	"availableSeats" : 126,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243d9"),
+	"availableSeats" : 123,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2444a"),
+	"availableSeats" : 115,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244bb"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2452c"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2459d"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2460e"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24681"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246f0"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24761"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247d1"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24843"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248b4"),
+	"availableSeats" : 113,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24924"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24996"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a06"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a78"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ae9"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b5a"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bcb"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c3c"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cad"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d1e"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d8f"),
+	"availableSeats" : 113,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dff"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e71"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ee2"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f52"),
+	"availableSeats" : 107,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fc2"),
+	"availableSeats" : 107,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25035"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250a4"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25122"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25187"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25201"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2526a"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252db"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2534c"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253be"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25430"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2549f"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25510"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25581"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255f2"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25663"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256d4"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25745"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257b6"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25827"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25896"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25909"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2597a"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259ea"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a5d"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ace"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b3d"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25baf"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c20"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c91"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d02"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d73"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25de4"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e55"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ec5"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f37"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fa8"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26019"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2608a"),
+	"availableSeats" : 69,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260fb"),
+	"availableSeats" : 69,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2616b"),
+	"availableSeats" : 69,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261dd"),
+	"availableSeats" : 69,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2624e"),
+	"availableSeats" : 69,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262be"),
+	"availableSeats" : 69,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2632e"),
+	"availableSeats" : 66,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263a1"),
+	"availableSeats" : 65,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26412"),
+	"availableSeats" : 63,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26483"),
+	"availableSeats" : 63,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264f4"),
+	"availableSeats" : 62,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26563"),
+	"availableSeats" : 62,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265d6"),
+	"availableSeats" : 62,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26647"),
+	"availableSeats" : 62,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266b8"),
+	"availableSeats" : 61,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26728"),
+	"availableSeats" : 61,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2679c"),
+	"availableSeats" : 61,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2680b"),
+	"availableSeats" : 65,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2687b"),
+	"availableSeats" : 61,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268ed"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2695d"),
+	"availableSeats" : 59,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269ce"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a40"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ab0"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b20"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b94"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c03"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c75"),
+	"availableSeats" : 64,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ce6"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d57"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dc8"),
+	"availableSeats" : 59,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e37"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eaa"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f1b"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f8b"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ffd"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2706e"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270de"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27150"),
+	"availableSeats" : 64,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271c1"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27231"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272a3"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27314"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27385"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273f6"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27467"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274d8"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27549"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275b7"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2762b"),
+	"availableSeats" : 64,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2769c"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2770d"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2777e"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277ef"),
+	"availableSeats" : 61,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27860"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278d1"),
+	"availableSeats" : 60,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27942"),
+	"availableSeats" : 61,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279b0"),
+	"availableSeats" : 61,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a23"),
+	"availableSeats" : 61,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a95"),
+	"availableSeats" : 62,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b05"),
+	"availableSeats" : 64,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b77"),
+	"availableSeats" : 64,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27be6"),
+	"availableSeats" : 65,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c58"),
+	"availableSeats" : 65,
+	"capacity" : 117,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cc9"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d3a"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dac"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e1c"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e8e"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27eff"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f71"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fdf"),
+	"availableSeats" : 111,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28052"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280c3"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28134"),
+	"availableSeats" : 111,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281a4"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28217"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28287"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282f8"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28369"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283da"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2844b"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284bb"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2852c"),
+	"availableSeats" : 111,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2859e"),
+	"availableSeats" : 111,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2860e"),
+	"availableSeats" : 111,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28680"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286f0"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28762"),
+	"availableSeats" : 112,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287d4"),
+	"availableSeats" : 113,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28844"),
+	"availableSeats" : 113,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288b5"),
+	"availableSeats" : 113,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28925"),
+	"availableSeats" : 111,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28997"),
+	"availableSeats" : 111,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a07"),
+	"availableSeats" : 111,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a79"),
+	"availableSeats" : 111,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aea"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b5b"),
+	"availableSeats" : 111,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bcc"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c3d"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cae"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d1f"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d91"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e01"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e72"),
+	"availableSeats" : 111,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ee3"),
+	"availableSeats" : 104,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f55"),
+	"availableSeats" : 102,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fc5"),
+	"availableSeats" : 100,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29036"),
+	"availableSeats" : 100,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290a7"),
+	"availableSeats" : 96,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29118"),
+	"availableSeats" : 92,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29189"),
+	"availableSeats" : 90,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291fa"),
+	"availableSeats" : 93,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2926b"),
+	"availableSeats" : 93,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292dc"),
+	"availableSeats" : 95,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2934d"),
+	"availableSeats" : 96,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293be"),
+	"availableSeats" : 93,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2942f"),
+	"availableSeats" : 108,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294a0"),
+	"availableSeats" : 109,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29510"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29582"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295f3"),
+	"availableSeats" : 110,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29667"),
+	"availableSeats" : 113,
+	"capacity" : 180,
+	"code" : "GE2120",
+	"credit" : 3,
+	"department" : "Asian & International Studies",
+	"levels" : [
+		"B"
+	],
+	"title" : "Asian Values and Managerial Practices",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
