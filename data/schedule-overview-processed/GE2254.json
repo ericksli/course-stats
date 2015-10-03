@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e984"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9f8"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea68"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eada"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb4b"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebbd"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec2d"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec9e"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed0f"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed81"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edf1"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee62"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eed2"),
+	"availableSeats" : 10,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef44"),
+	"availableSeats" : 10,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efb5"),
+	"availableSeats" : 10,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f024"),
+	"availableSeats" : 10,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f096"),
+	"availableSeats" : 10,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f107"),
+	"availableSeats" : 10,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f179"),
+	"availableSeats" : 10,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1e7"),
+	"availableSeats" : 10,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f25b"),
+	"availableSeats" : 10,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2cc"),
+	"availableSeats" : 10,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f33d"),
+	"availableSeats" : 10,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3ae"),
+	"availableSeats" : 10,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f41f"),
+	"availableSeats" : 10,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f490"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f501"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f572"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5e3"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f654"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6c5"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f736"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7a7"),
+	"availableSeats" : 11,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f81a"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f889"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8f9"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f96c"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9d9"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa4d"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fabe"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb2e"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fba0"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc11"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc82"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcf3"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd64"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdd5"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe45"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1feb7"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff28"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff9a"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2000a"),
+	"availableSeats" : 13,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2007b"),
+	"availableSeats" : 13,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200ed"),
+	"availableSeats" : 13,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2015d"),
+	"availableSeats" : 13,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201cd"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2023f"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202b0"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20320"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20393"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20403"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20474"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204e5"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20554"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205c6"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20637"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206a9"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2071a"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2078b"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207fc"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2086c"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208df"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2094e"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209c1"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a31"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20aa2"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b13"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b84"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bf5"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c66"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cd5"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d47"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dba"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e29"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e9a"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f0c"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f7d"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fee"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2105e"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210d1"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21141"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211b2"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21223"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21294"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21304"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21376"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213e7"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21458"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214c9"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2153a"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215ab"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2161c"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2168d"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216fe"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21771"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217e0"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2185a"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218c2"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21938"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219a4"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a15"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a85"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21af7"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b68"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bd7"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c4b"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cbb"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d2c"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d9c"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e0e"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e7d"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ef2"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f61"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fd1"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22043"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220b4"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22125"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22194"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22207"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22278"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222e9"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22359"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223cc"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2243c"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224ad"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2251e"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2258f"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22601"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22671"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226e3"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22753"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227cd"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22835"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228a3"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22916"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22988"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229f8"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a6a"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ada"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b4e"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bbb"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c2e"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ca0"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d10"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d82"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22df2"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e63"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ed5"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f46"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fb6"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23027"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23098"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23109"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2317a"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231eb"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2325f"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232cd"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2333e"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233af"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23420"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23491"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23502"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23573"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235e3"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23655"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236c6"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23736"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237a8"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23819"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23887"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238fb"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2396b"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239dd"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a4e"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23abf"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b31"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ba1"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c11"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c83"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cf3"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d65"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dd6"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e47"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23eb7"),
+	"availableSeats" : 14,
+	"capacity" : 31,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f29"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f99"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2400b"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2407c"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240ee"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2415e"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241cf"),
+	"availableSeats" : 62,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2423e"),
+	"availableSeats" : 62,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242b7"),
+	"availableSeats" : 62,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24322"),
+	"availableSeats" : 62,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24393"),
+	"availableSeats" : 62,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24405"),
+	"availableSeats" : 61,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24474"),
+	"availableSeats" : 61,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244e4"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24557"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245c7"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24639"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246a8"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2471c"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2478d"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247fd"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2486e"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248df"),
+	"availableSeats" : 61,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24950"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249c1"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a32"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24aa2"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b14"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b8b"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bf6"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c67"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cda"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d48"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dba"),
+	"availableSeats" : 61,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e2b"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e9c"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f0e"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f7d"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fee"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2505f"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250cf"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25142"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251b3"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25224"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25295"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25306"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25377"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253e8"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25459"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254cb"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2553d"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255ad"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2561d"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2568e"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256fc"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25770"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257e1"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25852"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258c3"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25933"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259a7"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a17"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a87"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25af8"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b69"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bda"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c4c"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cbc"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d2c"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d9e"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e0e"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e7f"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ef1"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f62"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fd5"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26041"),
+	"availableSeats" : 58,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260b5"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26127"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26197"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26207"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26279"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262e9"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2635b"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263cc"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2643d"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264af"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2651f"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26590"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26600"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26674"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266e3"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26754"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267c4"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26836"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268a7"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2691a"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26989"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269fa"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a6b"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ae5"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b4e"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bbe"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c2f"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c9f"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d11"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d82"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26df2"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e63"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ed4"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f46"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fb7"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27028"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2709a"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2710b"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2717a"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271ec"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2725d"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272cd"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2733e"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273b0"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27420"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27493"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27503"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27573"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275e4"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27656"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276c7"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27739"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277a9"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27819"),
+	"availableSeats" : 38,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27889"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278fc"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2796d"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279de"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a4f"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27abd"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b31"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ba1"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c13"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c83"),
+	"availableSeats" : 39,
+	"capacity" : 57,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cf5"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d66"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dd5"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e49"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27eb9"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f29"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f9b"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2800b"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2807e"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280ec"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2815e"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281d1"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28240"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282b1"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28323"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28394"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28405"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28476"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284e7"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28559"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285c7"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2863a"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286ab"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2871b"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2878c"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287fc"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2886f"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288e0"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28951"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289c2"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a33"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aa6"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b16"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b86"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bf7"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c67"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cd9"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d4a"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dbc"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e2c"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e9d"),
+	"availableSeats" : 59,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f0d"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f7e"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ff1"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29061"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290d2"),
+	"availableSeats" : 46,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29142"),
+	"availableSeats" : 47,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291b4"),
+	"availableSeats" : 47,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29226"),
+	"availableSeats" : 47,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29297"),
+	"availableSeats" : 47,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29307"),
+	"availableSeats" : 47,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29379"),
+	"availableSeats" : 45,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293e9"),
+	"availableSeats" : 54,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2945a"),
+	"availableSeats" : 54,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294cb"),
+	"availableSeats" : 54,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2953c"),
+	"availableSeats" : 56,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295ad"),
+	"availableSeats" : 56,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2961d"),
+	"availableSeats" : 55,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2968e"),
+	"availableSeats" : 60,
+	"capacity" : 80,
+	"code" : "GE2254",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Competition and Cooperation in Diverse Contexts",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

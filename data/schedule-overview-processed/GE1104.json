@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e947"),
+	"availableSeats" : 16,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9b8"),
+	"availableSeats" : 16,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea28"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea9a"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb0b"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb7c"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebee"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec5e"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecce"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed40"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edb1"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee22"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee93"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef04"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef75"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efe6"),
+	"availableSeats" : 15,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f056"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0c8"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f13d"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1aa"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f21b"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f28a"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2fc"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f36d"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3de"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f457"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4c0"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f536"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5a4"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f613"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f686"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6f4"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f767"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7d8"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f849"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8ba"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f92b"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f99d"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa0c"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa7e"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1faf1"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb60"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbd1"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc42"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcb3"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd24"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd97"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe06"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe77"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fef4"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff58"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffca"),
+	"availableSeats" : 16,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2003b"),
+	"availableSeats" : 16,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200ac"),
+	"availableSeats" : 16,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2011d"),
+	"availableSeats" : 16,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2018f"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201fe"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20270"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202e0"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20351"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203c3"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20436"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204a4"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2051a"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20587"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205f8"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20668"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206da"),
+	"availableSeats" : 12,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2074b"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207c0"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2082c"),
+	"availableSeats" : 13,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2089e"),
+	"availableSeats" : 42,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2090f"),
+	"availableSeats" : 42,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2097f"),
+	"availableSeats" : 42,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209f1"),
+	"availableSeats" : 42,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a61"),
+	"availableSeats" : 42,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ad3"),
+	"availableSeats" : 39,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b44"),
+	"availableSeats" : 34,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bb5"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c27"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c97"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d08"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d79"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20deb"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e60"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ecc"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f3d"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fae"),
+	"availableSeats" : 23,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2101f"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2108e"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21101"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21172"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211e2"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21254"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212c6"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21336"),
+	"availableSeats" : 19,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213a7"),
+	"availableSeats" : 19,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21418"),
+	"availableSeats" : 19,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2148a"),
+	"availableSeats" : 22,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214f9"),
+	"availableSeats" : 19,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2156b"),
+	"availableSeats" : 19,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215dc"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2164d"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216be"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21730"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217a0"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21810"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21882"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218f6"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21963"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219d5"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a46"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ab6"),
+	"availableSeats" : 21,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b29"),
+	"availableSeats" : 21,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b99"),
+	"availableSeats" : 21,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c09"),
+	"availableSeats" : 21,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c7b"),
+	"availableSeats" : 21,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ceb"),
+	"availableSeats" : 21,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d5d"),
+	"availableSeats" : 21,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dce"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e3f"),
+	"availableSeats" : 21,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21eb0"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f20"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f92"),
+	"availableSeats" : 19,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22003"),
+	"availableSeats" : 19,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22074"),
+	"availableSeats" : 19,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220e6"),
+	"availableSeats" : 19,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22158"),
+	"availableSeats" : 19,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221c7"),
+	"availableSeats" : 19,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22238"),
+	"availableSeats" : 19,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222a9"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2231b"),
+	"availableSeats" : 21,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2238b"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223fc"),
+	"availableSeats" : 20,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22473"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224de"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22550"),
+	"availableSeats" : 18,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225c0"),
+	"availableSeats" : 17,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22635"),
+	"availableSeats" : 17,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226a3"),
+	"availableSeats" : 16,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22713"),
+	"availableSeats" : 16,
+	"capacity" : 59,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22784"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227f9"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22866"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228d7"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22948"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229b9"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a29"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a9b"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b0c"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b7d"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bee"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c5f"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cd0"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d41"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22db2"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e23"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e99"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f05"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f76"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fe7"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23057"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230c9"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2313a"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231ab"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2321c"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2328d"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232fe"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23370"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233e5"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23451"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234c1"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23532"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235a4"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23615"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23686"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236f7"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23768"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237d9"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2384a"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238bd"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2392c"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2399c"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a0e"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a7f"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23aef"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b61"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bd2"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c43"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cb4"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d25"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d9b"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e07"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e78"),
+	"availableSeats" : 27,
+	"capacity" : 30,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ee9"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f5a"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fcb"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2403b"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240ad"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2411e"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2418f"),
+	"availableSeats" : 67,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24200"),
+	"availableSeats" : 67,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24271"),
+	"availableSeats" : 67,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242e2"),
+	"availableSeats" : 67,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24353"),
+	"availableSeats" : 67,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243c5"),
+	"availableSeats" : 64,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24435"),
+	"availableSeats" : 50,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244a7"),
+	"availableSeats" : 44,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24529"),
+	"availableSeats" : 44,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24588"),
+	"availableSeats" : 44,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245f9"),
+	"availableSeats" : 44,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2466a"),
+	"availableSeats" : 44,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246db"),
+	"availableSeats" : 43,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2474b"),
+	"availableSeats" : 42,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247bd"),
+	"availableSeats" : 42,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24833"),
+	"availableSeats" : 41,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248a0"),
+	"availableSeats" : 49,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24910"),
+	"availableSeats" : 41,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24980"),
+	"availableSeats" : 41,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249f2"),
+	"availableSeats" : 41,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a62"),
+	"availableSeats" : 41,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ad4"),
+	"availableSeats" : 41,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b45"),
+	"availableSeats" : 41,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bb6"),
+	"availableSeats" : 41,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c26"),
+	"availableSeats" : 40,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c98"),
+	"availableSeats" : 40,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d09"),
+	"availableSeats" : 40,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d7a"),
+	"availableSeats" : 46,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24deb"),
+	"availableSeats" : 39,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e5c"),
+	"availableSeats" : 39,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ecd"),
+	"availableSeats" : 39,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f3d"),
+	"availableSeats" : 39,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24faf"),
+	"availableSeats" : 39,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25020"),
+	"availableSeats" : 39,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25091"),
+	"availableSeats" : 40,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25102"),
+	"availableSeats" : 40,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25172"),
+	"availableSeats" : 40,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251e4"),
+	"availableSeats" : 40,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25257"),
+	"availableSeats" : 46,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252c5"),
+	"availableSeats" : 40,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25338"),
+	"availableSeats" : 40,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253a6"),
+	"availableSeats" : 40,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2541c"),
+	"availableSeats" : 39,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2548b"),
+	"availableSeats" : 39,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254fb"),
+	"availableSeats" : 39,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2556c"),
+	"availableSeats" : 39,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255dd"),
+	"availableSeats" : 39,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2564e"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256bf"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25730"),
+	"availableSeats" : 46,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257a1"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25812"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25883"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258f5"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25965"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259d6"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a47"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ab8"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b29"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b9a"),
+	"availableSeats" : 45,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c0b"),
+	"availableSeats" : 45,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c7c"),
+	"availableSeats" : 44,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ced"),
+	"availableSeats" : 44,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d5c"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dcf"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e40"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25eb1"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f22"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f93"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26004"),
+	"availableSeats" : 37,
+	"capacity" : 120,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26075"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260e6"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26157"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261cb"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26239"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262aa"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2631b"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2638c"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a263fd"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2646e"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264df"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26550"),
+	"availableSeats" : 27,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265c1"),
+	"availableSeats" : 27,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26632"),
+	"availableSeats" : 27,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266a3"),
+	"availableSeats" : 27,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26714"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26785"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267f8"),
+	"availableSeats" : 30,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26867"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268da"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26949"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269ba"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a2b"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a9c"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b0d"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b7e"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bef"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c60"),
+	"availableSeats" : 30,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cd1"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d42"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26db2"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e24"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e94"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f05"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f77"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fe7"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2705b"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270ca"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2713b"),
+	"availableSeats" : 30,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271ac"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2721d"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2728d"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272ff"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27371"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273e1"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27451"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274c3"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27533"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275a7"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27616"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27687"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276f9"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27769"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277da"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2784b"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278bc"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2792d"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2799e"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a0f"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a80"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27af2"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b62"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bd4"),
+	"availableSeats" : 27,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c44"),
+	"availableSeats" : 27,
+	"capacity" : 80,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cb5"),
+	"availableSeats" : 40,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d26"),
+	"availableSeats" : 40,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d96"),
+	"availableSeats" : 40,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e07"),
+	"availableSeats" : 40,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e79"),
+	"availableSeats" : 40,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27eed"),
+	"availableSeats" : 40,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f5b"),
+	"availableSeats" : 40,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fcd"),
+	"availableSeats" : 37,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2803d"),
+	"availableSeats" : 34,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280ae"),
+	"availableSeats" : 30,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2811f"),
+	"availableSeats" : 29,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28190"),
+	"availableSeats" : 28,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28203"),
+	"availableSeats" : 26,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28272"),
+	"availableSeats" : 27,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282e2"),
+	"availableSeats" : 26,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28353"),
+	"availableSeats" : 26,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283c4"),
+	"availableSeats" : 25,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28439"),
+	"availableSeats" : 25,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284a7"),
+	"availableSeats" : 24,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28518"),
+	"availableSeats" : 24,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2858a"),
+	"availableSeats" : 24,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a285fa"),
+	"availableSeats" : 24,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2866b"),
+	"availableSeats" : 23,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286dc"),
+	"availableSeats" : 24,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2874d"),
+	"availableSeats" : 24,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287be"),
+	"availableSeats" : 24,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2882f"),
+	"availableSeats" : 23,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288a2"),
+	"availableSeats" : 23,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28911"),
+	"availableSeats" : 23,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28982"),
+	"availableSeats" : 23,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289f3"),
+	"availableSeats" : 22,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a64"),
+	"availableSeats" : 22,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ad5"),
+	"availableSeats" : 23,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b47"),
+	"availableSeats" : 22,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bb9"),
+	"availableSeats" : 24,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c28"),
+	"availableSeats" : 24,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c99"),
+	"availableSeats" : 24,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d0a"),
+	"availableSeats" : 24,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d7e"),
+	"availableSeats" : 24,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dec"),
+	"availableSeats" : 24,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e5d"),
+	"availableSeats" : 24,
+	"capacity" : 121,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ece"),
+	"availableSeats" : 19,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f3f"),
+	"availableSeats" : 16,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fb0"),
+	"availableSeats" : 13,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29021"),
+	"availableSeats" : 15,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29092"),
+	"availableSeats" : 13,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29103"),
+	"availableSeats" : 9,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29174"),
+	"availableSeats" : 3,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291e5"),
+	"availableSeats" : 2,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29256"),
+	"availableSeats" : 0,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292c7"),
+	"availableSeats" : 0,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2933b"),
+	"availableSeats" : 1,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293a9"),
+	"availableSeats" : 1,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2941a"),
+	"availableSeats" : 0,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2948b"),
+	"availableSeats" : 1,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294fc"),
+	"availableSeats" : 1,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2956d"),
+	"availableSeats" : 2,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295de"),
+	"availableSeats" : 2,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2964f"),
+	"availableSeats" : 0,
+	"capacity" : 127,
+	"code" : "GE1104",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Canons and Their Modern Application",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

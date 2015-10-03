@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e946"),
+	"availableSeats" : 8,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9b6"),
+	"availableSeats" : 8,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea29"),
+	"availableSeats" : 8,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea99"),
+	"availableSeats" : 8,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb0a"),
+	"availableSeats" : 8,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb7b"),
+	"availableSeats" : 7,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebec"),
+	"availableSeats" : 7,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec5d"),
+	"availableSeats" : 7,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eccf"),
+	"availableSeats" : 6,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed3f"),
+	"availableSeats" : 5,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edb0"),
+	"availableSeats" : 5,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee21"),
+	"availableSeats" : 5,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee92"),
+	"availableSeats" : 6,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef03"),
+	"availableSeats" : 6,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef73"),
+	"availableSeats" : 6,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efe5"),
+	"availableSeats" : 6,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f057"),
+	"availableSeats" : 7,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0c7"),
+	"availableSeats" : 7,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f138"),
+	"availableSeats" : 8,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1a9"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f21a"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f28b"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2ff"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f36c"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3dd"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f44f"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4c6"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f531"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5a2"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f614"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f684"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6f5"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f766"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7d7"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f848"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8b8"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f929"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f99b"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa0b"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa7d"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1faed"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb5f"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbd0"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc41"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcb2"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd22"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd94"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe04"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe76"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fee7"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff59"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffc9"),
+	"availableSeats" : 7,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2003a"),
+	"availableSeats" : 8,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200ab"),
+	"availableSeats" : 8,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2011c"),
+	"availableSeats" : 8,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2018d"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201fd"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2026f"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202e1"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20350"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203c2"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20432"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204a9"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20515"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20586"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205f7"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2066b"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206d9"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20749"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207bb"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2082d"),
+	"availableSeats" : 9,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2089c"),
+	"availableSeats" : 19,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2090e"),
+	"availableSeats" : 19,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2097e"),
+	"availableSeats" : 19,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209f0"),
+	"availableSeats" : 19,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a60"),
+	"availableSeats" : 19,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ad1"),
+	"availableSeats" : 17,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b43"),
+	"availableSeats" : 16,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bb4"),
+	"availableSeats" : 13,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c26"),
+	"availableSeats" : 13,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c96"),
+	"availableSeats" : 13,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d06"),
+	"availableSeats" : 11,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d78"),
+	"availableSeats" : 9,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20de9"),
+	"availableSeats" : 9,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e5a"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ecb"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f3c"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fad"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2101e"),
+	"availableSeats" : 6,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2108f"),
+	"availableSeats" : 6,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21100"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21171"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211e3"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21253"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212c4"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21335"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213a6"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21417"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21488"),
+	"availableSeats" : 15,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214f8"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2156a"),
+	"availableSeats" : 6,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215da"),
+	"availableSeats" : 6,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2164c"),
+	"availableSeats" : 6,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216bd"),
+	"availableSeats" : 5,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2172e"),
+	"availableSeats" : 5,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2179f"),
+	"availableSeats" : 6,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21811"),
+	"availableSeats" : 6,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21881"),
+	"availableSeats" : 6,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218f2"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21964"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219d3"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a44"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ab9"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b26"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b98"),
+	"availableSeats" : 6,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c0b"),
+	"availableSeats" : 6,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c7a"),
+	"availableSeats" : 6,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cec"),
+	"availableSeats" : 5,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d5c"),
+	"availableSeats" : 5,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dcc"),
+	"availableSeats" : 6,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e3e"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21eaf"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f1f"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f91"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22002"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22073"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220e4"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22155"),
+	"availableSeats" : 10,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221c6"),
+	"availableSeats" : 9,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22237"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222a8"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22319"),
+	"availableSeats" : 14,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2238a"),
+	"availableSeats" : 13,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223fb"),
+	"availableSeats" : 13,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2246b"),
+	"availableSeats" : 13,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224dd"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2254d"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225bf"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22630"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226a1"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22712"),
+	"availableSeats" : 8,
+	"capacity" : 28,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22783"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227f4"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22865"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228d6"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22947"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229b8"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a31"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a99"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b0b"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b7c"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bed"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c5e"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ccd"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d3f"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22db1"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e22"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e92"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f04"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f74"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fe6"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23058"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230c8"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23139"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231aa"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2321b"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2328c"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232fd"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2336e"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233df"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23450"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234c0"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23531"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235a2"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23614"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23685"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236f6"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23767"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237da"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23848"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238ba"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2392b"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2399b"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a0d"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a7e"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23af4"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b60"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bd1"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c41"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cb3"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d24"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d94"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e06"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e77"),
+	"availableSeats" : 10,
+	"capacity" : 17,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ee8"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f59"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fca"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2403a"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240ac"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2411d"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2418e"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241ff"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24270"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242e1"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24352"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243c2"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24434"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244a5"),
+	"availableSeats" : 22,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24516"),
+	"availableSeats" : 21,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24587"),
+	"availableSeats" : 21,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245f7"),
+	"availableSeats" : 21,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24669"),
+	"availableSeats" : 21,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246d9"),
+	"availableSeats" : 21,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2474e"),
+	"availableSeats" : 21,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247bc"),
+	"availableSeats" : 21,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2482e"),
+	"availableSeats" : 21,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2489e"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2490f"),
+	"availableSeats" : 20,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2497f"),
+	"availableSeats" : 20,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249f1"),
+	"availableSeats" : 20,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a69"),
+	"availableSeats" : 20,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ad3"),
+	"availableSeats" : 20,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b44"),
+	"availableSeats" : 20,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bb5"),
+	"availableSeats" : 20,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c24"),
+	"availableSeats" : 20,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c95"),
+	"availableSeats" : 20,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d08"),
+	"availableSeats" : 20,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d79"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dea"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e5b"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ecc"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f3c"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fae"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2501f"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2508e"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25100"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25171"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251e3"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25253"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252c4"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25336"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253a7"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25417"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25488"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254fa"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2556b"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255dc"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2564d"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256be"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2572f"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257a0"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25811"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25882"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258f3"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25964"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259d5"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a46"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ab7"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b28"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b99"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c0a"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c7b"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cea"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d5d"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dce"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e3e"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25eb0"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f1f"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f92"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26003"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26074"),
+	"availableSeats" : 15,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260e5"),
+	"availableSeats" : 15,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26154"),
+	"availableSeats" : 15,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261c7"),
+	"availableSeats" : 15,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26237"),
+	"availableSeats" : 15,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262a9"),
+	"availableSeats" : 15,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2631a"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2638a"),
+	"availableSeats" : 11,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a263fc"),
+	"availableSeats" : 11,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2646d"),
+	"availableSeats" : 11,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264de"),
+	"availableSeats" : 11,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2654e"),
+	"availableSeats" : 11,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265c0"),
+	"availableSeats" : 11,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26630"),
+	"availableSeats" : 11,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266a1"),
+	"availableSeats" : 11,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26713"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26784"),
+	"availableSeats" : 11,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267f4"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26866"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268d7"),
+	"availableSeats" : 8,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26948"),
+	"availableSeats" : 8,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269b9"),
+	"availableSeats" : 8,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a29"),
+	"availableSeats" : 8,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a9a"),
+	"availableSeats" : 8,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b0b"),
+	"availableSeats" : 8,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b7c"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bee"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c5f"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cd0"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d40"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26db5"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e23"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e95"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f06"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f76"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fe6"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27058"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270c9"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2713a"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271ab"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2721c"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2728c"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272fe"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2736f"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273e0"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2744f"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274c2"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27535"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275a4"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27614"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27685"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276f7"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27768"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277d8"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2784a"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278bb"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2792c"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2799d"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a0e"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a7f"),
+	"availableSeats" : 9,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27af0"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b61"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bd2"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c43"),
+	"availableSeats" : 11,
+	"capacity" : 36,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cb4"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d25"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d95"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e06"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e78"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ee9"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f59"),
+	"availableSeats" : 19,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fca"),
+	"availableSeats" : 22,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2803c"),
+	"availableSeats" : 21,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280ad"),
+	"availableSeats" : 20,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2811e"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2818f"),
+	"availableSeats" : 18,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28200"),
+	"availableSeats" : 17,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28271"),
+	"availableSeats" : 17,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282e1"),
+	"availableSeats" : 17,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28352"),
+	"availableSeats" : 17,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283c5"),
+	"availableSeats" : 17,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28435"),
+	"availableSeats" : 17,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284a6"),
+	"availableSeats" : 17,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28517"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28588"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a285f8"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2866a"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286db"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2874c"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287bd"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2882e"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2889f"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28910"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28981"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289f2"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a62"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ad4"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b44"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bb6"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c26"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c98"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d09"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d7a"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28deb"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e5c"),
+	"availableSeats" : 16,
+	"capacity" : 50,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ecd"),
+	"availableSeats" : 16,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f3e"),
+	"availableSeats" : 13,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28faf"),
+	"availableSeats" : 11,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29020"),
+	"availableSeats" : 9,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29090"),
+	"availableSeats" : 11,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29102"),
+	"availableSeats" : 8,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29173"),
+	"availableSeats" : 6,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291e4"),
+	"availableSeats" : 4,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29255"),
+	"availableSeats" : 7,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292c6"),
+	"availableSeats" : 10,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29337"),
+	"availableSeats" : 7,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293a8"),
+	"availableSeats" : 5,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29418"),
+	"availableSeats" : 3,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2948a"),
+	"availableSeats" : 1,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294fa"),
+	"availableSeats" : 0,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2956b"),
+	"availableSeats" : 1,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295db"),
+	"availableSeats" : 1,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2964e"),
+	"availableSeats" : 2,
+	"capacity" : 52,
+	"code" : "GE1101",
+	"credit" : 3,
+	"department" : "Chinese and History",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Chinese Cultural Heritage in Modern Perspective",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

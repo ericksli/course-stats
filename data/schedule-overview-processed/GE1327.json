@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e98f"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea00"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea72"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eae3"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb54"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebc5"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec36"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eca7"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed1a"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed89"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edfa"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee6b"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eedb"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef4d"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efbe"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f02d"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0a1"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f110"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f182"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1f3"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f264"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2d4"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f347"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3b7"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f432"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f499"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f50a"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f57a"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5ec"),
+	"availableSeats" : 16,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f65d"),
+	"availableSeats" : 14,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6ce"),
+	"availableSeats" : 14,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f73e"),
+	"availableSeats" : 14,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7b0"),
+	"availableSeats" : 15,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f82d"),
+	"availableSeats" : 15,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f893"),
+	"availableSeats" : 15,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f903"),
+	"availableSeats" : 15,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f974"),
+	"availableSeats" : 15,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9e4"),
+	"availableSeats" : 15,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa56"),
+	"availableSeats" : 15,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fac7"),
+	"availableSeats" : 15,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb39"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fba8"),
+	"availableSeats" : 15,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc1a"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc8b"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcfc"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd6d"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fddc"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe50"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1febe"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff30"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffa0"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20012"),
+	"availableSeats" : 18,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20084"),
+	"availableSeats" : 18,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200f5"),
+	"availableSeats" : 18,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20166"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201d7"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20248"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202b9"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2032a"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2039b"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2040b"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2047e"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204ee"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2055e"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205d0"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20641"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206b2"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20722"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20794"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20804"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20876"),
+	"availableSeats" : 17,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208e6"),
+	"availableSeats" : 41,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20958"),
+	"availableSeats" : 41,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209c8"),
+	"availableSeats" : 41,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a3b"),
+	"availableSeats" : 41,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20aaa"),
+	"availableSeats" : 41,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b1c"),
+	"availableSeats" : 41,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b8b"),
+	"availableSeats" : 37,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bfe"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c6f"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cdf"),
+	"availableSeats" : 31,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d50"),
+	"availableSeats" : 31,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dc2"),
+	"availableSeats" : 30,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e3a"),
+	"availableSeats" : 30,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ea4"),
+	"availableSeats" : 30,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f15"),
+	"availableSeats" : 30,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f85"),
+	"availableSeats" : 30,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ff7"),
+	"availableSeats" : 35,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21068"),
+	"availableSeats" : 30,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210d6"),
+	"availableSeats" : 30,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2114b"),
+	"availableSeats" : 31,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211bb"),
+	"availableSeats" : 31,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21244"),
+	"availableSeats" : 31,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2129c"),
+	"availableSeats" : 31,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2130e"),
+	"availableSeats" : 31,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2137f"),
+	"availableSeats" : 31,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213f1"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21463"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214d2"),
+	"availableSeats" : 35,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21543"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215b4"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21625"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21697"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21707"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21777"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217e9"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21857"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218cc"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2193b"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219ad"),
+	"availableSeats" : 35,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a1e"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a8e"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b00"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b71"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21be2"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c53"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cc4"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d33"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21da5"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e17"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e88"),
+	"availableSeats" : 35,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f0c"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f69"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fe2"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2204d"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220bd"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2212d"),
+	"availableSeats" : 33,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2219e"),
+	"availableSeats" : 33,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22210"),
+	"availableSeats" : 33,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22280"),
+	"availableSeats" : 33,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222f1"),
+	"availableSeats" : 33,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22363"),
+	"availableSeats" : 35,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223d4"),
+	"availableSeats" : 34,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22445"),
+	"availableSeats" : 33,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224b6"),
+	"availableSeats" : 33,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22527"),
+	"availableSeats" : 33,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22598"),
+	"availableSeats" : 33,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22609"),
+	"availableSeats" : 33,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2267a"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226ea"),
+	"availableSeats" : 32,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2275c"),
+	"availableSeats" : 33,
+	"capacity" : 48,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227ca"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2283f"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228b0"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22921"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22991"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a02"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a73"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ae4"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b53"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bc6"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c37"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ca8"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d18"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d8a"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dfc"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e6b"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22edc"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f4d"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fbf"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23030"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230a1"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23111"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23183"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231f4"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23265"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232d6"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23347"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233b8"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23429"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2349b"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2350b"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2357c"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235ec"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2365e"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236ce"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23740"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237b2"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23822"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23893"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23903"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23975"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239e5"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a5b"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ac8"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b38"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bae"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c1b"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c8c"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cfc"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d6e"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ddf"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e50"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ebe"),
+	"availableSeats" : 23,
+	"capacity" : 23,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f32"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fa3"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24014"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24084"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240f6"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24167"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241d8"),
+	"availableSeats" : 83,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24248"),
+	"availableSeats" : 83,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242b9"),
+	"availableSeats" : 83,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2432b"),
+	"availableSeats" : 83,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2439c"),
+	"availableSeats" : 83,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2440d"),
+	"availableSeats" : 83,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2447b"),
+	"availableSeats" : 77,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244ef"),
+	"availableSeats" : 74,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24560"),
+	"availableSeats" : 74,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245d1"),
+	"availableSeats" : 74,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24643"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246b1"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24723"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24794"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24806"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24877"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248e8"),
+	"availableSeats" : 76,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24959"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249ca"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a3b"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24aac"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b1b"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b8e"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c01"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c70"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ce8"),
+	"availableSeats" : 74,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d52"),
+	"availableSeats" : 74,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dc3"),
+	"availableSeats" : 77,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e34"),
+	"availableSeats" : 74,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ea5"),
+	"availableSeats" : 74,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f16"),
+	"availableSeats" : 74,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f86"),
+	"availableSeats" : 74,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ff8"),
+	"availableSeats" : 74,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25068"),
+	"availableSeats" : 74,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250da"),
+	"availableSeats" : 74,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2514a"),
+	"availableSeats" : 74,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251bb"),
+	"availableSeats" : 74,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2522c"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2529f"),
+	"availableSeats" : 75,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2530f"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2537f"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253f2"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25462"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254d2"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25545"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255b5"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25625"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25697"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25708"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25779"),
+	"availableSeats" : 75,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257ea"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2585b"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258cb"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2593d"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259ae"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a1f"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a92"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b01"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b72"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25be3"),
+	"availableSeats" : 75,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c54"),
+	"availableSeats" : 75,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cc3"),
+	"availableSeats" : 75,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d33"),
+	"availableSeats" : 75,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25da7"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e18"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e89"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25efb"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f6b"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fdb"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2604d"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260c8"),
+	"availableSeats" : 52,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2612d"),
+	"availableSeats" : 52,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261a0"),
+	"availableSeats" : 52,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26211"),
+	"availableSeats" : 52,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26281"),
+	"availableSeats" : 52,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262f3"),
+	"availableSeats" : 51,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26364"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263d5"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26447"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264b9"),
+	"availableSeats" : 46,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26528"),
+	"availableSeats" : 46,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26598"),
+	"availableSeats" : 46,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26609"),
+	"availableSeats" : 46,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26679"),
+	"availableSeats" : 46,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266ec"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2675d"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267ce"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2683f"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268b0"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26920"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26991"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a01"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a74"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ae4"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b53"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bc9"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c38"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ca9"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d1a"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d8b"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dfb"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e6d"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ede"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f50"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fc1"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27031"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270a2"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27113"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27184"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271f5"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27267"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272d8"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27348"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273b9"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27428"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2749c"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27509"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2757d"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275ee"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2765f"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276cf"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27741"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277b1"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27822"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27894"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27905"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27977"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279e7"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a57"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27aca"),
+	"availableSeats" : 48,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b3a"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27baa"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c1a"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c8d"),
+	"availableSeats" : 47,
+	"capacity" : 66,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cfe"),
+	"availableSeats" : 75,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d6e"),
+	"availableSeats" : 75,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ddf"),
+	"availableSeats" : 75,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e51"),
+	"availableSeats" : 75,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ec2"),
+	"availableSeats" : 75,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f33"),
+	"availableSeats" : 75,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fa4"),
+	"availableSeats" : 75,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28015"),
+	"availableSeats" : 75,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28087"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280f7"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28168"),
+	"availableSeats" : 73,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281d9"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2824a"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282ba"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2832d"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2839d"),
+	"availableSeats" : 72,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2840c"),
+	"availableSeats" : 71,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2847e"),
+	"availableSeats" : 71,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284f0"),
+	"availableSeats" : 71,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28561"),
+	"availableSeats" : 71,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285d1"),
+	"availableSeats" : 71,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2864a"),
+	"availableSeats" : 70,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286b3"),
+	"availableSeats" : 69,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28725"),
+	"availableSeats" : 69,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28795"),
+	"availableSeats" : 69,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28807"),
+	"availableSeats" : 69,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28877"),
+	"availableSeats" : 69,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288e9"),
+	"availableSeats" : 69,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2896d"),
+	"availableSeats" : 70,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289cb"),
+	"availableSeats" : 70,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a3b"),
+	"availableSeats" : 70,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aad"),
+	"availableSeats" : 70,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b1e"),
+	"availableSeats" : 69,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b8e"),
+	"availableSeats" : 70,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c00"),
+	"availableSeats" : 69,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c71"),
+	"availableSeats" : 69,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ce2"),
+	"availableSeats" : 69,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d53"),
+	"availableSeats" : 69,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dc3"),
+	"availableSeats" : 69,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e35"),
+	"availableSeats" : 69,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ea5"),
+	"availableSeats" : 69,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f16"),
+	"availableSeats" : 64,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f88"),
+	"availableSeats" : 61,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ff9"),
+	"availableSeats" : 60,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2906a"),
+	"availableSeats" : 60,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290db"),
+	"availableSeats" : 61,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2914b"),
+	"availableSeats" : 59,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291bd"),
+	"availableSeats" : 56,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2922f"),
+	"availableSeats" : 54,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2929c"),
+	"availableSeats" : 54,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29310"),
+	"availableSeats" : 52,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29380"),
+	"availableSeats" : 54,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293f2"),
+	"availableSeats" : 54,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29462"),
+	"availableSeats" : 65,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294d3"),
+	"availableSeats" : 66,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29545"),
+	"availableSeats" : 65,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295b7"),
+	"availableSeats" : 66,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29627"),
+	"availableSeats" : 66,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29697"),
+	"availableSeats" : 67,
+	"capacity" : 102,
+	"code" : "GE1327",
+	"credit" : 3,
+	"department" : "Mathematics",
+	"levels" : [
+		"B"
+	],
+	"title" : "Navigating Risk",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

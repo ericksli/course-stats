@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e980"),
+	"availableSeats" : 2,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9f0"),
+	"availableSeats" : 2,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea61"),
+	"availableSeats" : 2,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ead4"),
+	"availableSeats" : 2,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb43"),
+	"availableSeats" : 2,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebb4"),
+	"availableSeats" : 2,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec24"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec96"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed07"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed79"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ede9"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee5a"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eeca"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef3c"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efad"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f01e"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f090"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f103"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f171"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1e3"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f254"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2c3"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f334"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3a6"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f417"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f488"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4fd"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f56a"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5da"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f64b"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6be"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f72d"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f79e"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f810"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f882"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8f3"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f963"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9d2"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa45"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fab6"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb27"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb96"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc08"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc7a"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fceb"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd5b"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdcc"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe3e"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1feaf"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff20"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff91"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20002"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20072"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200e4"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20155"),
+	"availableSeats" : 2,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201c6"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20237"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202a8"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20317"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2038a"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203fb"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2046c"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204dd"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2054b"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205bf"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2063c"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2069f"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20712"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20783"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207f4"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20865"),
+	"availableSeats" : 3,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208d8"),
+	"availableSeats" : 17,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20948"),
+	"availableSeats" : 17,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209b7"),
+	"availableSeats" : 17,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a29"),
+	"availableSeats" : 17,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a9b"),
+	"availableSeats" : 17,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b0b"),
+	"availableSeats" : 16,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b7b"),
+	"availableSeats" : 13,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bf0"),
+	"availableSeats" : 5,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c5e"),
+	"availableSeats" : 4,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cce"),
+	"availableSeats" : 4,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d40"),
+	"availableSeats" : 4,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20db0"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e22"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e93"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f04"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f75"),
+	"availableSeats" : 4,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fe6"),
+	"availableSeats" : 11,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2105c"),
+	"availableSeats" : 5,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210c9"),
+	"availableSeats" : 4,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21139"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211a7"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2121b"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2128c"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212fd"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2136f"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213df"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21450"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214be"),
+	"availableSeats" : 8,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21532"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215a3"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21613"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21684"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216f4"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21768"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217d8"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21849"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218bb"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2192b"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2199c"),
+	"availableSeats" : 7,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a0d"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a7e"),
+	"availableSeats" : 2,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21aef"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b60"),
+	"availableSeats" : 2,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bd2"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c42"),
+	"availableSeats" : 2,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cb4"),
+	"availableSeats" : 2,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d24"),
+	"availableSeats" : 2,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d95"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e06"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e75"),
+	"availableSeats" : 7,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ee9"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f59"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fc9"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2203a"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220ac"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2211e"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22190"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221ff"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2226f"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222ee"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22350"),
+	"availableSeats" : 7,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223c3"),
+	"availableSeats" : 6,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22434"),
+	"availableSeats" : 6,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224a4"),
+	"availableSeats" : 6,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22515"),
+	"availableSeats" : 2,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22587"),
+	"availableSeats" : 2,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225f9"),
+	"availableSeats" : 2,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22669"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226d9"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2274b"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227bb"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2282d"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2289e"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2290f"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22980"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229fb"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a62"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ad4"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b44"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bb3"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c25"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c97"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d09"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d79"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22deb"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e58"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ecc"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f3d"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fae"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2301f"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23090"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23101"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23172"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231e3"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23254"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232c5"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23336"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233a7"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23418"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23489"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234fc"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2356b"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235db"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2364c"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236bd"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2372f"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237a0"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23811"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23883"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238f2"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23964"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239d4"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a46"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ab6"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b28"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b97"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c09"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c7b"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cea"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d5c"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dce"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e3e"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23eb2"),
+	"availableSeats" : 13,
+	"capacity" : 37,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f21"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f91"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24003"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24074"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240e5"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24156"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241c7"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24238"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242aa"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2431a"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2438a"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243fb"),
+	"availableSeats" : 19,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2446d"),
+	"availableSeats" : 3,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244db"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2454f"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245c0"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24630"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246a0"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24713"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24784"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247f3"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24866"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248d7"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24948"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249b8"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a2a"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a9b"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b0c"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b7d"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bee"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c60"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cd0"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d42"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24db2"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e23"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e94"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f04"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f76"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fe7"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25056"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250c9"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2513a"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251ab"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2521c"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2528e"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252fc"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2536f"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253e1"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25451"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254c2"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25534"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255a4"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25615"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25687"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256f6"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25768"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257d9"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2584b"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258bb"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2592c"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2599d"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a0e"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a7f"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25af0"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b61"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bd2"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c42"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cb3"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d27"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d95"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e06"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e77"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ee9"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f5a"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fca"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2603c"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260ad"),
+	"availableSeats" : 11,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2611e"),
+	"availableSeats" : 11,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2618f"),
+	"availableSeats" : 11,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26200"),
+	"availableSeats" : 11,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26271"),
+	"availableSeats" : 11,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262e2"),
+	"availableSeats" : 11,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26353"),
+	"availableSeats" : 8,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263c3"),
+	"availableSeats" : 8,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26435"),
+	"availableSeats" : 7,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264a6"),
+	"availableSeats" : 7,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26518"),
+	"availableSeats" : 7,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26588"),
+	"availableSeats" : 7,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265f9"),
+	"availableSeats" : 6,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26669"),
+	"availableSeats" : 6,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266db"),
+	"availableSeats" : 6,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2674b"),
+	"availableSeats" : 6,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267bc"),
+	"availableSeats" : 6,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2682e"),
+	"availableSeats" : 8,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2689f"),
+	"availableSeats" : 7,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26910"),
+	"availableSeats" : 7,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26980"),
+	"availableSeats" : 7,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269f2"),
+	"availableSeats" : 7,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a63"),
+	"availableSeats" : 7,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ad4"),
+	"availableSeats" : 7,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b44"),
+	"availableSeats" : 7,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bb6"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c28"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c98"),
+	"availableSeats" : 8,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d0a"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d7a"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dee"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e59"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ecd"),
+	"availableSeats" : 6,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f3e"),
+	"availableSeats" : 6,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26faf"),
+	"availableSeats" : 6,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27020"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27091"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27102"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27174"),
+	"availableSeats" : 8,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271e4"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27254"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272c5"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27337"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273a8"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27419"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2748a"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274fd"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2756d"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275dd"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2764f"),
+	"availableSeats" : 8,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276bf"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2772f"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277a1"),
+	"availableSeats" : 4,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27812"),
+	"availableSeats" : 4,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27884"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278f4"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27965"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279d5"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a46"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ab7"),
+	"availableSeats" : 5,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b29"),
+	"availableSeats" : 8,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b99"),
+	"availableSeats" : 8,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c0b"),
+	"availableSeats" : 8,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c7e"),
+	"availableSeats" : 8,
+	"capacity" : 61,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ced"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d5e"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dcf"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e41"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27eb2"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f24"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f92"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28005"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28075"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280e9"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28155"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281c7"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28239"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282aa"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2831b"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2838b"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283ff"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2846e"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284de"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28550"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285bf"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28632"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286a2"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28714"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28785"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287f5"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28867"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288d5"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28949"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289ba"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a2b"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a9a"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b0e"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b7e"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bf0"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c60"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cd1"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d42"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28db3"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e23"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e94"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f05"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f76"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fe8"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29058"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290c9"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2913b"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291ab"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2921d"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2928e"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292fd"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2936f"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293e1"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29452"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294c3"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29534"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295a4"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29616"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29691"),
+	"availableSeats" : 4,
+	"capacity" : 80,
+	"code" : "GE2229",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Uncovering the Global Economy through News",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

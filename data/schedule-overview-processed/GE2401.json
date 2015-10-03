@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e93b"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9ad"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea1e"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea8f"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb00"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb71"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebe2"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec53"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecc4"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed35"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eda6"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee17"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee88"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eef9"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef69"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efdb"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f04c"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0bc"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f12e"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f19e"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f20f"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f281"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2f2"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f363"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3d5"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f447"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4b6"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f527"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f598"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f609"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f67a"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6eb"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f75e"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7cd"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f83d"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8ae"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f920"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f991"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa02"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa73"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fae4"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb54"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbc6"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc37"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fca7"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd18"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd8a"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdfb"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe6c"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fedd"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff4e"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffbe"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20030"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200a0"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20112"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20183"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201f4"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20265"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202d7"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20347"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203b8"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20428"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20499"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2050b"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2057c"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205ec"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2065e"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206cf"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20740"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207b1"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20822"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20893"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20903"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20975"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209e5"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a56"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ac8"),
+	"availableSeats" : 59,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b39"),
+	"availableSeats" : 48,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20baa"),
+	"availableSeats" : 25,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c1b"),
+	"availableSeats" : 25,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c8e"),
+	"availableSeats" : 25,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cfc"),
+	"availableSeats" : 25,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d6d"),
+	"availableSeats" : 25,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ddf"),
+	"availableSeats" : 24,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e50"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ec1"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f33"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fa5"),
+	"availableSeats" : 28,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21014"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21085"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210f5"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21166"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211d8"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21249"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212ba"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2132b"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2139b"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2140c"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2147e"),
+	"availableSeats" : 27,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214ef"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21560"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215d1"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21642"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216b2"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21725"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21795"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21807"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21876"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218e8"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2195a"),
+	"availableSeats" : 27,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219ca"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a3b"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21aac"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b1c"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b8d"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bff"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c70"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ce1"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d53"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dc3"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e34"),
+	"availableSeats" : 27,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ea5"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f16"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f87"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ff7"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22068"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220da"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2214b"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221bc"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2222f"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2229d"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2230f"),
+	"availableSeats" : 26,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22380"),
+	"availableSeats" : 25,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223f1"),
+	"availableSeats" : 25,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22462"),
+	"availableSeats" : 25,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224d3"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22544"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225b6"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22626"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22696"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22708"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22779"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227ea"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2285a"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228cd"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2293d"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229ad"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a1f"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a90"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b00"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b72"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22be3"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c54"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cc6"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d35"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22da7"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e17"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e89"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ef9"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f6a"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fdd"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2304d"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230be"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2312f"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231a0"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23210"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23283"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232f3"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23364"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233d5"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23446"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234b7"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23528"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23599"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2360a"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2367b"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236ec"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2375d"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237ce"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2383f"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238b0"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23921"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23992"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a02"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a74"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ae5"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b56"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bc7"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c38"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ca9"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d1a"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d8b"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dfc"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e6d"),
+	"availableSeats" : 65,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ede"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f4f"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fc0"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24031"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240a2"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24113"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24186"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241f5"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24266"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242d8"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24349"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243b9"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24429"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2449b"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2450c"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2457c"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245ed"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2465f"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246cf"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24740"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247b1"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24823"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24894"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24904"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24976"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249e7"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a58"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ac9"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b3a"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24baa"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c1b"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c8d"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cfd"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d6f"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ddf"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e51"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ec2"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f33"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fa7"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25015"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25085"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250f7"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25167"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251d9"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2524a"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252ba"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2532c"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2539c"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2540e"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2547f"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254f0"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25560"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255d1"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25642"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256b5"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25725"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25795"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25807"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25878"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258e9"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2595a"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259cb"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a3c"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25aad"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b1d"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b8f"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c00"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c71"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ce2"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d53"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dc4"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e34"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ea6"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f17"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f87"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ff8"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2606a"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260da"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2614c"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261bd"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2622e"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2629f"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26310"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26381"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a263f2"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26464"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264d7"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26545"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265b6"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26627"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26698"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26708"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2677a"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267eb"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2685c"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268cd"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2693d"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269af"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a20"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a90"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b02"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b73"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26be4"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c55"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cc6"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d37"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26da8"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e19"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e89"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26efb"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f6c"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fdc"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2704e"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270bf"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2712f"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271a0"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27211"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27282"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272f3"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27365"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273d6"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27446"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274b8"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27529"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2759a"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2760b"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2767c"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276ed"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2775e"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277ce"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2783f"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278b1"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27923"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27993"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a04"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a75"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ae6"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b56"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bc8"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c39"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27caa"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d1a"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d8c"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dfd"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e6d"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27edf"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f4f"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fc1"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28032"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280a3"),
+	"availableSeats" : 23,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28114"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28184"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281f6"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28266"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282d7"),
+	"availableSeats" : 22,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28348"),
+	"availableSeats" : 21,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283ba"),
+	"availableSeats" : 20,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2842a"),
+	"availableSeats" : 20,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2849b"),
+	"availableSeats" : 20,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2850d"),
+	"availableSeats" : 20,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2857e"),
+	"availableSeats" : 20,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a285ef"),
+	"availableSeats" : 20,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28660"),
+	"availableSeats" : 20,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286d1"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28742"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287b3"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28824"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28894"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28906"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28977"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289e8"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a59"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aca"),
+	"availableSeats" : 20,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b3c"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bac"),
+	"availableSeats" : 20,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c1d"),
+	"availableSeats" : 20,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c8e"),
+	"availableSeats" : 20,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cfe"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d70"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28de1"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e51"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ec4"),
+	"availableSeats" : 18,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f34"),
+	"availableSeats" : 18,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fa5"),
+	"availableSeats" : 19,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29015"),
+	"availableSeats" : 17,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29087"),
+	"availableSeats" : 17,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290f8"),
+	"availableSeats" : 16,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29169"),
+	"availableSeats" : 15,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291da"),
+	"availableSeats" : 13,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2924b"),
+	"availableSeats" : 13,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292bb"),
+	"availableSeats" : 13,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2932d"),
+	"availableSeats" : 8,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2939d"),
+	"availableSeats" : 8,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2940f"),
+	"availableSeats" : 10,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29480"),
+	"availableSeats" : 9,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294f1"),
+	"availableSeats" : 13,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29562"),
+	"availableSeats" : 14,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295d3"),
+	"availableSeats" : 16,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29644"),
+	"availableSeats" : 18,
+	"capacity" : 125,
+	"code" : "GE2401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "English for Science",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}

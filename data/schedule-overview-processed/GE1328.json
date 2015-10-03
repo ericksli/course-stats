@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e990"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea03"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea73"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eae4"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb55"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebc6"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec37"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eca8"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed18"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed8a"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edfb"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee6c"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eedc"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef4e"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efbf"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f02e"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0a0"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f112"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f183"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1f4"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f262"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2d6"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f348"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3b8"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f440"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f49a"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f50b"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f57b"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5ed"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f65e"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6cf"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f740"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7b1"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f834"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f892"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f904"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f975"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9e5"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa58"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fac8"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb38"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fba9"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc1b"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc8c"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcff"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd6e"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fddd"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe51"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fec1"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff34"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffa2"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20014"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20085"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200f6"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2016e"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201d8"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20249"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202ba"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2032b"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2039c"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2040d"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2047d"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204ef"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20561"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205d1"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20642"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206b3"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20724"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20795"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20805"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20877"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208e8"),
+	"availableSeats" : 14,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2095a"),
+	"availableSeats" : 14,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209c9"),
+	"availableSeats" : 14,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a3a"),
+	"availableSeats" : 14,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20aab"),
+	"availableSeats" : 14,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b1d"),
+	"availableSeats" : 12,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b91"),
+	"availableSeats" : 10,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bff"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c70"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ce0"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d51"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dc3"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e37"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ea5"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f16"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f87"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ff8"),
+	"availableSeats" : 6,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2106b"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210d8"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2114a"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211c6"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2122d"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2129e"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2130f"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21380"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213f0"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21461"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214d3"),
+	"availableSeats" : 6,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21544"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215b5"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21626"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21696"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21708"),
+	"availableSeats" : 4,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21779"),
+	"availableSeats" : 4,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217ea"),
+	"availableSeats" : 4,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2185b"),
+	"availableSeats" : 4,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218cb"),
+	"availableSeats" : 4,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2193d"),
+	"availableSeats" : 4,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219ae"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a20"),
+	"availableSeats" : 4,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a9b"),
+	"availableSeats" : 4,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b01"),
+	"availableSeats" : 4,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b72"),
+	"availableSeats" : 4,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21be3"),
+	"availableSeats" : 4,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c54"),
+	"availableSeats" : 4,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cc5"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d36"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21da7"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e18"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e87"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f0a"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f6b"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fdb"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2204c"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220be"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2212e"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2219f"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22211"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22283"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222f3"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22364"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223d5"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22446"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224b7"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22528"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22599"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2260a"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2267c"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226ec"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2275d"),
+	"availableSeats" : 5,
+	"capacity" : 29,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227ce"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2283e"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228ae"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22920"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22990"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a03"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a74"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ae5"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b56"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bc8"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c38"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ca9"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d1a"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d8b"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dfb"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e6c"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ede"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f4e"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fc0"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23031"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230a2"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23113"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23184"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231f5"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23266"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232d7"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23348"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233b9"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2342a"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2349a"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2350c"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2357d"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235ee"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2365f"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236cf"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23741"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237b1"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23823"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23894"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23905"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23976"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239e6"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a55"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ad3"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b3a"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23baf"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c1c"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c8d"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cfd"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d6f"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23de0"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e51"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ebf"),
+	"availableSeats" : 12,
+	"capacity" : 17,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f33"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fa4"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24015"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24086"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240f7"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24169"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241d9"),
+	"availableSeats" : 20,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24249"),
+	"availableSeats" : 20,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242ba"),
+	"availableSeats" : 20,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2432d"),
+	"availableSeats" : 20,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2439d"),
+	"availableSeats" : 20,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2440e"),
+	"availableSeats" : 19,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2447e"),
+	"availableSeats" : 12,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244f0"),
+	"availableSeats" : 9,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24561"),
+	"availableSeats" : 9,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245d2"),
+	"availableSeats" : 9,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24642"),
+	"availableSeats" : 8,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246b3"),
+	"availableSeats" : 8,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24725"),
+	"availableSeats" : 8,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24796"),
+	"availableSeats" : 8,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24808"),
+	"availableSeats" : 8,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24878"),
+	"availableSeats" : 8,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248e9"),
+	"availableSeats" : 10,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2495a"),
+	"availableSeats" : 8,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249cb"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a3d"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24aad"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b1c"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b8f"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bff"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c72"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ce0"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d53"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dc5"),
+	"availableSeats" : 10,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e35"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ea6"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f18"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f88"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ff9"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2506a"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250db"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2514c"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251bd"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2522e"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2529e"),
+	"availableSeats" : 9,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25310"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25381"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253f3"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25463"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254d4"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25544"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255b9"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25627"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25698"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25709"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2577a"),
+	"availableSeats" : 9,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257eb"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2585c"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258cc"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2593f"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259af"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a21"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a90"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b02"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b76"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25be4"),
+	"availableSeats" : 9,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c55"),
+	"availableSeats" : 9,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cc4"),
+	"availableSeats" : 9,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d36"),
+	"availableSeats" : 9,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25da8"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e1a"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e8a"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25efa"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f6c"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fea"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2604e"),
+	"availableSeats" : 7,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260bd"),
+	"availableSeats" : 15,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2612e"),
+	"availableSeats" : 15,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261a1"),
+	"availableSeats" : 15,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26212"),
+	"availableSeats" : 15,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26282"),
+	"availableSeats" : 15,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262f4"),
+	"availableSeats" : 14,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26365"),
+	"availableSeats" : 10,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263d6"),
+	"availableSeats" : 5,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26446"),
+	"availableSeats" : 4,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264b8"),
+	"availableSeats" : 4,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26529"),
+	"availableSeats" : 4,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2659a"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2660a"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2667a"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266ed"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2675e"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267d1"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26840"),
+	"availableSeats" : 10,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268b1"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26921"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26993"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a02"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a75"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ae6"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b54"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bd2"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c39"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cab"),
+	"availableSeats" : 9,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d1b"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d8c"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dfd"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e6e"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26edf"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f4f"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fc0"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27032"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270a3"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27114"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27185"),
+	"availableSeats" : 9,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271f6"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27266"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272d7"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27349"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273bc"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27429"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2749b"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2750b"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2757e"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275ef"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27660"),
+	"availableSeats" : 9,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276d1"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27742"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277b2"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27824"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27895"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27906"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27976"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279e8"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a59"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ac9"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b3b"),
+	"availableSeats" : 7,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bac"),
+	"availableSeats" : 6,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c1d"),
+	"availableSeats" : 6,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c91"),
+	"availableSeats" : 6,
+	"capacity" : 38,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cff"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d70"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27de1"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e52"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ec3"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f34"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fa5"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28016"),
+	"availableSeats" : 4,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28086"),
+	"availableSeats" : 2,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280f6"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28169"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281da"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2824b"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282d0"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2832c"),
+	"availableSeats" : 2,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2839e"),
+	"availableSeats" : 1,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2840d"),
+	"availableSeats" : 1,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28480"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284f1"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28562"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285d2"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28642"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286b6"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28726"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28796"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28808"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28878"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288ea"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2895a"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289cc"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a3e"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aae"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b1d"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b90"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c01"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c72"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ce3"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d54"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dc5"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e36"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ea6"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f17"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f89"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ffa"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2906b"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290dc"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2914d"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291be"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2922e"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2929e"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29311"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29382"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293f3"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29479"),
+	"availableSeats" : 0,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294d5"),
+	"availableSeats" : 3,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29546"),
+	"availableSeats" : 4,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295b6"),
+	"availableSeats" : 5,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29629"),
+	"availableSeats" : 5,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29699"),
+	"availableSeats" : 6,
+	"capacity" : 55,
+	"code" : "GE1328",
+	"credit" : 3,
+	"department" : "Biomedical Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Mind, Body and Energy",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

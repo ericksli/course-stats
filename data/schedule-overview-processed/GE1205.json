@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e966"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9d7"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea48"),
+	"availableSeats" : 2,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eab8"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb2a"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb9a"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec0c"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec7d"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecee"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed5e"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edd0"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee41"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eeb2"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef23"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef92"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f005"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f075"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0e7"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f15e"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1c9"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f239"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2ae"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f31c"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f38d"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3fd"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f46f"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4e0"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f550"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5c1"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f633"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6a2"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f715"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f785"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7f7"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f866"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8d9"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f949"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9ba"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa2c"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa9d"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb0d"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb7e"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbf0"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc61"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcd2"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd42"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdb4"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe24"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe93"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff07"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff79"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffe9"),
+	"availableSeats" : 3,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20059"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200cb"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2013b"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201ad"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2021c"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2028e"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20300"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20371"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203e2"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20452"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204c4"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20535"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205a6"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20617"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20688"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206f9"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2076a"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207db"),
+	"availableSeats" : 0,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2084c"),
+	"availableSeats" : 1,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208c4"),
+	"availableSeats" : 34,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2092e"),
+	"availableSeats" : 34,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2099e"),
+	"availableSeats" : 34,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a10"),
+	"availableSeats" : 34,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a81"),
+	"availableSeats" : 34,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20af2"),
+	"availableSeats" : 28,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b63"),
+	"availableSeats" : 5,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bd2"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c45"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cb5"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d26"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d96"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e09"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e7a"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20eeb"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f5a"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fcc"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2103e"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210ae"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21120"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21191"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21202"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21273"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212e6"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21353"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213c5"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21436"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214a7"),
+	"availableSeats" : 1,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21519"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2158b"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215fb"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2166c"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216dd"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2174e"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217bf"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21830"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2189e"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21912"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21983"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219f4"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a65"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ad5"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b47"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bb8"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c28"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c99"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d0a"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d7c"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ded"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e5e"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ed8"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f40"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fb0"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22021"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22093"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22104"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22175"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221e6"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22257"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222c8"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22338"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223aa"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2241b"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2248c"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224fb"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2256e"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225df"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22660"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226c1"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22732"),
+	"availableSeats" : 0,
+	"capacity" : 82,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227a3"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22814"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22884"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228f5"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22967"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229db"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a49"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22aba"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b2a"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b9c"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c0c"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c7c"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cef"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d5f"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ddd"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e42"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eb3"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f24"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f95"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23007"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23077"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230e8"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23158"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231ca"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2323b"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232ac"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2331e"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2338c"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233fe"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2346f"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234df"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23552"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235c2"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23634"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236a5"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23716"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23786"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237f8"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23869"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238da"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2394a"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239bb"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a2d"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a9e"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b0c"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b80"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bf1"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c62"),
+	"availableSeats" : 30,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cd3"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d44"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23db5"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e26"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e97"),
+	"availableSeats" : 31,
+	"capacity" : 49,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f08"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f79"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fe8"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2405b"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240cc"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2413c"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241af"),
+	"availableSeats" : 52,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2421f"),
+	"availableSeats" : 52,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24290"),
+	"availableSeats" : 52,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24301"),
+	"availableSeats" : 52,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24372"),
+	"availableSeats" : 52,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243e3"),
+	"availableSeats" : 4,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24454"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244c5"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24536"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245a7"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24617"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24689"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246fa"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2476a"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247dc"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2484d"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248c0"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24930"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2499f"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a11"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a82"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24afe"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b64"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bd3"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c46"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cc3"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d27"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d98"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e0a"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e7c"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24eec"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f5d"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fce"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2503f"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250b1"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25120"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25192"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25203"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25274"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252e5"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25362"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253c7"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25438"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254ab"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25518"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2558b"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255fc"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2566d"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256de"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2574e"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257c0"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25831"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258a1"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25913"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25984"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259f5"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a66"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ad7"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b48"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bba"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c2a"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c9c"),
+	"availableSeats" : 1,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d0d"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d7d"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25def"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e5f"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ed0"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f40"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fb2"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26023"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26094"),
+	"availableSeats" : 25,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26105"),
+	"availableSeats" : 25,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26176"),
+	"availableSeats" : 25,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261e9"),
+	"availableSeats" : 25,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26258"),
+	"availableSeats" : 25,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262ca"),
+	"availableSeats" : 15,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2633a"),
+	"availableSeats" : 4,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263ab"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2641b"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2648d"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264fe"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2657b"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265e0"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26651"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266c1"),
+	"availableSeats" : 1,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26733"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267a4"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26815"),
+	"availableSeats" : 2,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26886"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268f7"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26968"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269da"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a49"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26abb"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b2c"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b9c"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c0e"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c7f"),
+	"availableSeats" : 1,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cf0"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d61"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dd3"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e43"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eb3"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f25"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f96"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27008"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27075"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270e9"),
+	"availableSeats" : 1,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27159"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271cb"),
+	"availableSeats" : 1,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2723b"),
+	"availableSeats" : 1,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272ad"),
+	"availableSeats" : 1,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2731c"),
+	"availableSeats" : 1,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2738f"),
+	"availableSeats" : 1,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27400"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2746e"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274e2"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27553"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275cd"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27633"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276a7"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27715"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27788"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277f7"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2786a"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278da"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2794c"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279bc"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a2e"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a9f"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b0f"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b81"),
+	"availableSeats" : 2,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bf1"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c63"),
+	"availableSeats" : 0,
+	"capacity" : 106,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cd4"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d45"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27db4"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e29"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e97"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f09"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f7a"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27feb"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2805c"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280cd"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2813e"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281af"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28220"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28291"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28302"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28373"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283e5"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28455"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284c6"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28537"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285a8"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28619"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2868a"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286f8"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2876b"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287dd"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2884d"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288bf"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28930"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289a3"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a12"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a82"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28af4"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b65"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bd6"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c47"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cb8"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d27"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d9b"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e0b"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e7c"),
+	"availableSeats" : 0,
+	"capacity" : 155,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28eed"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f5e"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fcf"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29040"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290b1"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29121"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29193"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29204"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29274"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292e6"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29357"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293c9"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29439"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294aa"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2951a"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2958c"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295fd"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2966e"),
+	"availableSeats" : 0,
+	"capacity" : 160,
+	"code" : "GE1205",
+	"credit" : 3,
+	"department" : "Economics & Finance",
+	"levels" : [
+		"B"
+	],
+	"title" : "Green Economics",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

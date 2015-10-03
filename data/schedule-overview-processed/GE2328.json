@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9aa"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea1b"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea8b"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eafd"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb6d"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebdf"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec4d"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecc1"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed32"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eda1"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee14"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee85"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eef6"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef67"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efd8"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f04a"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0ba"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f12b"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f19b"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f20d"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f27e"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2f0"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f360"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3d1"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f43f"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4b3"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f525"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f596"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f606"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f674"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6e7"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f759"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7cb"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f83b"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8ac"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f91d"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f98c"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9ff"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa70"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fae0"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb52"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbc2"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc34"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fca5"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd16"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd87"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdf8"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe69"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1feda"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff4b"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffbb"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2002e"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2009e"),
+	"availableSeats" : 11,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2010f"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20180"),
+	"availableSeats" : 12,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201f1"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20262"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202d2"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20344"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203b6"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20425"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20497"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20507"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20579"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205ea"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2065b"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206cd"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2073d"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207ae"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2081f"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20890"),
+	"availableSeats" : 13,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20900"),
+	"availableSeats" : 34,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20972"),
+	"availableSeats" : 34,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209e3"),
+	"availableSeats" : 34,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a54"),
+	"availableSeats" : 34,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ac5"),
+	"availableSeats" : 34,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b37"),
+	"availableSeats" : 33,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ba6"),
+	"availableSeats" : 32,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c17"),
+	"availableSeats" : 29,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c89"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cfa"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d6a"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ddc"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e4d"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ebd"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f2f"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fa0"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2100f"),
+	"availableSeats" : 29,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21082"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210f3"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21163"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211d4"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21247"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212b8"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21327"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21398"),
+	"availableSeats" : 28,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2140a"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2147b"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214ea"),
+	"availableSeats" : 29,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2155a"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215cc"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2163f"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216ae"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21721"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2178f"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21804"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21874"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218e4"),
+	"availableSeats" : 26,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21956"),
+	"availableSeats" : 26,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219c7"),
+	"availableSeats" : 29,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a38"),
+	"availableSeats" : 26,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21aa8"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b1a"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b89"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bfb"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c6d"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cde"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d50"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dbf"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e32"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ea1"),
+	"availableSeats" : 30,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f12"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f83"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ff5"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22066"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220d6"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22147"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221ba"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22229"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2229a"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2230c"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2237d"),
+	"availableSeats" : 30,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223ee"),
+	"availableSeats" : 30,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22460"),
+	"availableSeats" : 29,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224d0"),
+	"availableSeats" : 29,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22541"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225b1"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22623"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22693"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22705"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22775"),
+	"availableSeats" : 27,
+	"capacity" : 46,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227e6"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22856"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228ca"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2293b"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229aa"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a1d"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a8a"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22afe"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b6f"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bdf"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c4f"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cc2"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d33"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22da3"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e16"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e85"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ef5"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f68"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fda"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2304b"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230b9"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2312b"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2319c"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2320f"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2327f"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232f1"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23361"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233d1"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23444"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234b3"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23525"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23596"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23607"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23678"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236e9"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23759"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237cb"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2383a"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238ad"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2391e"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23990"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a00"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a70"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ae1"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b52"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bc4"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c36"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ca7"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d17"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d88"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23df8"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e6a"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23edb"),
+	"availableSeats" : 19,
+	"capacity" : 25,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f4c"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fbd"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2402d"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2409e"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24110"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24180"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241f1"),
+	"availableSeats" : 71,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24263"),
+	"availableSeats" : 71,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242d5"),
+	"availableSeats" : 71,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24345"),
+	"availableSeats" : 71,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243b5"),
+	"availableSeats" : 71,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24426"),
+	"availableSeats" : 69,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24498"),
+	"availableSeats" : 67,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24508"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24578"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245eb"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2465c"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246cd"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2473e"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247ae"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24820"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24890"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24900"),
+	"availableSeats" : 67,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24971"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249e4"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a55"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ac5"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b37"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ba7"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c19"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c8a"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cfb"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d6b"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dda"),
+	"availableSeats" : 65,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e4d"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ebe"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f30"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fa0"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25011"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25084"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250f4"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25165"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251d5"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25245"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252b8"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25329"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2539a"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2540c"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2547c"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254ed"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2555f"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255ce"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25640"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256b1"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25722"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25794"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25804"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25875"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258e5"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25957"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259c7"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a39"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25aaa"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b1b"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b8c"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bfb"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c6e"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cde"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d4d"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dc1"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e32"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ea4"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f15"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f85"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ff6"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26066"),
+	"availableSeats" : 63,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260d9"),
+	"availableSeats" : 44,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26148"),
+	"availableSeats" : 44,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261b9"),
+	"availableSeats" : 44,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2622b"),
+	"availableSeats" : 44,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2629a"),
+	"availableSeats" : 44,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2630e"),
+	"availableSeats" : 44,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2637e"),
+	"availableSeats" : 44,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263ed"),
+	"availableSeats" : 42,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26460"),
+	"availableSeats" : 42,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264d1"),
+	"availableSeats" : 42,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26541"),
+	"availableSeats" : 40,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265b2"),
+	"availableSeats" : 40,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26623"),
+	"availableSeats" : 39,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26694"),
+	"availableSeats" : 39,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26706"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26777"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267e8"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2685a"),
+	"availableSeats" : 43,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268c9"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2693b"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269ab"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a1d"),
+	"availableSeats" : 39,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a8e"),
+	"availableSeats" : 39,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26aff"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b70"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26be1"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c52"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cc2"),
+	"availableSeats" : 44,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d33"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26da3"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e15"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e87"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ef8"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f68"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fdb"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2704b"),
+	"availableSeats" : 38,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270b9"),
+	"availableSeats" : 37,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2712e"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2719f"),
+	"availableSeats" : 43,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2720e"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27280"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272f0"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27361"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273d3"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27443"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274b5"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27525"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27597"),
+	"availableSeats" : 37,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27607"),
+	"availableSeats" : 37,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2767a"),
+	"availableSeats" : 43,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276e9"),
+	"availableSeats" : 37,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2775c"),
+	"availableSeats" : 37,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277cc"),
+	"availableSeats" : 37,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2783d"),
+	"availableSeats" : 37,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278ae"),
+	"availableSeats" : 37,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2791f"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2798f"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a00"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a72"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ae2"),
+	"availableSeats" : 36,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b54"),
+	"availableSeats" : 43,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bc5"),
+	"availableSeats" : 43,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c34"),
+	"availableSeats" : 43,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ca7"),
+	"availableSeats" : 43,
+	"capacity" : 61,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d18"),
+	"availableSeats" : 65,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d8a"),
+	"availableSeats" : 65,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dfb"),
+	"availableSeats" : 65,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e6c"),
+	"availableSeats" : 65,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27edc"),
+	"availableSeats" : 65,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f4d"),
+	"availableSeats" : 65,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fbd"),
+	"availableSeats" : 64,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2802f"),
+	"availableSeats" : 60,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280a0"),
+	"availableSeats" : 57,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28111"),
+	"availableSeats" : 57,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28182"),
+	"availableSeats" : 55,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281f2"),
+	"availableSeats" : 54,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28263"),
+	"availableSeats" : 54,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282d5"),
+	"availableSeats" : 54,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28344"),
+	"availableSeats" : 55,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283b7"),
+	"availableSeats" : 54,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28425"),
+	"availableSeats" : 54,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2849a"),
+	"availableSeats" : 54,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2850a"),
+	"availableSeats" : 54,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28578"),
+	"availableSeats" : 54,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285ed"),
+	"availableSeats" : 54,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2865e"),
+	"availableSeats" : 53,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286cc"),
+	"availableSeats" : 53,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2873e"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287b0"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2881f"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28893"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28900"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28974"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289e5"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a57"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ac7"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b39"),
+	"availableSeats" : 53,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ba9"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c19"),
+	"availableSeats" : 53,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c8c"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cfc"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d6c"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ddd"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e4f"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ec0"),
+	"availableSeats" : 52,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f31"),
+	"availableSeats" : 45,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fa0"),
+	"availableSeats" : 41,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29013"),
+	"availableSeats" : 38,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29084"),
+	"availableSeats" : 37,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290f5"),
+	"availableSeats" : 36,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29166"),
+	"availableSeats" : 35,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291d7"),
+	"availableSeats" : 34,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29247"),
+	"availableSeats" : 35,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292b9"),
+	"availableSeats" : 32,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2932a"),
+	"availableSeats" : 32,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2939a"),
+	"availableSeats" : 36,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2940c"),
+	"availableSeats" : 43,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2947e"),
+	"availableSeats" : 44,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294ee"),
+	"availableSeats" : 44,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2955f"),
+	"availableSeats" : 45,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295cf"),
+	"availableSeats" : 46,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29641"),
+	"availableSeats" : 43,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a296b0"),
+	"availableSeats" : 41,
+	"capacity" : 90,
+	"code" : "GE2328",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Understanding and Improving Enterprises for Future Leaders",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

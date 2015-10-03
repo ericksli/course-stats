@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e961"),
+	"availableSeats" : 111,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9d0"),
+	"availableSeats" : 109,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea42"),
+	"availableSeats" : 109,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eab3"),
+	"availableSeats" : 107,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb22"),
+	"availableSeats" : 106,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb95"),
+	"availableSeats" : 106,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec03"),
+	"availableSeats" : 106,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec77"),
+	"availableSeats" : 104,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ece8"),
+	"availableSeats" : 104,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed59"),
+	"availableSeats" : 103,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edc9"),
+	"availableSeats" : 103,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee3a"),
+	"availableSeats" : 101,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eeac"),
+	"availableSeats" : 101,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef1d"),
+	"availableSeats" : 102,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef8f"),
+	"availableSeats" : 103,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efff"),
+	"availableSeats" : 101,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f070"),
+	"availableSeats" : 99,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0df"),
+	"availableSeats" : 99,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f152"),
+	"availableSeats" : 99,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1c0"),
+	"availableSeats" : 99,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f232"),
+	"availableSeats" : 99,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2a4"),
+	"availableSeats" : 98,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f317"),
+	"availableSeats" : 97,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f388"),
+	"availableSeats" : 98,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3f5"),
+	"availableSeats" : 99,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f46a"),
+	"availableSeats" : 99,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4da"),
+	"availableSeats" : 99,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f54b"),
+	"availableSeats" : 99,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5ba"),
+	"availableSeats" : 99,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f62d"),
+	"availableSeats" : 99,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f69d"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f711"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f77f"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7f1"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f861"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8d3"),
+	"availableSeats" : 99,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f944"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9b5"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa25"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa97"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb08"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb79"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbea"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc5b"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fccc"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd3c"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdae"),
+	"availableSeats" : 100,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe1f"),
+	"availableSeats" : 99,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fea1"),
+	"availableSeats" : 98,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff01"),
+	"availableSeats" : 98,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff72"),
+	"availableSeats" : 98,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffe2"),
+	"availableSeats" : 119,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20053"),
+	"availableSeats" : 117,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200c5"),
+	"availableSeats" : 114,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20135"),
+	"availableSeats" : 114,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201a6"),
+	"availableSeats" : 98,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20218"),
+	"availableSeats" : 98,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20288"),
+	"availableSeats" : 96,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202fa"),
+	"availableSeats" : 96,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2036a"),
+	"availableSeats" : 96,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203dc"),
+	"availableSeats" : 97,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2044b"),
+	"availableSeats" : 97,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204be"),
+	"availableSeats" : 97,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2052f"),
+	"availableSeats" : 98,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2059f"),
+	"availableSeats" : 98,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20610"),
+	"availableSeats" : 98,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20681"),
+	"availableSeats" : 98,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206f2"),
+	"availableSeats" : 96,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20764"),
+	"availableSeats" : 95,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207d5"),
+	"availableSeats" : 95,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20845"),
+	"availableSeats" : 96,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208b8"),
+	"availableSeats" : 167,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20928"),
+	"availableSeats" : 167,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20998"),
+	"availableSeats" : 167,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a0a"),
+	"availableSeats" : 167,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a7a"),
+	"availableSeats" : 167,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20aeb"),
+	"availableSeats" : 163,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b5c"),
+	"availableSeats" : 125,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bcc"),
+	"availableSeats" : 68,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c3e"),
+	"availableSeats" : 70,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20caf"),
+	"availableSeats" : 68,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d20"),
+	"availableSeats" : 65,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d97"),
+	"availableSeats" : 63,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e02"),
+	"availableSeats" : 63,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e73"),
+	"availableSeats" : 63,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ee5"),
+	"availableSeats" : 62,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f53"),
+	"availableSeats" : 59,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fc7"),
+	"availableSeats" : 95,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21038"),
+	"availableSeats" : 59,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210a8"),
+	"availableSeats" : 58,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2111a"),
+	"availableSeats" : 58,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2118b"),
+	"availableSeats" : 56,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211fc"),
+	"availableSeats" : 57,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2126c"),
+	"availableSeats" : 57,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212de"),
+	"availableSeats" : 57,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2134f"),
+	"availableSeats" : 57,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213bf"),
+	"availableSeats" : 56,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21430"),
+	"availableSeats" : 55,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214a0"),
+	"availableSeats" : 87,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21513"),
+	"availableSeats" : 53,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21584"),
+	"availableSeats" : 52,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215f4"),
+	"availableSeats" : 52,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21666"),
+	"availableSeats" : 52,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216d6"),
+	"availableSeats" : 53,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21748"),
+	"availableSeats" : 53,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217b8"),
+	"availableSeats" : 53,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2182a"),
+	"availableSeats" : 53,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2189a"),
+	"availableSeats" : 53,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2190c"),
+	"availableSeats" : 53,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2197d"),
+	"availableSeats" : 83,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219ed"),
+	"availableSeats" : 53,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a5e"),
+	"availableSeats" : 53,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21acf"),
+	"availableSeats" : 53,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b40"),
+	"availableSeats" : 53,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bb2"),
+	"availableSeats" : 53,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c23"),
+	"availableSeats" : 52,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c93"),
+	"availableSeats" : 52,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d04"),
+	"availableSeats" : 50,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d76"),
+	"availableSeats" : 50,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21de6"),
+	"availableSeats" : 50,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e57"),
+	"availableSeats" : 82,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ec8"),
+	"availableSeats" : 48,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f3a"),
+	"availableSeats" : 49,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fac"),
+	"availableSeats" : 48,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2201d"),
+	"availableSeats" : 50,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2208d"),
+	"availableSeats" : 50,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220fd"),
+	"availableSeats" : 49,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2216f"),
+	"availableSeats" : 49,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221e0"),
+	"availableSeats" : 47,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22250"),
+	"availableSeats" : 47,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222c0"),
+	"availableSeats" : 47,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22332"),
+	"availableSeats" : 79,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223a2"),
+	"availableSeats" : 75,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22412"),
+	"availableSeats" : 72,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22486"),
+	"availableSeats" : 70,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224f7"),
+	"availableSeats" : 46,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22566"),
+	"availableSeats" : 45,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225d8"),
+	"availableSeats" : 45,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22649"),
+	"availableSeats" : 46,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226bb"),
+	"availableSeats" : 46,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2272b"),
+	"availableSeats" : 46,
+	"capacity" : 271,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2279d"),
+	"availableSeats" : 183,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2280e"),
+	"availableSeats" : 183,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22880"),
+	"availableSeats" : 183,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228f0"),
+	"availableSeats" : 183,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22961"),
+	"availableSeats" : 183,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229d1"),
+	"availableSeats" : 181,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a43"),
+	"availableSeats" : 181,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ab3"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b23"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b95"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c07"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c80"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ce7"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d5a"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dcc"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e3c"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ead"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f1e"),
+	"availableSeats" : 180,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f8e"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fff"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23071"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230e1"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23152"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231c3"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23234"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232a5"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23317"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23386"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233f9"),
+	"availableSeats" : 179,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2346a"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234d9"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2354c"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235bc"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2362c"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236a0"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2370f"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23781"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237f1"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23864"),
+	"availableSeats" : 179,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238d3"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23943"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239b6"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a27"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a98"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b0f"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b79"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bea"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c5c"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ccd"),
+	"availableSeats" : 179,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d3f"),
+	"availableSeats" : 179,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dae"),
+	"availableSeats" : 179,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e20"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e90"),
+	"availableSeats" : 178,
+	"capacity" : 201,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f00"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f73"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fe2"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24053"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240c5"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24135"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241a8"),
+	"availableSeats" : 113,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24219"),
+	"availableSeats" : 113,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2428b"),
+	"availableSeats" : 113,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242fb"),
+	"availableSeats" : 113,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2436a"),
+	"availableSeats" : 113,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243dd"),
+	"availableSeats" : 67,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2444e"),
+	"availableSeats" : 16,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244bf"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2452f"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245a1"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24611"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24683"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246f9"),
+	"availableSeats" : 1,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24764"),
+	"availableSeats" : 1,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247d6"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24847"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248b8"),
+	"availableSeats" : 4,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24929"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2499a"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a0a"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a7c"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24aed"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b5e"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bcd"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c40"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cb0"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d21"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d92"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e04"),
+	"availableSeats" : 1,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e74"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ee5"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f56"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fc7"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25038"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250aa"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25119"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2518b"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251fa"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2526e"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252df"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25350"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253c0"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25431"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254a2"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25515"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25585"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255f6"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25667"),
+	"availableSeats" : 1,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256d7"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25748"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257ba"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2582b"),
+	"availableSeats" : 1,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2589c"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2590d"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2597e"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259ef"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a61"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ad1"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b42"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bb2"),
+	"availableSeats" : 2,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c24"),
+	"availableSeats" : 3,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c95"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d06"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d76"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dea"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e59"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ec9"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f3a"),
+	"availableSeats" : 1,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25faa"),
+	"availableSeats" : 1,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2601d"),
+	"availableSeats" : 1,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2608d"),
+	"availableSeats" : 100,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260fe"),
+	"availableSeats" : 100,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2616f"),
+	"availableSeats" : 100,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261e1"),
+	"availableSeats" : 100,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26251"),
+	"availableSeats" : 100,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262c3"),
+	"availableSeats" : 75,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26334"),
+	"availableSeats" : 30,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263a4"),
+	"availableSeats" : 3,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26416"),
+	"availableSeats" : 1,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26486"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264f8"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26568"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265da"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2664b"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266bc"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2672c"),
+	"availableSeats" : 1,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2679e"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2680f"),
+	"availableSeats" : 26,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26880"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268f1"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26963"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269d3"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a43"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ab5"),
+	"availableSeats" : 3,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b26"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b98"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c08"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c78"),
+	"availableSeats" : 22,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ce9"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d5b"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dca"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e3d"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eae"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f1d"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f8f"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27000"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27071"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270e3"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27154"),
+	"availableSeats" : 18,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271c4"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27235"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272a7"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27319"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27389"),
+	"availableSeats" : 1,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273f9"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2746b"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274db"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2754d"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275bd"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2762d"),
+	"availableSeats" : 15,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276a0"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2771a"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27782"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277f3"),
+	"availableSeats" : 1,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27864"),
+	"availableSeats" : 1,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278d5"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27947"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279b5"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a27"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a99"),
+	"availableSeats" : 0,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b0a"),
+	"availableSeats" : 12,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b7b"),
+	"availableSeats" : 8,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bec"),
+	"availableSeats" : 5,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c5e"),
+	"availableSeats" : 4,
+	"capacity" : 319,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cce"),
+	"availableSeats" : 9,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d3e"),
+	"availableSeats" : 9,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27daf"),
+	"availableSeats" : 9,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e20"),
+	"availableSeats" : 9,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e91"),
+	"availableSeats" : 9,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f03"),
+	"availableSeats" : 9,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f74"),
+	"availableSeats" : 8,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fe3"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28057"),
+	"availableSeats" : 2,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280c6"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28138"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281a9"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2821a"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2828a"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282fc"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2836d"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283de"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2844f"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284c0"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28530"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285a2"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28613"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28684"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286f5"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28767"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287d7"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28848"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288b9"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2892a"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2899b"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a0c"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a7c"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aee"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b5e"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bd0"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c41"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cb2"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d22"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d94"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e06"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e76"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ee6"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f59"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fc8"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29039"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290aa"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2911b"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2918d"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291fd"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2926f"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292e0"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29351"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293c2"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29434"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294a4"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29514"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29585"),
+	"availableSeats" : 0,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295f7"),
+	"availableSeats" : 2,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29668"),
+	"availableSeats" : 5,
+	"capacity" : 420,
+	"code" : "GE2129",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Psychology for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

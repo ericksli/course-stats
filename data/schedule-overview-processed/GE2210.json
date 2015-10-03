@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e974"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9e5"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea56"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eac5"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb38"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eba9"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec19"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec8b"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecfc"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed6c"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eddd"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee4f"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eec0"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef31"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efa2"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f012"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f084"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0f6"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f166"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1d7"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f247"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2ba"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f32b"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f39b"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f40c"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f47d"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4ee"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f55f"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5cf"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f642"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6b2"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f722"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f793"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f804"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f87e"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8e8"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f958"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9c9"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa39"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1faaa"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb1d"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb8a"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc04"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc70"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fce0"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd51"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdc3"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe33"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fea4"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff12"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff87"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fff7"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20068"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200d7"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2014a"),
+	"availableSeats" : 16,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201bc"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2022c"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2029d"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2030f"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2037f"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203f0"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20460"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204d1"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20544"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205b2"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20625"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206a5"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20708"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20778"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207e9"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20860"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208cb"),
+	"availableSeats" : 36,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2093c"),
+	"availableSeats" : 36,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209ae"),
+	"availableSeats" : 36,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a1e"),
+	"availableSeats" : 36,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a8f"),
+	"availableSeats" : 36,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b00"),
+	"availableSeats" : 36,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b71"),
+	"availableSeats" : 34,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20be2"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c53"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cc4"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d35"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20da5"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e17"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e88"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ef8"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f69"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fdb"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2104c"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210bc"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2112e"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2119f"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21210"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21281"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212f2"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21363"),
+	"availableSeats" : 32,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213d4"),
+	"availableSeats" : 32,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21446"),
+	"availableSeats" : 32,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214b5"),
+	"availableSeats" : 32,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21527"),
+	"availableSeats" : 32,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21598"),
+	"availableSeats" : 32,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21609"),
+	"availableSeats" : 32,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2167b"),
+	"availableSeats" : 32,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216eb"),
+	"availableSeats" : 32,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2175d"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217cd"),
+	"availableSeats" : 34,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2183d"),
+	"availableSeats" : 34,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218b0"),
+	"availableSeats" : 34,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21920"),
+	"availableSeats" : 34,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21990"),
+	"availableSeats" : 32,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a01"),
+	"availableSeats" : 34,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a72"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ae4"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b55"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bc6"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c37"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ca7"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d18"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d8a"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dfa"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e6b"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21edd"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f4e"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fbf"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22031"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220a1"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22112"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22183"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221f4"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22265"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222d6"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22347"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223b8"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22429"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2249a"),
+	"availableSeats" : 33,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2250b"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2257d"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225ed"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2265d"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226d0"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22740"),
+	"availableSeats" : 35,
+	"capacity" : 54,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227b0"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22820"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22892"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22904"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22975"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229e6"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a56"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ac8"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b3a"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22baa"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c1a"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c8c"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cff"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d6d"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ddf"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e50"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ec1"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f33"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fa3"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23013"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23084"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230f6"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23167"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231d8"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23249"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232ba"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2332d"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2339c"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2340e"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2347d"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234ee"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23560"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235d1"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23642"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236b3"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23724"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23795"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23807"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23877"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238e8"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23959"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239c8"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a3c"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23aac"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b1d"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b8d"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bff"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c70"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ce2"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d52"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dc3"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e34"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ea5"),
+	"availableSeats" : 19,
+	"capacity" : 33,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f15"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f84"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ff8"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24067"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240da"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2414a"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241bc"),
+	"availableSeats" : 82,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2422f"),
+	"availableSeats" : 82,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2429e"),
+	"availableSeats" : 82,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24310"),
+	"availableSeats" : 82,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2437f"),
+	"availableSeats" : 82,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243f1"),
+	"availableSeats" : 82,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24462"),
+	"availableSeats" : 81,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244d3"),
+	"availableSeats" : 78,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24544"),
+	"availableSeats" : 78,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245bd"),
+	"availableSeats" : 78,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24626"),
+	"availableSeats" : 78,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24699"),
+	"availableSeats" : 78,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24708"),
+	"availableSeats" : 78,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24779"),
+	"availableSeats" : 78,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247ea"),
+	"availableSeats" : 78,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2485a"),
+	"availableSeats" : 78,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248cc"),
+	"availableSeats" : 79,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2493d"),
+	"availableSeats" : 78,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249ad"),
+	"availableSeats" : 78,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a1f"),
+	"availableSeats" : 77,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a90"),
+	"availableSeats" : 77,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b02"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b72"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24be2"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c54"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cc5"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d37"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24da7"),
+	"availableSeats" : 79,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e16"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e87"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ef7"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f6b"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fdc"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2504f"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250be"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2512f"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251a0"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25211"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25282"),
+	"availableSeats" : 79,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252f3"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25364"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253d5"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25445"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254b7"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25527"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2559a"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2560a"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2567b"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256ed"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2575c"),
+	"availableSeats" : 79,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257cc"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2583f"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258af"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25921"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25992"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a03"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a74"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ae6"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b55"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bc6"),
+	"availableSeats" : 79,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c37"),
+	"availableSeats" : 79,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ca9"),
+	"availableSeats" : 79,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d1a"),
+	"availableSeats" : 79,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d89"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dfc"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e6d"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25edd"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f4f"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fc0"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26031"),
+	"availableSeats" : 76,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260a0"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26112"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26184"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261f5"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26267"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262d7"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26348"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263b9"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2642a"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2649b"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2650c"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2657d"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265ee"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2665e"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266cf"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26741"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267b2"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26823"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26899"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26905"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26979"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269e6"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a58"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ac7"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b3a"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26baa"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c1c"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c8d"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cfe"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d6f"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26de0"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e51"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ec1"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f34"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fa4"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27015"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27087"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270f7"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27168"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271d9"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27257"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272bb"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2732c"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2739d"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2740e"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2747f"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274f1"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27561"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275d1"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27642"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276b4"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27725"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27795"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27807"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27878"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278e9"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2795a"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279ca"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a3c"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27aad"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b1d"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b8f"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c00"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c71"),
+	"availableSeats" : 51,
+	"capacity" : 69,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ce0"),
+	"availableSeats" : 77,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d57"),
+	"availableSeats" : 77,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dc6"),
+	"availableSeats" : 77,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e35"),
+	"availableSeats" : 77,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ea6"),
+	"availableSeats" : 77,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f17"),
+	"availableSeats" : 77,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f88"),
+	"availableSeats" : 77,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ff8"),
+	"availableSeats" : 77,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2806a"),
+	"availableSeats" : 75,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280da"),
+	"availableSeats" : 74,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2814e"),
+	"availableSeats" : 74,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281bd"),
+	"availableSeats" : 74,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2822e"),
+	"availableSeats" : 74,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2829f"),
+	"availableSeats" : 74,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28310"),
+	"availableSeats" : 74,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28381"),
+	"availableSeats" : 74,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283f2"),
+	"availableSeats" : 74,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28463"),
+	"availableSeats" : 74,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284d4"),
+	"availableSeats" : 73,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28544"),
+	"availableSeats" : 73,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285b7"),
+	"availableSeats" : 73,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28629"),
+	"availableSeats" : 73,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28695"),
+	"availableSeats" : 73,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28709"),
+	"availableSeats" : 72,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2877a"),
+	"availableSeats" : 72,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287e9"),
+	"availableSeats" : 72,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28866"),
+	"availableSeats" : 72,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288cd"),
+	"availableSeats" : 72,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2893e"),
+	"availableSeats" : 72,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289b0"),
+	"availableSeats" : 72,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a20"),
+	"availableSeats" : 72,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a91"),
+	"availableSeats" : 72,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b02"),
+	"availableSeats" : 73,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b73"),
+	"availableSeats" : 72,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28be3"),
+	"availableSeats" : 73,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c55"),
+	"availableSeats" : 73,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cc5"),
+	"availableSeats" : 73,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d38"),
+	"availableSeats" : 72,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28da8"),
+	"availableSeats" : 72,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e18"),
+	"availableSeats" : 72,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e88"),
+	"availableSeats" : 72,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28efb"),
+	"availableSeats" : 67,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f6d"),
+	"availableSeats" : 66,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fdf"),
+	"availableSeats" : 64,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2904e"),
+	"availableSeats" : 64,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290bf"),
+	"availableSeats" : 64,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2912d"),
+	"availableSeats" : 62,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291a2"),
+	"availableSeats" : 60,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29212"),
+	"availableSeats" : 62,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29281"),
+	"availableSeats" : 62,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292f3"),
+	"availableSeats" : 62,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29365"),
+	"availableSeats" : 62,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293d6"),
+	"availableSeats" : 62,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29447"),
+	"availableSeats" : 64,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294b8"),
+	"availableSeats" : 64,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29529"),
+	"availableSeats" : 65,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29599"),
+	"availableSeats" : 66,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2960b"),
+	"availableSeats" : 67,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2967b"),
+	"availableSeats" : 67,
+	"capacity" : 100,
+	"code" : "GE2210",
+	"credit" : 3,
+	"department" : "Public Policy",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "China: A Socio-Political Transformation",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

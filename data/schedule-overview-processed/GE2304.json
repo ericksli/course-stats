@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e99e"),
+	"availableSeats" : 7,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea10"),
+	"availableSeats" : 7,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea80"),
+	"availableSeats" : 6,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eaf1"),
+	"availableSeats" : 6,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb63"),
+	"availableSeats" : 6,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebd3"),
+	"availableSeats" : 6,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec44"),
+	"availableSeats" : 6,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecb9"),
+	"availableSeats" : 6,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed26"),
+	"availableSeats" : 6,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed99"),
+	"availableSeats" : 7,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee08"),
+	"availableSeats" : 7,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee7a"),
+	"availableSeats" : 7,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eeea"),
+	"availableSeats" : 7,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef59"),
+	"availableSeats" : 7,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efcc"),
+	"availableSeats" : 7,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f03d"),
+	"availableSeats" : 7,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0ae"),
+	"availableSeats" : 6,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f11f"),
+	"availableSeats" : 6,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f190"),
+	"availableSeats" : 6,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f201"),
+	"availableSeats" : 6,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f272"),
+	"availableSeats" : 5,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2e3"),
+	"availableSeats" : 5,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f352"),
+	"availableSeats" : 5,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3c5"),
+	"availableSeats" : 5,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f435"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4a5"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f518"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f589"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5f9"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f669"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6db"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f74c"),
+	"availableSeats" : 5,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7be"),
+	"availableSeats" : 5,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f82f"),
+	"availableSeats" : 5,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8a0"),
+	"availableSeats" : 5,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f90f"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f982"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9f2"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa64"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fad5"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb46"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbb6"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc28"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc99"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd0a"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd7b"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fded"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe5d"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fece"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff3e"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffb0"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20021"),
+	"availableSeats" : 7,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20091"),
+	"availableSeats" : 7,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20101"),
+	"availableSeats" : 7,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20173"),
+	"availableSeats" : 7,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201e4"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20256"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202c8"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20338"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203a9"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2041b"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2048b"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204fb"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2056d"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205dd"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2064f"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206c1"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20731"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207a2"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20813"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20884"),
+	"availableSeats" : 4,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208f5"),
+	"availableSeats" : 17,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20966"),
+	"availableSeats" : 17,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209d7"),
+	"availableSeats" : 17,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a48"),
+	"availableSeats" : 17,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ab9"),
+	"availableSeats" : 17,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b2a"),
+	"availableSeats" : 17,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b9b"),
+	"availableSeats" : 17,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c0c"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c7c"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cee"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d5f"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dcf"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e41"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20eb1"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f23"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f94"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21005"),
+	"availableSeats" : 17,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21075"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210e7"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21158"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211c9"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21239"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212ab"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2131c"),
+	"availableSeats" : 15,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21390"),
+	"availableSeats" : 15,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213fd"),
+	"availableSeats" : 15,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2146d"),
+	"availableSeats" : 15,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214e1"),
+	"availableSeats" : 17,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2154e"),
+	"availableSeats" : 15,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215c1"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21633"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216a4"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21715"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21785"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217f6"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21868"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218d9"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21949"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219b8"),
+	"availableSeats" : 17,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a2c"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a9e"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b0e"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b7f"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bef"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c60"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cd2"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d43"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21db7"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e25"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e96"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f04"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f78"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fe9"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2205a"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220cb"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2213a"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221ad"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2221e"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22292"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222ff"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22371"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223e2"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22450"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224c4"),
+	"availableSeats" : 16,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22535"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225a6"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22618"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22686"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226f9"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2276a"),
+	"availableSeats" : 14,
+	"capacity" : 26,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227db"),
+	"availableSeats" : 11,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2284c"),
+	"availableSeats" : 11,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228bd"),
+	"availableSeats" : 11,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22930"),
+	"availableSeats" : 11,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2299f"),
+	"availableSeats" : 11,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a10"),
+	"availableSeats" : 11,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a81"),
+	"availableSeats" : 11,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22af2"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b62"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bd4"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c46"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cb7"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d27"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d98"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e09"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e7a"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eeb"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f5c"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fcc"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2303d"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230af"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23120"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23191"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23202"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23273"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232e4"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23354"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233c6"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23437"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234a8"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23519"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2358a"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235fc"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2366c"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236dd"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2374d"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237c5"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23830"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238a1"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23912"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23983"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239f4"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a65"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ad6"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b47"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bb8"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c2b"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c9a"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d09"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d7a"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ded"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e5e"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ece"),
+	"availableSeats" : 10,
+	"capacity" : 15,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f3f"),
+	"availableSeats" : 21,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fb2"),
+	"availableSeats" : 21,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24022"),
+	"availableSeats" : 21,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24093"),
+	"availableSeats" : 21,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24105"),
+	"availableSeats" : 21,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24174"),
+	"availableSeats" : 21,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241e6"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24257"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242c7"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24339"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243aa"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2441c"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2448c"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244fc"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2456e"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245df"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24650"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246c2"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24732"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247a4"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24813"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24885"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248f7"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24967"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249d8"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a49"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24aba"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b2b"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b9c"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c13"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c7e"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cef"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d60"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dcf"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e41"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24eb1"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f24"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fa2"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25006"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25076"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250e8"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25159"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251ca"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25239"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252aa"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2531d"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2538e"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253ff"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25470"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254df"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25552"),
+	"availableSeats" : 36,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255c3"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25635"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256a3"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25716"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25787"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257f8"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25869"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258da"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2594c"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259ba"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a2c"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a9e"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b0f"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b80"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bf1"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c62"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cd3"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d43"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25db3"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e24"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e96"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f05"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f79"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fe9"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2605a"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260cc"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2613d"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261ad"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2621e"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2629b"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26301"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26371"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263e3"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26455"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264c5"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26536"),
+	"availableSeats" : 21,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265a7"),
+	"availableSeats" : 21,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26618"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26689"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266fa"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2676a"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267dc"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2684d"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268be"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26930"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2699f"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a13"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a82"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26af3"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b64"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bd4"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c46"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cb6"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d28"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d99"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e0a"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e78"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eec"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f5e"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fce"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2703e"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270b0"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27122"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27192"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27203"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27271"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272e2"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27356"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273c7"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27438"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274aa"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2751a"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2758b"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275fc"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2766d"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276de"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2774e"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277c0"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27830"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278a2"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27915"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27984"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279f4"),
+	"availableSeats" : 21,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a66"),
+	"availableSeats" : 21,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ad7"),
+	"availableSeats" : 21,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b49"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bb9"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c29"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c9a"),
+	"availableSeats" : 22,
+	"capacity" : 34,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d0c"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d7c"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dee"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e5f"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ece"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f40"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fb0"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28023"),
+	"availableSeats" : 37,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28093"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28102"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28176"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281e7"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28256"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282c7"),
+	"availableSeats" : 38,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28339"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283ab"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2841c"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2848d"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284fe"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2856e"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285e0"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28651"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286c2"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28734"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287a3"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28815"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28886"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288f6"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28968"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289d9"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a4a"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28abb"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b2b"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b9d"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c0d"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c7e"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cf0"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d66"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dd2"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e43"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28eb4"),
+	"availableSeats" : 39,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f25"),
+	"availableSeats" : 35,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f94"),
+	"availableSeats" : 35,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29007"),
+	"availableSeats" : 35,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29077"),
+	"availableSeats" : 33,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290e9"),
+	"availableSeats" : 33,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2915a"),
+	"availableSeats" : 32,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291cb"),
+	"availableSeats" : 31,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2923c"),
+	"availableSeats" : 31,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292ad"),
+	"availableSeats" : 31,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2931e"),
+	"availableSeats" : 31,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29390"),
+	"availableSeats" : 33,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293fe"),
+	"availableSeats" : 30,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2946f"),
+	"availableSeats" : 29,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294e1"),
+	"availableSeats" : 28,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29552"),
+	"availableSeats" : 29,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295d1"),
+	"availableSeats" : 28,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29634"),
+	"availableSeats" : 27,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a296a5"),
+	"availableSeats" : 28,
+	"capacity" : 50,
+	"code" : "GE2304",
+	"credit" : 3,
+	"department" : "Systems Engg and Engg Mgt",
+	"levels" : [
+		"B"
+	],
+	"title" : "Innovation and Entrepreneurship for Young Professionals",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

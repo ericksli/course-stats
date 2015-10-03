@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e95d"),
+	"availableSeats" : 18,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9ce"),
+	"availableSeats" : 18,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea3f"),
+	"availableSeats" : 18,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eab0"),
+	"availableSeats" : 18,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb20"),
+	"availableSeats" : 17,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb92"),
+	"availableSeats" : 17,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec01"),
+	"availableSeats" : 17,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec74"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ece5"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed53"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edc8"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee3d"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eea7"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef1a"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef8b"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1effc"),
+	"availableSeats" : 15,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f06d"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0e0"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f14f"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1bd"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f231"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2a3"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f313"),
+	"availableSeats" : 14,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f384"),
+	"availableSeats" : 13,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3f9"),
+	"availableSeats" : 13,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f464"),
+	"availableSeats" : 13,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4d6"),
+	"availableSeats" : 13,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f549"),
+	"availableSeats" : 13,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5c0"),
+	"availableSeats" : 13,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f629"),
+	"availableSeats" : 13,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f69a"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f70b"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f77c"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7ed"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f85f"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8d1"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f941"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9b2"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa26"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa94"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb04"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb76"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbe6"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc58"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcc8"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd3b"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdab"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe1c"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe8d"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fefe"),
+	"availableSeats" : 11,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff6f"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffe0"),
+	"availableSeats" : 18,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20050"),
+	"availableSeats" : 18,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200c2"),
+	"availableSeats" : 18,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20132"),
+	"availableSeats" : 18,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201a5"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20215"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20286"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202f6"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20366"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203d9"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20449"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204bb"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2052d"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2059d"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2060e"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2067d"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206f6"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20761"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207d2"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20843"),
+	"availableSeats" : 10,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208b4"),
+	"availableSeats" : 40,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20925"),
+	"availableSeats" : 40,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2099d"),
+	"availableSeats" : 40,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a07"),
+	"availableSeats" : 40,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a78"),
+	"availableSeats" : 40,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ae9"),
+	"availableSeats" : 39,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b5a"),
+	"availableSeats" : 34,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bcb"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c3b"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cad"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d22"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d8e"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e00"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e70"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ee2"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f63"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fc2"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21035"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210a5"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21117"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21188"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211f9"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2126a"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212dc"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2134c"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213bb"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2142e"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2149e"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21510"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21581"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215f2"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21663"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216d4"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21745"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217b7"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21827"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21898"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21909"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2197a"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219eb"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a5d"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21acd"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b3f"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21baf"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c20"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c91"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d00"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d74"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21de3"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e56"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ec6"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f37"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21faa"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22019"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2208a"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220fa"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2216c"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221dd"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2224e"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222bf"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22330"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223a1"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2240f"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22484"),
+	"availableSeats" : 29,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224f3"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22564"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225d6"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22647"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226b8"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22727"),
+	"availableSeats" : 27,
+	"capacity" : 62,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22799"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2280b"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2287d"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228ed"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2295e"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229ce"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a40"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ab1"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b21"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b93"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c04"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c75"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ce6"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d57"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dc8"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e38"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eaa"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f1b"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f8c"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ffd"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2306e"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230df"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2314f"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231c1"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23232"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232a2"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23315"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2338e"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233f6"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23467"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234d6"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23549"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235ba"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2362a"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2369c"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2370d"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2377e"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237ee"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23860"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238d0"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23940"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239b3"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a24"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a95"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b06"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b77"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23be8"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c59"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cca"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d3b"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23daa"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e1d"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e8e"),
+	"availableSeats" : 26,
+	"capacity" : 33,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23efe"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f6f"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fe1"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24052"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240c4"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24132"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241a5"),
+	"availableSeats" : 81,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24216"),
+	"availableSeats" : 81,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24286"),
+	"availableSeats" : 81,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242f8"),
+	"availableSeats" : 81,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2436b"),
+	"availableSeats" : 81,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243da"),
+	"availableSeats" : 80,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2444b"),
+	"availableSeats" : 75,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244bd"),
+	"availableSeats" : 64,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2452e"),
+	"availableSeats" : 64,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2459e"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2460f"),
+	"availableSeats" : 61,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2467f"),
+	"availableSeats" : 61,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246f1"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24762"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247d4"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24844"),
+	"availableSeats" : 63,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248b5"),
+	"availableSeats" : 73,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24926"),
+	"availableSeats" : 63,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24997"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a09"),
+	"availableSeats" : 63,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a79"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24aea"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b5b"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bd2"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c3e"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cae"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d20"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d90"),
+	"availableSeats" : 70,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e01"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e72"),
+	"availableSeats" : 61,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ee4"),
+	"availableSeats" : 61,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f54"),
+	"availableSeats" : 61,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fc4"),
+	"availableSeats" : 61,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25036"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250a5"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25116"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25189"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251f7"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2526b"),
+	"availableSeats" : 67,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252de"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2534d"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253bd"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2542f"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254a0"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25511"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25582"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255f3"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25664"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256d5"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25746"),
+	"availableSeats" : 66,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257b7"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25828"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25898"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2590a"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2597b"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259ec"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a5c"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25acd"),
+	"availableSeats" : 61,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b40"),
+	"availableSeats" : 61,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bb1"),
+	"availableSeats" : 64,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c21"),
+	"availableSeats" : 65,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c92"),
+	"availableSeats" : 64,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d03"),
+	"availableSeats" : 64,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d74"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25de5"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e56"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ec7"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f38"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fa9"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2601a"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2608b"),
+	"availableSeats" : 47,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260fc"),
+	"availableSeats" : 47,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2616d"),
+	"availableSeats" : 47,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261de"),
+	"availableSeats" : 47,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2624f"),
+	"availableSeats" : 47,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262c1"),
+	"availableSeats" : 46,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26330"),
+	"availableSeats" : 45,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263a2"),
+	"availableSeats" : 43,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26413"),
+	"availableSeats" : 43,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26484"),
+	"availableSeats" : 43,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264f5"),
+	"availableSeats" : 43,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26566"),
+	"availableSeats" : 43,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265d7"),
+	"availableSeats" : 43,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26648"),
+	"availableSeats" : 43,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266b9"),
+	"availableSeats" : 42,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2672b"),
+	"availableSeats" : 42,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2679b"),
+	"availableSeats" : 42,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2680c"),
+	"availableSeats" : 45,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2687c"),
+	"availableSeats" : 42,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268ef"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2695f"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269d1"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a41"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ab2"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b23"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b93"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c06"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c76"),
+	"availableSeats" : 44,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ce7"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d58"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dc9"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e3a"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eab"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f1c"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f8d"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ffe"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27070"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270e0"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27151"),
+	"availableSeats" : 44,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271c3"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27230"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272a4"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27316"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27386"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273f7"),
+	"availableSeats" : 42,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27469"),
+	"availableSeats" : 42,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274d9"),
+	"availableSeats" : 42,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2754a"),
+	"availableSeats" : 42,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275ba"),
+	"availableSeats" : 42,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2762c"),
+	"availableSeats" : 44,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2769e"),
+	"availableSeats" : 42,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27711"),
+	"availableSeats" : 42,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2777f"),
+	"availableSeats" : 42,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277f0"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27861"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278d3"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27943"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279b2"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a25"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a96"),
+	"availableSeats" : 41,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b06"),
+	"availableSeats" : 44,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b78"),
+	"availableSeats" : 44,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27be7"),
+	"availableSeats" : 44,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c59"),
+	"availableSeats" : 43,
+	"capacity" : 83,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cca"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d3c"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dad"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e1e"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e90"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f00"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f70"),
+	"availableSeats" : 62,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fe0"),
+	"availableSeats" : 61,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28053"),
+	"availableSeats" : 56,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280c4"),
+	"availableSeats" : 58,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28135"),
+	"availableSeats" : 58,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281a6"),
+	"availableSeats" : 56,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28216"),
+	"availableSeats" : 58,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28288"),
+	"availableSeats" : 59,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282f9"),
+	"availableSeats" : 58,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2836a"),
+	"availableSeats" : 57,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283db"),
+	"availableSeats" : 56,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2844c"),
+	"availableSeats" : 56,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284bd"),
+	"availableSeats" : 55,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2852d"),
+	"availableSeats" : 55,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285a0"),
+	"availableSeats" : 55,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28610"),
+	"availableSeats" : 55,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28681"),
+	"availableSeats" : 55,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286f4"),
+	"availableSeats" : 53,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28763"),
+	"availableSeats" : 53,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287d3"),
+	"availableSeats" : 53,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28845"),
+	"availableSeats" : 53,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288b6"),
+	"availableSeats" : 53,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28927"),
+	"availableSeats" : 53,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28999"),
+	"availableSeats" : 53,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a0b"),
+	"availableSeats" : 53,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a7a"),
+	"availableSeats" : 53,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aec"),
+	"availableSeats" : 55,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b5c"),
+	"availableSeats" : 53,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bcd"),
+	"availableSeats" : 55,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c3e"),
+	"availableSeats" : 55,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28caf"),
+	"availableSeats" : 55,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d20"),
+	"availableSeats" : 55,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d8f"),
+	"availableSeats" : 55,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e02"),
+	"availableSeats" : 53,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e73"),
+	"availableSeats" : 53,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ee4"),
+	"availableSeats" : 40,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f54"),
+	"availableSeats" : 35,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fc6"),
+	"availableSeats" : 30,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29037"),
+	"availableSeats" : 29,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290a9"),
+	"availableSeats" : 22,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29119"),
+	"availableSeats" : 15,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2918a"),
+	"availableSeats" : 14,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291fb"),
+	"availableSeats" : 16,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2926c"),
+	"availableSeats" : 11,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292dd"),
+	"availableSeats" : 7,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2934e"),
+	"availableSeats" : 0,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293bf"),
+	"availableSeats" : 2,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29430"),
+	"availableSeats" : 3,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294a1"),
+	"availableSeats" : 1,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29511"),
+	"availableSeats" : 12,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29583"),
+	"availableSeats" : 15,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295f4"),
+	"availableSeats" : 17,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29665"),
+	"availableSeats" : 16,
+	"capacity" : 123,
+	"code" : "GE2122",
+	"credit" : 3,
+	"department" : "Linguistics and Translation",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Cantonese Language in Use: Language, Grammar and Culture",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

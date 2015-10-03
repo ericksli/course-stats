@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e97d"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9ef"),
+	"availableSeats" : 1,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea60"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ead2"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb41"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebb2"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec22"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec94"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed05"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed76"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ede7"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee57"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eec9"),
+	"availableSeats" : 1,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef39"),
+	"availableSeats" : 1,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efac"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f01c"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f08d"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0fd"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f16e"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1df"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f251"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2c0"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f333"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3a4"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f414"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f486"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4f7"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f567"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5d8"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f64a"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6bc"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f72b"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f79d"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f80e"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f87f"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8f1"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f961"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9d1"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa43"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fab4"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb25"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb95"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc07"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc78"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcea"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd59"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdcb"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe3c"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1feac"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff1d"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff8f"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20000"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20070"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200e1"),
+	"availableSeats" : 2,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20153"),
+	"availableSeats" : 1,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201c3"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20235"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202a7"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20314"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20388"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203f9"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2046a"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204db"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20549"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205bd"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2062e"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2069d"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20710"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20780"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207f2"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20862"),
+	"availableSeats" : 0,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208d4"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20945"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209b6"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a27"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a99"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b09"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b7a"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20beb"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c5d"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ccf"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d3e"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20daf"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e20"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e91"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f02"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f73"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fe4"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21055"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210c5"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21138"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211a5"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21218"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2128a"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212fb"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2136c"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213dd"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2144e"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214bc"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21530"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215a0"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21612"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21683"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216fc"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21764"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217d6"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21847"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218b8"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21929"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2199a"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a0b"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a7c"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21aed"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b5f"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bcf"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c40"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cb1"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d22"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d93"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e04"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e77"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ee6"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f57"),
+	"availableSeats" : 28,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fc7"),
+	"availableSeats" : 28,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22038"),
+	"availableSeats" : 26,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220a9"),
+	"availableSeats" : 26,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2211a"),
+	"availableSeats" : 26,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2218c"),
+	"availableSeats" : 26,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221fd"),
+	"availableSeats" : 25,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2226e"),
+	"availableSeats" : 24,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222e0"),
+	"availableSeats" : 24,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2234e"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223c1"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22432"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224a3"),
+	"availableSeats" : 29,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22516"),
+	"availableSeats" : 23,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22586"),
+	"availableSeats" : 23,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225f6"),
+	"availableSeats" : 23,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22668"),
+	"availableSeats" : 23,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226d8"),
+	"availableSeats" : 23,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22749"),
+	"availableSeats" : 23,
+	"capacity" : 58,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227ba"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2282b"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2289c"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2290c"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2297e"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229ef"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a60"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ad1"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b41"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bb1"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c24"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c95"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d06"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d77"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22de9"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e56"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ecb"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f3c"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fac"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2301d"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2308e"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23100"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23170"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231e2"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23252"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232c3"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23333"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233a5"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23416"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23486"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234f8"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23569"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235da"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2364b"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236bc"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2372e"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2379e"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2380e"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23880"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238ef"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23962"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239d2"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a44"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ab5"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b26"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b99"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c1a"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c79"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ce8"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d5a"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dcc"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e3d"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23eaf"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f1f"),
+	"availableSeats" : 3,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f90"),
+	"availableSeats" : 1,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24001"),
+	"availableSeats" : 0,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24072"),
+	"availableSeats" : 1,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240e2"),
+	"availableSeats" : 2,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24154"),
+	"availableSeats" : 2,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241c5"),
+	"availableSeats" : 48,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24236"),
+	"availableSeats" : 48,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242a7"),
+	"availableSeats" : 48,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24318"),
+	"availableSeats" : 48,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24387"),
+	"availableSeats" : 48,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243fa"),
+	"availableSeats" : 47,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2446b"),
+	"availableSeats" : 36,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244de"),
+	"availableSeats" : 31,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2454d"),
+	"availableSeats" : 32,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245bf"),
+	"availableSeats" : 32,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2462e"),
+	"availableSeats" : 32,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2469d"),
+	"availableSeats" : 33,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24711"),
+	"availableSeats" : 32,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24782"),
+	"availableSeats" : 31,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247f4"),
+	"availableSeats" : 30,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24864"),
+	"availableSeats" : 29,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248d5"),
+	"availableSeats" : 34,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24945"),
+	"availableSeats" : 29,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249b6"),
+	"availableSeats" : 30,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a28"),
+	"availableSeats" : 30,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a99"),
+	"availableSeats" : 30,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b0a"),
+	"availableSeats" : 30,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b7b"),
+	"availableSeats" : 29,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bea"),
+	"availableSeats" : 29,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c5d"),
+	"availableSeats" : 29,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cce"),
+	"availableSeats" : 29,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d3e"),
+	"availableSeats" : 29,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24daf"),
+	"availableSeats" : 32,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e20"),
+	"availableSeats" : 28,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e92"),
+	"availableSeats" : 28,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f03"),
+	"availableSeats" : 27,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f74"),
+	"availableSeats" : 27,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fe5"),
+	"availableSeats" : 27,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25054"),
+	"availableSeats" : 27,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250c6"),
+	"availableSeats" : 26,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25138"),
+	"availableSeats" : 26,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251aa"),
+	"availableSeats" : 26,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25219"),
+	"availableSeats" : 25,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2528b"),
+	"availableSeats" : 32,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252f9"),
+	"availableSeats" : 25,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2536c"),
+	"availableSeats" : 25,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253de"),
+	"availableSeats" : 25,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2544f"),
+	"availableSeats" : 26,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254c0"),
+	"availableSeats" : 26,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25531"),
+	"availableSeats" : 26,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255a2"),
+	"availableSeats" : 26,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25613"),
+	"availableSeats" : 26,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25684"),
+	"availableSeats" : 25,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256f7"),
+	"availableSeats" : 25,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25766"),
+	"availableSeats" : 32,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257d7"),
+	"availableSeats" : 25,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25848"),
+	"availableSeats" : 25,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258b8"),
+	"availableSeats" : 25,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2592a"),
+	"availableSeats" : 25,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2599b"),
+	"availableSeats" : 25,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a0c"),
+	"availableSeats" : 25,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a7e"),
+	"availableSeats" : 24,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25aef"),
+	"availableSeats" : 23,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b5f"),
+	"availableSeats" : 23,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bd0"),
+	"availableSeats" : 33,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c41"),
+	"availableSeats" : 31,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cb2"),
+	"availableSeats" : 30,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d23"),
+	"availableSeats" : 32,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d92"),
+	"availableSeats" : 21,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e05"),
+	"availableSeats" : 21,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e76"),
+	"availableSeats" : 21,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ee7"),
+	"availableSeats" : 21,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f58"),
+	"availableSeats" : 21,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fcd"),
+	"availableSeats" : 20,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2603a"),
+	"availableSeats" : 20,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260aa"),
+	"availableSeats" : 43,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2611c"),
+	"availableSeats" : 43,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2618e"),
+	"availableSeats" : 43,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261fe"),
+	"availableSeats" : 43,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2626e"),
+	"availableSeats" : 43,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262e0"),
+	"availableSeats" : 39,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26351"),
+	"availableSeats" : 29,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263c2"),
+	"availableSeats" : 17,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26433"),
+	"availableSeats" : 17,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264a4"),
+	"availableSeats" : 17,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26514"),
+	"availableSeats" : 17,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26586"),
+	"availableSeats" : 17,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265f6"),
+	"availableSeats" : 17,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26668"),
+	"availableSeats" : 17,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266d9"),
+	"availableSeats" : 16,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26748"),
+	"availableSeats" : 16,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267bb"),
+	"availableSeats" : 16,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2682c"),
+	"availableSeats" : 21,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2689d"),
+	"availableSeats" : 16,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2690f"),
+	"availableSeats" : 15,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26981"),
+	"availableSeats" : 14,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269f0"),
+	"availableSeats" : 13,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a61"),
+	"availableSeats" : 13,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ad2"),
+	"availableSeats" : 10,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b43"),
+	"availableSeats" : 11,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bb4"),
+	"availableSeats" : 10,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c25"),
+	"availableSeats" : 10,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c96"),
+	"availableSeats" : 21,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d07"),
+	"availableSeats" : 9,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d78"),
+	"availableSeats" : 8,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26de8"),
+	"availableSeats" : 8,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e62"),
+	"availableSeats" : 8,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ecb"),
+	"availableSeats" : 8,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f3b"),
+	"availableSeats" : 8,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fad"),
+	"availableSeats" : 8,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2701e"),
+	"availableSeats" : 9,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2708f"),
+	"availableSeats" : 9,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270ff"),
+	"availableSeats" : 8,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27171"),
+	"availableSeats" : 21,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271e2"),
+	"availableSeats" : 8,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27251"),
+	"availableSeats" : 9,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272c4"),
+	"availableSeats" : 9,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27334"),
+	"availableSeats" : 9,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273a6"),
+	"availableSeats" : 9,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27417"),
+	"availableSeats" : 9,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27488"),
+	"availableSeats" : 9,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274f9"),
+	"availableSeats" : 8,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2756a"),
+	"availableSeats" : 8,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275db"),
+	"availableSeats" : 8,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2764b"),
+	"availableSeats" : 19,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276bd"),
+	"availableSeats" : 8,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2772d"),
+	"availableSeats" : 8,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2779f"),
+	"availableSeats" : 6,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2780f"),
+	"availableSeats" : 5,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27881"),
+	"availableSeats" : 5,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278f2"),
+	"availableSeats" : 4,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27963"),
+	"availableSeats" : 3,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279d4"),
+	"availableSeats" : 3,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a47"),
+	"availableSeats" : 3,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ab6"),
+	"availableSeats" : 3,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b26"),
+	"availableSeats" : 18,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b96"),
+	"availableSeats" : 18,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c09"),
+	"availableSeats" : 18,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c7a"),
+	"availableSeats" : 18,
+	"capacity" : 79,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cea"),
+	"availableSeats" : 24,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d5c"),
+	"availableSeats" : 24,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dcd"),
+	"availableSeats" : 24,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e3e"),
+	"availableSeats" : 24,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27eaf"),
+	"availableSeats" : 24,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f20"),
+	"availableSeats" : 24,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f91"),
+	"availableSeats" : 23,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28003"),
+	"availableSeats" : 5,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28073"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280e3"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28153"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281c5"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28236"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282a9"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28319"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2838c"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283fb"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2846c"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284dc"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2854e"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285cb"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28630"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286a1"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28711"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28782"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287f4"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28863"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288d4"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28947"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289b8"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a29"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a97"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b0b"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b7c"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bed"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c5e"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cd0"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d40"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28db0"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e21"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e93"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f04"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f75"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fe6"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29056"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290c7"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29139"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291a7"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2921c"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2928c"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292fb"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2936e"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293df"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29450"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294c1"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29532"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295a0"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29615"),
+	"availableSeats" : 0,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29685"),
+	"availableSeats" : 1,
+	"capacity" : 120,
+	"code" : "GE2225",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "Media and Consumption: Food and Fashion in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

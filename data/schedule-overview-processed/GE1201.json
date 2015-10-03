@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e963"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9d4"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea44"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eab6"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb26"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb96"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec09"),
+	"availableSeats" : 1,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec7a"),
+	"availableSeats" : 1,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eceb"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed5c"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edcd"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee3f"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eeb0"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef20"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef90"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f002"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f074"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0e4"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f155"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1c4"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f238"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2a8"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f319"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f38a"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3f8"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f46b"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4dc"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f54e"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5be"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f630"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6a0"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f712"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f782"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7f4"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f865"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8d7"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f947"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9b8"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa29"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa9b"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb0b"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb7c"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbef"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc5e"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fccf"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd40"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdb1"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe22"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe92"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff04"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff75"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffe6"),
+	"availableSeats" : 7,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20056"),
+	"availableSeats" : 6,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200c8"),
+	"availableSeats" : 1,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20139"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201aa"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2021b"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2028b"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202fe"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2036e"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203de"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2044f"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204c1"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20532"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205a2"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20614"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20684"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206f5"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20767"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207d8"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20849"),
+	"availableSeats" : 0,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208ba"),
+	"availableSeats" : 20,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2092b"),
+	"availableSeats" : 20,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2099a"),
+	"availableSeats" : 20,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a0d"),
+	"availableSeats" : 20,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a7e"),
+	"availableSeats" : 20,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20aed"),
+	"availableSeats" : 20,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b61"),
+	"availableSeats" : 17,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bd0"),
+	"availableSeats" : 11,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c42"),
+	"availableSeats" : 11,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cb3"),
+	"availableSeats" : 11,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d23"),
+	"availableSeats" : 10,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d92"),
+	"availableSeats" : 9,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e06"),
+	"availableSeats" : 9,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e77"),
+	"availableSeats" : 8,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ee7"),
+	"availableSeats" : 8,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f56"),
+	"availableSeats" : 5,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fc9"),
+	"availableSeats" : 17,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2103b"),
+	"availableSeats" : 4,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210ac"),
+	"availableSeats" : 4,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2111d"),
+	"availableSeats" : 3,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2118e"),
+	"availableSeats" : 3,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211fe"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21270"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212e1"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21352"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213c4"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21433"),
+	"availableSeats" : 3,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214a2"),
+	"availableSeats" : 11,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21516"),
+	"availableSeats" : 3,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21587"),
+	"availableSeats" : 4,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215f9"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21669"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216da"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2174b"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217bc"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2182d"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218a8"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2190f"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21980"),
+	"availableSeats" : 11,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219f1"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a61"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ad2"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b44"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bb6"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c26"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c97"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d08"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d79"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21de9"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e5b"),
+	"availableSeats" : 12,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ecb"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f3c"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fae"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2201e"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22090"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220ff"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22171"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221e3"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22254"),
+	"availableSeats" : 1,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222c5"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22337"),
+	"availableSeats" : 13,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223a7"),
+	"availableSeats" : 12,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2241a"),
+	"availableSeats" : 14,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22489"),
+	"availableSeats" : 13,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224fa"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2256b"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225dc"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2264d"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226be"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2272e"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2279f"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22811"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22882"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228f3"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22964"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229d5"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a46"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ab8"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b28"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b99"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c0a"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c79"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ceb"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d5c"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dce"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e3e"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eb1"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f21"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f92"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23002"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23074"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230e6"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23155"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231c7"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23236"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232aa"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2331a"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23389"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233fc"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2346d"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234dc"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2354f"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235c0"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2362f"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236a2"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23713"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23784"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237f4"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23867"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238d6"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23948"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239ba"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a2a"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a9b"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b13"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b7d"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bee"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c5f"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ccf"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d41"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23db1"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e23"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e94"),
+	"availableSeats" : 18,
+	"capacity" : 18,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f04"),
+	"availableSeats" : 11,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f76"),
+	"availableSeats" : 11,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fe6"),
+	"availableSeats" : 11,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24058"),
+	"availableSeats" : 11,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240c9"),
+	"availableSeats" : 11,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24138"),
+	"availableSeats" : 11,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241ab"),
+	"availableSeats" : 43,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2421c"),
+	"availableSeats" : 43,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2428c"),
+	"availableSeats" : 43,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242fe"),
+	"availableSeats" : 43,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2436f"),
+	"availableSeats" : 43,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243e0"),
+	"availableSeats" : 39,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24452"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244c2"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24533"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245a4"),
+	"availableSeats" : 30,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24615"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24686"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246f5"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24769"),
+	"availableSeats" : 28,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247d9"),
+	"availableSeats" : 27,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2484a"),
+	"availableSeats" : 27,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248bb"),
+	"availableSeats" : 34,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2492b"),
+	"availableSeats" : 27,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249b9"),
+	"availableSeats" : 27,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a0f"),
+	"availableSeats" : 27,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a7f"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24af0"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b61"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bd1"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c42"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cb3"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d25"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d96"),
+	"availableSeats" : 32,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e07"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e78"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ee9"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f5a"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fcb"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2503c"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250ad"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2511d"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2518e"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25200"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25271"),
+	"availableSeats" : 32,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252e2"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25353"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253c5"),
+	"availableSeats" : 22,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25436"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254a6"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25517"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25588"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255f8"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2566b"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256db"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2574c"),
+	"availableSeats" : 33,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257bd"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2582e"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2589f"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25910"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25981"),
+	"availableSeats" : 22,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259f3"),
+	"availableSeats" : 22,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a63"),
+	"availableSeats" : 22,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ad4"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b45"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bb6"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c27"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c97"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d08"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d7a"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dec"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e5c"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ecd"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f3e"),
+	"availableSeats" : 23,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25faf"),
+	"availableSeats" : 22,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2601f"),
+	"availableSeats" : 22,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26091"),
+	"availableSeats" : 21,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26102"),
+	"availableSeats" : 21,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26173"),
+	"availableSeats" : 21,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261e4"),
+	"availableSeats" : 21,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26255"),
+	"availableSeats" : 21,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262c6"),
+	"availableSeats" : 20,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26338"),
+	"availableSeats" : 17,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263a8"),
+	"availableSeats" : 17,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26418"),
+	"availableSeats" : 17,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2648a"),
+	"availableSeats" : 17,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264fc"),
+	"availableSeats" : 16,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2656c"),
+	"availableSeats" : 16,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265dd"),
+	"availableSeats" : 15,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2664e"),
+	"availableSeats" : 15,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266bf"),
+	"availableSeats" : 15,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26730"),
+	"availableSeats" : 15,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267a1"),
+	"availableSeats" : 15,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26811"),
+	"availableSeats" : 17,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26883"),
+	"availableSeats" : 15,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268f4"),
+	"availableSeats" : 14,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26965"),
+	"availableSeats" : 14,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269d6"),
+	"availableSeats" : 14,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a47"),
+	"availableSeats" : 14,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ab8"),
+	"availableSeats" : 14,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b29"),
+	"availableSeats" : 14,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b9a"),
+	"availableSeats" : 14,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c0b"),
+	"availableSeats" : 14,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c7c"),
+	"availableSeats" : 17,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ced"),
+	"availableSeats" : 14,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d5e"),
+	"availableSeats" : 13,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dcf"),
+	"availableSeats" : 13,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e40"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eb1"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f23"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f94"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27005"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2707b"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270e6"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27158"),
+	"availableSeats" : 17,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271c8"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27238"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272a8"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2731a"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2738c"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273fd"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2746c"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274dd"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27550"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275c3"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27632"),
+	"availableSeats" : 17,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276a3"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27712"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27785"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277f6"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27867"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278d8"),
+	"availableSeats" : 12,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27948"),
+	"availableSeats" : 11,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279b9"),
+	"availableSeats" : 11,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a2d"),
+	"availableSeats" : 11,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a9c"),
+	"availableSeats" : 11,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b0e"),
+	"availableSeats" : 17,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b7d"),
+	"availableSeats" : 17,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bef"),
+	"availableSeats" : 17,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c60"),
+	"availableSeats" : 17,
+	"capacity" : 52,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cd1"),
+	"availableSeats" : 22,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d40"),
+	"availableSeats" : 22,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27db1"),
+	"availableSeats" : 22,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e24"),
+	"availableSeats" : 22,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e95"),
+	"availableSeats" : 22,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f06"),
+	"availableSeats" : 22,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f77"),
+	"availableSeats" : 22,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fe7"),
+	"availableSeats" : 13,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28059"),
+	"availableSeats" : 9,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280c9"),
+	"availableSeats" : 7,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2813a"),
+	"availableSeats" : 6,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281ac"),
+	"availableSeats" : 5,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2821d"),
+	"availableSeats" : 3,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2828e"),
+	"availableSeats" : 4,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282ff"),
+	"availableSeats" : 3,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28370"),
+	"availableSeats" : 2,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283e1"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28452"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284c3"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28534"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285a4"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28615"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28686"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286f6"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2876a"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287da"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2884c"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288bc"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2892d"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2899e"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a0f"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a80"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28af0"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b62"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bd3"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c43"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cb5"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d26"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d97"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e08"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e78"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28eea"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f5b"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fcc"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2903d"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290ae"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29120"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29190"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29201"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29272"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292e3"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29354"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293c5"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29436"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294a7"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29518"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29588"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295fa"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2966a"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1201",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Information Management and Its Social Impact",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

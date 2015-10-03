@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e96b"),
+	"availableSeats" : 26,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9dc"),
+	"availableSeats" : 25,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea4d"),
+	"availableSeats" : 25,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eac0"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb31"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eba0"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec11"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec81"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecf3"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed63"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edd3"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee46"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eeb7"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef28"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef99"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f009"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f07b"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0eb"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f15a"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1cc"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f240"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2b0"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f322"),
+	"availableSeats" : 22,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f392"),
+	"availableSeats" : 22,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f402"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f474"),
+	"availableSeats" : 22,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4e5"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f556"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5c7"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f637"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6a7"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f71a"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f789"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7fc"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f86d"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8de"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f94f"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9bf"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa31"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1faa0"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb13"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb84"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbf7"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc66"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcd7"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd48"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdb9"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe2a"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe99"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff0b"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff7e"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffef"),
+	"availableSeats" : 27,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2005f"),
+	"availableSeats" : 27,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200d0"),
+	"availableSeats" : 27,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20141"),
+	"availableSeats" : 26,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201b2"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20223"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20293"),
+	"availableSeats" : 23,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20305"),
+	"availableSeats" : 23,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20377"),
+	"availableSeats" : 23,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203e6"),
+	"availableSeats" : 23,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20458"),
+	"availableSeats" : 23,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204c9"),
+	"availableSeats" : 23,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2053a"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205ab"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2061c"),
+	"availableSeats" : 23,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2068d"),
+	"availableSeats" : 23,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206fe"),
+	"availableSeats" : 23,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2076e"),
+	"availableSeats" : 23,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207e0"),
+	"availableSeats" : 23,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20850"),
+	"availableSeats" : 23,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208c0"),
+	"availableSeats" : 65,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20933"),
+	"availableSeats" : 65,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209a4"),
+	"availableSeats" : 65,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a15"),
+	"availableSeats" : 65,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a85"),
+	"availableSeats" : 65,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20af6"),
+	"availableSeats" : 64,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b68"),
+	"availableSeats" : 57,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bd9"),
+	"availableSeats" : 43,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c4a"),
+	"availableSeats" : 43,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cbb"),
+	"availableSeats" : 43,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d2c"),
+	"availableSeats" : 43,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d9e"),
+	"availableSeats" : 43,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e0e"),
+	"availableSeats" : 43,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e7f"),
+	"availableSeats" : 43,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20eef"),
+	"availableSeats" : 43,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f5e"),
+	"availableSeats" : 44,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fd2"),
+	"availableSeats" : 49,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21043"),
+	"availableSeats" : 44,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210b4"),
+	"availableSeats" : 44,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21125"),
+	"availableSeats" : 42,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21196"),
+	"availableSeats" : 42,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21207"),
+	"availableSeats" : 42,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21279"),
+	"availableSeats" : 42,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212e8"),
+	"availableSeats" : 42,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21359"),
+	"availableSeats" : 42,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213cb"),
+	"availableSeats" : 42,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2143b"),
+	"availableSeats" : 40,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214ac"),
+	"availableSeats" : 49,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2151d"),
+	"availableSeats" : 40,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2158f"),
+	"availableSeats" : 40,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21600"),
+	"availableSeats" : 40,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21671"),
+	"availableSeats" : 40,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216e2"),
+	"availableSeats" : 39,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21752"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217c3"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21833"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218a4"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21918"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21988"),
+	"availableSeats" : 47,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219f7"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a6a"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ad9"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b4b"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bbd"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c2e"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c9e"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d0e"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d81"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21df2"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e63"),
+	"availableSeats" : 46,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ed3"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f43"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fb4"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22027"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2209c"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22109"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2217a"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221ec"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2225c"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222cd"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2233e"),
+	"availableSeats" : 45,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223ad"),
+	"availableSeats" : 45,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22420"),
+	"availableSeats" : 44,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22491"),
+	"availableSeats" : 45,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22500"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22573"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225e4"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22653"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226c5"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22735"),
+	"availableSeats" : 38,
+	"capacity" : 87,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227a8"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22819"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22889"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228fb"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2296b"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229dc"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a4e"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22abe"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b2e"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ba0"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c12"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c82"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cf4"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d65"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dd3"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e48"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eb8"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f28"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f9a"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2300c"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2307c"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230ed"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2315e"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231cf"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23240"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232b1"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23322"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23391"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23404"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23474"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234e3"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23557"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235c9"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23639"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236aa"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2371b"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23789"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237fc"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2386d"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238de"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23951"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239c1"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a31"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23aa0"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b11"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b84"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bf6"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c67"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cd8"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d49"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23db9"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e2e"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e9c"),
+	"availableSeats" : 40,
+	"capacity" : 43,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f0d"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f7e"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fee"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24060"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240d0"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24141"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241b3"),
+	"availableSeats" : 106,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24224"),
+	"availableSeats" : 106,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24296"),
+	"availableSeats" : 106,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24306"),
+	"availableSeats" : 106,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24376"),
+	"availableSeats" : 106,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243e8"),
+	"availableSeats" : 94,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24459"),
+	"availableSeats" : 73,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244ca"),
+	"availableSeats" : 58,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2453c"),
+	"availableSeats" : 58,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245ab"),
+	"availableSeats" : 57,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2461e"),
+	"availableSeats" : 55,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2468e"),
+	"availableSeats" : 55,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246ff"),
+	"availableSeats" : 55,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24770"),
+	"availableSeats" : 54,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247e1"),
+	"availableSeats" : 54,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24852"),
+	"availableSeats" : 54,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248c1"),
+	"availableSeats" : 67,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24934"),
+	"availableSeats" : 55,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249a4"),
+	"availableSeats" : 55,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a18"),
+	"availableSeats" : 53,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a87"),
+	"availableSeats" : 53,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24af7"),
+	"availableSeats" : 53,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b69"),
+	"availableSeats" : 52,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bdb"),
+	"availableSeats" : 52,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c4b"),
+	"availableSeats" : 51,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cbb"),
+	"availableSeats" : 51,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d32"),
+	"availableSeats" : 50,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d9e"),
+	"availableSeats" : 65,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e0f"),
+	"availableSeats" : 50,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e80"),
+	"availableSeats" : 50,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ef1"),
+	"availableSeats" : 50,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f62"),
+	"availableSeats" : 51,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fd3"),
+	"availableSeats" : 51,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25044"),
+	"availableSeats" : 52,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250b5"),
+	"availableSeats" : 52,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25126"),
+	"availableSeats" : 51,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25196"),
+	"availableSeats" : 51,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25209"),
+	"availableSeats" : 50,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25278"),
+	"availableSeats" : 64,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252ea"),
+	"availableSeats" : 50,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2535a"),
+	"availableSeats" : 50,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253cc"),
+	"availableSeats" : 49,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2543d"),
+	"availableSeats" : 49,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254ae"),
+	"availableSeats" : 49,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2551d"),
+	"availableSeats" : 49,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25591"),
+	"availableSeats" : 49,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25601"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25671"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256e3"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25752"),
+	"availableSeats" : 64,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257c6"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25836"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258a7"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25916"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25989"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259f9"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a6c"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25adc"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b4d"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bc3"),
+	"availableSeats" : 64,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c2f"),
+	"availableSeats" : 64,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ca0"),
+	"availableSeats" : 59,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d11"),
+	"availableSeats" : 59,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d81"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25df3"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e64"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ed4"),
+	"availableSeats" : 48,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f46"),
+	"availableSeats" : 47,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fb7"),
+	"availableSeats" : 47,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26028"),
+	"availableSeats" : 47,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2609a"),
+	"availableSeats" : 69,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2610b"),
+	"availableSeats" : 69,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2617b"),
+	"availableSeats" : 69,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261ec"),
+	"availableSeats" : 69,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2625b"),
+	"availableSeats" : 69,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262ce"),
+	"availableSeats" : 65,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2633f"),
+	"availableSeats" : 54,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263b0"),
+	"availableSeats" : 46,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26421"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26492"),
+	"availableSeats" : 43,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26503"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26573"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265e6"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26656"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266c7"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26738"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267a9"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2681b"),
+	"availableSeats" : 50,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2688b"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268fc"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2696b"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269dd"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a50"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26abf"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b31"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bac"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c13"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c84"),
+	"availableSeats" : 50,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cf5"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d66"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dd8"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e48"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eb8"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f2a"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f9c"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2700b"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2707a"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270ee"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2715f"),
+	"availableSeats" : 48,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271cf"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27241"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272b2"),
+	"availableSeats" : 44,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27323"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27394"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27404"),
+	"availableSeats" : 41,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27476"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274e7"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27557"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275c6"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27639"),
+	"availableSeats" : 47,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276ab"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2771c"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2778d"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277fd"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2786e"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278e0"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27955"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279c3"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a32"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27aa4"),
+	"availableSeats" : 42,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b15"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b85"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bf6"),
+	"availableSeats" : 45,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c68"),
+	"availableSeats" : 46,
+	"capacity" : 119,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cd9"),
+	"availableSeats" : 52,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d4a"),
+	"availableSeats" : 52,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dba"),
+	"availableSeats" : 52,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e2c"),
+	"availableSeats" : 52,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e9c"),
+	"availableSeats" : 52,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f0e"),
+	"availableSeats" : 52,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f7f"),
+	"availableSeats" : 52,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fef"),
+	"availableSeats" : 43,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28061"),
+	"availableSeats" : 40,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280d2"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28144"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281b4"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28224"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28295"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28307"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28378"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283e8"),
+	"availableSeats" : 37,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2845a"),
+	"availableSeats" : 37,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284cb"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2853c"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285ac"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2861e"),
+	"availableSeats" : 39,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2868d"),
+	"availableSeats" : 37,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286fd"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28770"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287e1"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28853"),
+	"availableSeats" : 37,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288c4"),
+	"availableSeats" : 37,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28935"),
+	"availableSeats" : 37,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289a5"),
+	"availableSeats" : 37,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a16"),
+	"availableSeats" : 37,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a87"),
+	"availableSeats" : 37,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28afa"),
+	"availableSeats" : 37,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b6a"),
+	"availableSeats" : 37,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bdb"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c4c"),
+	"availableSeats" : 37,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cbf"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d2e"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d9f"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e10"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e81"),
+	"availableSeats" : 38,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ef1"),
+	"availableSeats" : 26,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f62"),
+	"availableSeats" : 22,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fd3"),
+	"availableSeats" : 21,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29045"),
+	"availableSeats" : 14,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290b6"),
+	"availableSeats" : 14,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29126"),
+	"availableSeats" : 12,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29198"),
+	"availableSeats" : 3,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29209"),
+	"availableSeats" : 1,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29279"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292ea"),
+	"availableSeats" : 1,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2935c"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293cd"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2943e"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294af"),
+	"availableSeats" : 1,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29520"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29591"),
+	"availableSeats" : 3,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29602"),
+	"availableSeats" : 2,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29675"),
+	"availableSeats" : 0,
+	"capacity" : 180,
+	"code" : "GE1222",
+	"credit" : 3,
+	"department" : "Accountancy",
+	"levels" : [
+		"B"
+	],
+	"title" : "Accounting in Everyday Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e985"),
+	"availableSeats" : 23,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9fa"),
+	"availableSeats" : 23,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea67"),
+	"availableSeats" : 23,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eadb"),
+	"availableSeats" : 22,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb4e"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebbc"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec2f"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec9f"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed10"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed80"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edf2"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee63"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eed1"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef45"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efb6"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f027"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f098"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f109"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f17b"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1ea"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f25c"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2cd"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f33e"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3af"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f420"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f491"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f502"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f571"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5e5"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f655"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6c6"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f737"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7a8"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f818"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f88a"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8fb"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f96b"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9dd"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa4e"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fabf"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb2f"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fba1"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc12"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc83"),
+	"availableSeats" : 21,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcf4"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd65"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fddf"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe47"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1feb8"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff2a"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff99"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2000b"),
+	"availableSeats" : 23,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2007d"),
+	"availableSeats" : 23,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200ec"),
+	"availableSeats" : 23,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2015c"),
+	"availableSeats" : 23,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201cf"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2023e"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202b1"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20321"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20392"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20404"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20475"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204e8"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20557"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205c8"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20638"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206aa"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2071b"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2078c"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207fb"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2086e"),
+	"availableSeats" : 20,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208de"),
+	"availableSeats" : 48,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2094f"),
+	"availableSeats" : 48,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209c0"),
+	"availableSeats" : 48,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a32"),
+	"availableSeats" : 48,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20aa6"),
+	"availableSeats" : 48,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b14"),
+	"availableSeats" : 48,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b85"),
+	"availableSeats" : 48,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bf6"),
+	"availableSeats" : 45,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c67"),
+	"availableSeats" : 42,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cd7"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d4a"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20db9"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e2c"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e9b"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f0d"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f7e"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fef"),
+	"availableSeats" : 48,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2105f"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210d2"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21143"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211b4"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21225"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21296"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21305"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21378"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213e8"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21459"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214cc"),
+	"availableSeats" : 45,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2153b"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215ad"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2161d"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2168f"),
+	"availableSeats" : 37,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216ff"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21770"),
+	"availableSeats" : 38,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217e1"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2184f"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218c4"),
+	"availableSeats" : 39,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2193c"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219a5"),
+	"availableSeats" : 44,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a16"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a87"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21af8"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b69"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bd8"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c4a"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cbc"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d2d"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d9e"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e0f"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e7e"),
+	"availableSeats" : 45,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ef0"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f62"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fd3"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22044"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220b5"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22126"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22195"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22208"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22279"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222e8"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2235a"),
+	"availableSeats" : 45,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223cb"),
+	"availableSeats" : 46,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2243d"),
+	"availableSeats" : 46,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224ae"),
+	"availableSeats" : 46,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2251f"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22590"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22600"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22672"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226e1"),
+	"availableSeats" : 41,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22754"),
+	"availableSeats" : 40,
+	"capacity" : 58,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227c2"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22836"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228a5"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22918"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22989"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229f9"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a6c"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22adc"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b4d"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bbd"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c2f"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c9f"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d11"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d81"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22df3"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e64"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ed4"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f45"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fb7"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23029"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23099"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2310b"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2317c"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231ec"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2325c"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232ce"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2333f"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233b0"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23421"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23492"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23503"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23574"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235e4"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23656"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236d2"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23739"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237a9"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2381a"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23888"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238fc"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2396c"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239de"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a50"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ac0"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b30"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ba4"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c12"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c84"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cf4"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d66"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dd7"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e48"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23eb9"),
+	"availableSeats" : 26,
+	"capacity" : 29,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f2a"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f9b"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2400c"),
+	"availableSeats" : 53,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2407d"),
+	"availableSeats" : 53,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240ed"),
+	"availableSeats" : 52,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2415f"),
+	"availableSeats" : 52,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241d2"),
+	"availableSeats" : 93,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2423f"),
+	"availableSeats" : 93,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242af"),
+	"availableSeats" : 93,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24323"),
+	"availableSeats" : 93,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24394"),
+	"availableSeats" : 93,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24404"),
+	"availableSeats" : 93,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24476"),
+	"availableSeats" : 92,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244e6"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24558"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245c9"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2463a"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246a9"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2471b"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2478c"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247fe"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24870"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248e0"),
+	"availableSeats" : 90,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24951"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249c2"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a34"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24aa4"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b16"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b8a"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bf7"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c69"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cd8"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d4a"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dbb"),
+	"availableSeats" : 88,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e2c"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e9d"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f0d"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f7f"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fef"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25060"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250d0"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25143"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251b4"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25225"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25297"),
+	"availableSeats" : 87,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25307"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25378"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253e9"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2545a"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254ca"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2553c"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255ac"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2561e"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2568f"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256fd"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25771"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257e3"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25853"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258c4"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25935"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259a6"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a16"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a89"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25af9"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b6a"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bdb"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c4d"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cbb"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d35"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25da0"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e0f"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e80"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ef2"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f63"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fd3"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26042"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260b6"),
+	"availableSeats" : 62,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26135"),
+	"availableSeats" : 62,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26198"),
+	"availableSeats" : 62,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26208"),
+	"availableSeats" : 62,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2627a"),
+	"availableSeats" : 62,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262eb"),
+	"availableSeats" : 62,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2635c"),
+	"availableSeats" : 59,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263cd"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2643e"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264b0"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26520"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26591"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26601"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26672"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266e4"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26755"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267c6"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26837"),
+	"availableSeats" : 57,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268a8"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26918"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2698a"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269fb"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a6c"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26adb"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b4d"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bbf"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c30"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ca0"),
+	"availableSeats" : 57,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d12"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d84"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26df3"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e65"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ed6"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f47"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fb8"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27029"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27099"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2710a"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2717c"),
+	"availableSeats" : 57,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271ed"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2725e"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272ce"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2733f"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273b1"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27422"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27492"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27504"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27575"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275e6"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27658"),
+	"availableSeats" : 57,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276c9"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27738"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277aa"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2781a"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2788a"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278fd"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2796e"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279df"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a50"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27abe"),
+	"availableSeats" : 55,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b32"),
+	"availableSeats" : 57,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ba2"),
+	"availableSeats" : 56,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c15"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c85"),
+	"availableSeats" : 54,
+	"capacity" : 79,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cf6"),
+	"availableSeats" : 89,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d67"),
+	"availableSeats" : 89,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dd7"),
+	"availableSeats" : 89,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e48"),
+	"availableSeats" : 89,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ebb"),
+	"availableSeats" : 89,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f2b"),
+	"availableSeats" : 89,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f9c"),
+	"availableSeats" : 89,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28010"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2807d"),
+	"availableSeats" : 82,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280ee"),
+	"availableSeats" : 83,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2815f"),
+	"availableSeats" : 83,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281d0"),
+	"availableSeats" : 81,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28241"),
+	"availableSeats" : 82,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282b3"),
+	"availableSeats" : 82,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28324"),
+	"availableSeats" : 82,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28396"),
+	"availableSeats" : 80,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28406"),
+	"availableSeats" : 80,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28477"),
+	"availableSeats" : 81,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284e8"),
+	"availableSeats" : 81,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2855c"),
+	"availableSeats" : 80,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285ca"),
+	"availableSeats" : 80,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2863b"),
+	"availableSeats" : 80,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286ac"),
+	"availableSeats" : 79,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2871e"),
+	"availableSeats" : 80,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2878e"),
+	"availableSeats" : 80,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287fd"),
+	"availableSeats" : 80,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28871"),
+	"availableSeats" : 80,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288e2"),
+	"availableSeats" : 80,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28950"),
+	"availableSeats" : 79,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289c3"),
+	"availableSeats" : 79,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a34"),
+	"availableSeats" : 79,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aa3"),
+	"availableSeats" : 79,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b15"),
+	"availableSeats" : 79,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b87"),
+	"availableSeats" : 79,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bf8"),
+	"availableSeats" : 79,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c68"),
+	"availableSeats" : 79,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ce0"),
+	"availableSeats" : 79,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d4b"),
+	"availableSeats" : 79,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dbb"),
+	"availableSeats" : 79,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e2e"),
+	"availableSeats" : 80,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e9e"),
+	"availableSeats" : 80,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f19"),
+	"availableSeats" : 78,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f80"),
+	"availableSeats" : 77,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ff0"),
+	"availableSeats" : 75,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29060"),
+	"availableSeats" : 75,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290d3"),
+	"availableSeats" : 74,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29144"),
+	"availableSeats" : 74,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291b7"),
+	"availableSeats" : 75,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29225"),
+	"availableSeats" : 74,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29296"),
+	"availableSeats" : 74,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29309"),
+	"availableSeats" : 73,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29383"),
+	"availableSeats" : 69,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293ea"),
+	"availableSeats" : 70,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2945b"),
+	"availableSeats" : 68,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294cd"),
+	"availableSeats" : 68,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2953d"),
+	"availableSeats" : 72,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295ae"),
+	"availableSeats" : 76,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2961f"),
+	"availableSeats" : 76,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2968f"),
+	"availableSeats" : 77,
+	"capacity" : 120,
+	"code" : "GE3201",
+	"credit" : 3,
+	"department" : "Media and Communication",
+	"levels" : [
+		"B"
+	],
+	"title" : "China in the Eyes of World Media",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

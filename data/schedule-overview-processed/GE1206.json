@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e967"),
+	"availableSeats" : 13,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9d8"),
+	"availableSeats" : 12,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea49"),
+	"availableSeats" : 9,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eabc"),
+	"availableSeats" : 8,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb29"),
+	"availableSeats" : 8,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb9c"),
+	"availableSeats" : 8,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec0d"),
+	"availableSeats" : 8,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec7e"),
+	"availableSeats" : 8,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecef"),
+	"availableSeats" : 8,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed60"),
+	"availableSeats" : 8,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edd4"),
+	"availableSeats" : 8,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee42"),
+	"availableSeats" : 8,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eeb4"),
+	"availableSeats" : 8,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef24"),
+	"availableSeats" : 8,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef95"),
+	"availableSeats" : 8,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f006"),
+	"availableSeats" : 6,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f077"),
+	"availableSeats" : 6,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0e8"),
+	"availableSeats" : 6,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f163"),
+	"availableSeats" : 6,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1cb"),
+	"availableSeats" : 6,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f23b"),
+	"availableSeats" : 6,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2ab"),
+	"availableSeats" : 6,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f31d"),
+	"availableSeats" : 6,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f38e"),
+	"availableSeats" : 6,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3ff"),
+	"availableSeats" : 7,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f470"),
+	"availableSeats" : 6,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4e2"),
+	"availableSeats" : 6,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f553"),
+	"availableSeats" : 5,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5c3"),
+	"availableSeats" : 5,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f634"),
+	"availableSeats" : 5,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6a4"),
+	"availableSeats" : 5,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f716"),
+	"availableSeats" : 5,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f786"),
+	"availableSeats" : 5,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7f8"),
+	"availableSeats" : 4,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f869"),
+	"availableSeats" : 3,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8da"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f950"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9bc"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa2d"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1faa1"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb0f"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb80"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbf1"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc63"),
+	"availableSeats" : 3,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcd3"),
+	"availableSeats" : 3,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd44"),
+	"availableSeats" : 3,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdb5"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe26"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe96"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff08"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff78"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffea"),
+	"availableSeats" : 16,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2005b"),
+	"availableSeats" : 15,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200cc"),
+	"availableSeats" : 14,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2013c"),
+	"availableSeats" : 13,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201ae"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20221"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20290"),
+	"availableSeats" : 1,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20302"),
+	"availableSeats" : 1,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20372"),
+	"availableSeats" : 1,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203e3"),
+	"availableSeats" : 1,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20453"),
+	"availableSeats" : 1,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204c5"),
+	"availableSeats" : 1,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20536"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205a8"),
+	"availableSeats" : 2,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20618"),
+	"availableSeats" : 1,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20689"),
+	"availableSeats" : 1,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206fa"),
+	"availableSeats" : 1,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2076b"),
+	"availableSeats" : 1,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207dc"),
+	"availableSeats" : 1,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2084d"),
+	"availableSeats" : 1,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208bd"),
+	"availableSeats" : 59,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2092f"),
+	"availableSeats" : 59,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2099f"),
+	"availableSeats" : 59,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a13"),
+	"availableSeats" : 59,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a82"),
+	"availableSeats" : 59,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20af1"),
+	"availableSeats" : 47,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b66"),
+	"availableSeats" : 25,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bd3"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c46"),
+	"availableSeats" : 1,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cb7"),
+	"availableSeats" : 1,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d28"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d9a"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e0a"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e7b"),
+	"availableSeats" : 1,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20eed"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f5b"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fce"),
+	"availableSeats" : 3,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21040"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210af"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21121"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21192"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21203"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21274"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212e4"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21354"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213c7"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21437"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214a9"),
+	"availableSeats" : 2,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2151a"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2158c"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215fc"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2166d"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216de"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2174f"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217c0"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21831"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2189f"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21913"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21984"),
+	"availableSeats" : 2,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219f5"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a66"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ae2"),
+	"availableSeats" : 1,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b48"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bb9"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c2a"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c9b"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d12"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d7d"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dee"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e5f"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ecf"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f4a"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fb1"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22024"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22094"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22105"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22176"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221e7"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22258"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222ca"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2233a"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223ab"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2241c"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2248d"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224fe"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2256f"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225e2"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2264e"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226c2"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22731"),
+	"availableSeats" : 0,
+	"capacity" : 116,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227a4"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22815"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22887"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228f7"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22969"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229d7"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a4a"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22abb"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b2b"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b9d"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c0f"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c7d"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cf0"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d61"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dd0"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e43"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eb4"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f25"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f96"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23006"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23079"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230ea"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23159"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231cb"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2323c"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232ae"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2331d"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2338d"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23400"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23471"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234e1"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23553"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235c4"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23635"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236a6"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23717"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2378e"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237f9"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2386b"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238db"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2394c"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239bd"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a2e"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23aa4"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b0d"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b81"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bf2"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c63"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cd4"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d45"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23db6"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e27"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e98"),
+	"availableSeats" : 53,
+	"capacity" : 57,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f0b"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f7a"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23feb"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2405c"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240d2"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2413d"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241ae"),
+	"availableSeats" : 83,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24220"),
+	"availableSeats" : 83,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24291"),
+	"availableSeats" : 83,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24302"),
+	"availableSeats" : 83,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24373"),
+	"availableSeats" : 83,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243e4"),
+	"availableSeats" : 66,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24455"),
+	"availableSeats" : 34,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244c6"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24537"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245a8"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2461a"),
+	"availableSeats" : 2,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2468a"),
+	"availableSeats" : 1,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246fc"),
+	"availableSeats" : 2,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2476c"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247dd"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2484e"),
+	"availableSeats" : 1,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248be"),
+	"availableSeats" : 20,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2492f"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249a1"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a12"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a83"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24af2"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b65"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bd5"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c47"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cb7"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d28"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d99"),
+	"availableSeats" : 12,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e0b"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e7b"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24eed"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f5e"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fcf"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25040"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250b0"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25121"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25193"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25204"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25275"),
+	"availableSeats" : 4,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252e6"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25356"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253c8"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25439"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254a9"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2551a"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2558c"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255fd"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2566e"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256df"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2574f"),
+	"availableSeats" : 2,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257c2"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25832"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258a3"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25914"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25985"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259f6"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a67"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ad8"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b4a"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bb9"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c2b"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c9d"),
+	"availableSeats" : 1,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d0c"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d7e"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dee"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e60"),
+	"availableSeats" : 1,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ed1"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f42"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fb3"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26024"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26095"),
+	"availableSeats" : 47,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26107"),
+	"availableSeats" : 47,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26177"),
+	"availableSeats" : 47,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261e8"),
+	"availableSeats" : 47,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26259"),
+	"availableSeats" : 47,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262c9"),
+	"availableSeats" : 41,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2633c"),
+	"availableSeats" : 15,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263ac"),
+	"availableSeats" : 5,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2641d"),
+	"availableSeats" : 4,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2648f"),
+	"availableSeats" : 4,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264fd"),
+	"availableSeats" : 3,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2656f"),
+	"availableSeats" : 3,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265e1"),
+	"availableSeats" : 4,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26652"),
+	"availableSeats" : 1,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266c3"),
+	"availableSeats" : 1,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26734"),
+	"availableSeats" : 1,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267a5"),
+	"availableSeats" : 1,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26816"),
+	"availableSeats" : 12,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26887"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268f8"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26969"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269d9"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a4b"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26abd"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b2d"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b9e"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c0f"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c80"),
+	"availableSeats" : 10,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cf1"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d62"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dd2"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e44"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eb5"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f26"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f97"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27007"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27076"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270ea"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2715c"),
+	"availableSeats" : 10,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271cc"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2723e"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272ae"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2731e"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27390"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27403"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27470"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274e3"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27554"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275d6"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27635"),
+	"availableSeats" : 11,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276a6"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27717"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27789"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277f9"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27871"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278dc"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2794d"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279bd"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a2f"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27aa0"),
+	"availableSeats" : 0,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b11"),
+	"availableSeats" : 10,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b82"),
+	"availableSeats" : 11,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bf3"),
+	"availableSeats" : 9,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c64"),
+	"availableSeats" : 7,
+	"capacity" : 158,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cd6"),
+	"availableSeats" : 10,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d46"),
+	"availableSeats" : 10,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27db5"),
+	"availableSeats" : 10,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e28"),
+	"availableSeats" : 10,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e99"),
+	"availableSeats" : 10,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f0a"),
+	"availableSeats" : 10,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f7b"),
+	"availableSeats" : 7,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fec"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2805d"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280ce"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2813f"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281b0"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28221"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28292"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28303"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28374"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283e4"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28456"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284c7"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28538"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285a9"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2861a"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28698"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286fa"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2876c"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287de"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2884f"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288c0"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28931"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289a1"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a13"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a84"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28af5"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b66"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bd7"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c49"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cb9"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d2a"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d9a"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e0c"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e7d"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28eef"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f5f"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fd0"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29041"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290b2"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29123"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29197"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29205"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29276"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292e8"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29358"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293c8"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2943a"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294ab"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2951c"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2958d"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295ff"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2966f"),
+	"availableSeats" : 0,
+	"capacity" : 240,
+	"code" : "GE1206",
+	"credit" : 3,
+	"department" : "Information Systems",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Accelerating Professional Growth on the Web",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

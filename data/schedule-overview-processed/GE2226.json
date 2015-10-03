@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e97e"),
+	"availableSeats" : 10,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9ee"),
+	"availableSeats" : 9,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea5f"),
+	"availableSeats" : 8,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eacf"),
+	"availableSeats" : 8,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb42"),
+	"availableSeats" : 7,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebb3"),
+	"availableSeats" : 6,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec23"),
+	"availableSeats" : 7,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec95"),
+	"availableSeats" : 7,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed06"),
+	"availableSeats" : 7,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed77"),
+	"availableSeats" : 7,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ede6"),
+	"availableSeats" : 8,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee59"),
+	"availableSeats" : 8,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eecc"),
+	"availableSeats" : 8,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef3a"),
+	"availableSeats" : 8,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efab"),
+	"availableSeats" : 8,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f01d"),
+	"availableSeats" : 8,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f08e"),
+	"availableSeats" : 7,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f108"),
+	"availableSeats" : 7,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f170"),
+	"availableSeats" : 7,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1e0"),
+	"availableSeats" : 7,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f252"),
+	"availableSeats" : 6,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2c2"),
+	"availableSeats" : 6,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f335"),
+	"availableSeats" : 6,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3a5"),
+	"availableSeats" : 6,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f416"),
+	"availableSeats" : 6,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f487"),
+	"availableSeats" : 6,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4f8"),
+	"availableSeats" : 5,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f568"),
+	"availableSeats" : 4,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5d9"),
+	"availableSeats" : 4,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f64c"),
+	"availableSeats" : 4,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6bb"),
+	"availableSeats" : 3,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f72c"),
+	"availableSeats" : 2,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f79f"),
+	"availableSeats" : 2,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f80f"),
+	"availableSeats" : 2,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f880"),
+	"availableSeats" : 3,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8ef"),
+	"availableSeats" : 3,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f962"),
+	"availableSeats" : 4,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9d0"),
+	"availableSeats" : 4,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa44"),
+	"availableSeats" : 3,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fab5"),
+	"availableSeats" : 3,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb26"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb99"),
+	"availableSeats" : 3,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc09"),
+	"availableSeats" : 3,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc79"),
+	"availableSeats" : 3,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fce9"),
+	"availableSeats" : 3,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd60"),
+	"availableSeats" : 3,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdcd"),
+	"availableSeats" : 3,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe3d"),
+	"availableSeats" : 2,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1feae"),
+	"availableSeats" : 2,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff1f"),
+	"availableSeats" : 2,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff90"),
+	"availableSeats" : 2,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20001"),
+	"availableSeats" : 11,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20071"),
+	"availableSeats" : 9,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200e3"),
+	"availableSeats" : 8,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20154"),
+	"availableSeats" : 10,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201c5"),
+	"availableSeats" : 0,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20236"),
+	"availableSeats" : 0,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202a6"),
+	"availableSeats" : 0,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20316"),
+	"availableSeats" : 0,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20389"),
+	"availableSeats" : 0,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203fa"),
+	"availableSeats" : 0,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2046b"),
+	"availableSeats" : 0,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204dc"),
+	"availableSeats" : 1,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2054a"),
+	"availableSeats" : 0,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205be"),
+	"availableSeats" : 1,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2062f"),
+	"availableSeats" : 1,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2069e"),
+	"availableSeats" : 1,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20711"),
+	"availableSeats" : 0,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20782"),
+	"availableSeats" : 0,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207f3"),
+	"availableSeats" : 0,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20864"),
+	"availableSeats" : 0,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208d5"),
+	"availableSeats" : 25,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20946"),
+	"availableSeats" : 25,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209bc"),
+	"availableSeats" : 25,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a28"),
+	"availableSeats" : 25,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a98"),
+	"availableSeats" : 25,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b0a"),
+	"availableSeats" : 23,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b7c"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bec"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c5c"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ccd"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d3f"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20db1"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e21"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e92"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f03"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f74"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fe5"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21056"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210c8"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21137"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211a6"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2121a"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2128b"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212fc"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2136d"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213de"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2144f"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214bd"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21531"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215a2"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21615"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21685"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216f3"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21766"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217d7"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21848"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218b9"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2192a"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2199b"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a0c"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a7d"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21aee"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b5e"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bd0"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c41"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cb2"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d23"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d94"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e05"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e79"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ee7"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f58"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fca"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22039"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220ab"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2211c"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2218d"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221fe"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22270"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222df"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2234f"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223c2"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22433"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224a5"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22514"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22585"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225f7"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22667"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226d6"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2274a"),
+	"availableSeats" : 22,
+	"capacity" : 47,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227bc"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2282c"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2289d"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2290e"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2297f"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229f0"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a61"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ad2"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b43"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bb2"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c26"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c96"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d07"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d78"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22de8"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e57"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eca"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f3b"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fad"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2301e"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2308f"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230ff"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23171"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231e1"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23253"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232c4"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23335"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233a6"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23417"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23488"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234f9"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2356a"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235dc"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2364d"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236be"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2372d"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2379f"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23810"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23881"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238f1"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23963"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239d1"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a45"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ab7"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b27"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b98"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c08"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c7a"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ce9"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d5b"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dcd"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e3f"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23eae"),
+	"availableSeats" : 20,
+	"capacity" : 25,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f20"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f92"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24002"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24073"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240e4"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24155"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241c6"),
+	"availableSeats" : 59,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24237"),
+	"availableSeats" : 59,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242a8"),
+	"availableSeats" : 59,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24319"),
+	"availableSeats" : 59,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24388"),
+	"availableSeats" : 59,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243fc"),
+	"availableSeats" : 59,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2446c"),
+	"availableSeats" : 57,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244da"),
+	"availableSeats" : 52,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2454e"),
+	"availableSeats" : 52,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245be"),
+	"availableSeats" : 52,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2462f"),
+	"availableSeats" : 51,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2469e"),
+	"availableSeats" : 50,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24712"),
+	"availableSeats" : 49,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24783"),
+	"availableSeats" : 49,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247f5"),
+	"availableSeats" : 49,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24865"),
+	"availableSeats" : 49,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248d6"),
+	"availableSeats" : 56,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24947"),
+	"availableSeats" : 49,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249b7"),
+	"availableSeats" : 49,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a29"),
+	"availableSeats" : 49,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a9a"),
+	"availableSeats" : 49,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b0b"),
+	"availableSeats" : 49,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b7c"),
+	"availableSeats" : 48,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bec"),
+	"availableSeats" : 47,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c5e"),
+	"availableSeats" : 47,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ccf"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d40"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24db0"),
+	"availableSeats" : 56,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e21"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e93"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f05"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f75"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fe6"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25055"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250c8"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25139"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251a9"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2521b"),
+	"availableSeats" : 45,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2528c"),
+	"availableSeats" : 55,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252fa"),
+	"availableSeats" : 45,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2536e"),
+	"availableSeats" : 45,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253df"),
+	"availableSeats" : 45,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25450"),
+	"availableSeats" : 45,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254c1"),
+	"availableSeats" : 45,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25532"),
+	"availableSeats" : 45,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255a3"),
+	"availableSeats" : 45,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25614"),
+	"availableSeats" : 45,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25685"),
+	"availableSeats" : 45,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256f5"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25767"),
+	"availableSeats" : 55,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257d8"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25849"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258ba"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2592b"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2599c"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a0d"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a7d"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25aee"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b60"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bd1"),
+	"availableSeats" : 53,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c43"),
+	"availableSeats" : 53,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cb1"),
+	"availableSeats" : 53,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d22"),
+	"availableSeats" : 51,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d93"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e12"),
+	"availableSeats" : 46,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e78"),
+	"availableSeats" : 47,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ee8"),
+	"availableSeats" : 47,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f59"),
+	"availableSeats" : 47,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fc9"),
+	"availableSeats" : 47,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2603b"),
+	"availableSeats" : 47,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260ab"),
+	"availableSeats" : 34,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2611d"),
+	"availableSeats" : 34,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2618d"),
+	"availableSeats" : 34,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261ff"),
+	"availableSeats" : 34,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26270"),
+	"availableSeats" : 34,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262e1"),
+	"availableSeats" : 32,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26352"),
+	"availableSeats" : 27,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263c4"),
+	"availableSeats" : 26,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26434"),
+	"availableSeats" : 26,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264a5"),
+	"availableSeats" : 26,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26516"),
+	"availableSeats" : 26,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26587"),
+	"availableSeats" : 27,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265f8"),
+	"availableSeats" : 27,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2666a"),
+	"availableSeats" : 27,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266da"),
+	"availableSeats" : 26,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2674a"),
+	"availableSeats" : 26,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267bd"),
+	"availableSeats" : 26,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2682d"),
+	"availableSeats" : 26,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2689c"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2690e"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2697f"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269f1"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a62"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ad3"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b45"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bb5"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c26"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c97"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d08"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d79"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dec"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e5d"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ecc"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f3c"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fae"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2701f"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2708e"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27101"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27172"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271e3"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27253"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272c6"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27336"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273a7"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27418"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27489"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274fa"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2756b"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275dc"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2764d"),
+	"availableSeats" : 25,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276be"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2772e"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277a0"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27810"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27882"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278f3"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27964"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279d6"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a45"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ab8"),
+	"availableSeats" : 24,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b28"),
+	"availableSeats" : 27,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b9b"),
+	"availableSeats" : 28,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c0a"),
+	"availableSeats" : 27,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c7b"),
+	"availableSeats" : 26,
+	"capacity" : 63,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cec"),
+	"availableSeats" : 47,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d5d"),
+	"availableSeats" : 47,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dce"),
+	"availableSeats" : 47,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e3f"),
+	"availableSeats" : 47,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27eb0"),
+	"availableSeats" : 47,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f21"),
+	"availableSeats" : 47,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f93"),
+	"availableSeats" : 47,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28002"),
+	"availableSeats" : 44,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28074"),
+	"availableSeats" : 45,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280fd"),
+	"availableSeats" : 45,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28154"),
+	"availableSeats" : 45,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281c6"),
+	"availableSeats" : 44,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28238"),
+	"availableSeats" : 43,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282a8"),
+	"availableSeats" : 42,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2831a"),
+	"availableSeats" : 42,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2838a"),
+	"availableSeats" : 42,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283fc"),
+	"availableSeats" : 42,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2846d"),
+	"availableSeats" : 42,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284dd"),
+	"availableSeats" : 42,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2854f"),
+	"availableSeats" : 42,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285be"),
+	"availableSeats" : 42,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28631"),
+	"availableSeats" : 41,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286a3"),
+	"availableSeats" : 41,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28713"),
+	"availableSeats" : 40,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28784"),
+	"availableSeats" : 40,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287f6"),
+	"availableSeats" : 40,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28865"),
+	"availableSeats" : 37,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288d6"),
+	"availableSeats" : 37,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28948"),
+	"availableSeats" : 37,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289b9"),
+	"availableSeats" : 37,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a2a"),
+	"availableSeats" : 36,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a99"),
+	"availableSeats" : 35,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b0c"),
+	"availableSeats" : 41,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b7d"),
+	"availableSeats" : 35,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bee"),
+	"availableSeats" : 41,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c5f"),
+	"availableSeats" : 41,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ccf"),
+	"availableSeats" : 42,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d41"),
+	"availableSeats" : 42,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28db2"),
+	"availableSeats" : 42,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e22"),
+	"availableSeats" : 40,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e92"),
+	"availableSeats" : 40,
+	"capacity" : 95,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f06"),
+	"availableSeats" : 43,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f77"),
+	"availableSeats" : 40,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fe7"),
+	"availableSeats" : 41,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29057"),
+	"availableSeats" : 40,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290c8"),
+	"availableSeats" : 35,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2913a"),
+	"availableSeats" : 34,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291a9"),
+	"availableSeats" : 33,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2921b"),
+	"availableSeats" : 34,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2928d"),
+	"availableSeats" : 34,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292fc"),
+	"availableSeats" : 36,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29371"),
+	"availableSeats" : 33,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293e0"),
+	"availableSeats" : 34,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29451"),
+	"availableSeats" : 33,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294c2"),
+	"availableSeats" : 31,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29533"),
+	"availableSeats" : 28,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295a3"),
+	"availableSeats" : 26,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29614"),
+	"availableSeats" : 26,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29686"),
+	"availableSeats" : 29,
+	"capacity" : 100,
+	"code" : "GE2226",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Ageing Society: Hong Kong and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

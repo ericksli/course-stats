@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e960"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9d2"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea43"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eab4"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb24"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb97"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec07"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec78"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ece9"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed5a"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edcb"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee3b"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eeae"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef1e"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef8e"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f000"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f071"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0e1"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f154"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1c2"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f236"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2a6"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f316"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f386"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3f6"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f469"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4db"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f54c"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5bb"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f62e"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f69e"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f710"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f780"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7f3"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f864"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8d4"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f945"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9b6"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa28"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa99"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb0a"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb7b"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbeb"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc5c"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fccd"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd3e"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdaf"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe20"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe8f"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff02"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff74"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffe4"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20055"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200c7"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20137"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201a8"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20219"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2028a"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202fb"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2036c"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203e0"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2044d"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204c0"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20530"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205a1"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20612"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20680"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206f3"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20765"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207d6"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20847"),
+	"availableSeats" : 0,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208b7"),
+	"availableSeats" : 7,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20929"),
+	"availableSeats" : 7,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20997"),
+	"availableSeats" : 7,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a0b"),
+	"availableSeats" : 7,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a7c"),
+	"availableSeats" : 7,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20aee"),
+	"availableSeats" : 1,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b5e"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bcf"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c3f"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cb1"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d21"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d90"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e03"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e75"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ee6"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f54"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fc6"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21039"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210a9"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2111b"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2118c"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211fd"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2126e"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212e0"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21350"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213c1"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2143a"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214a1"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21514"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21585"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215f5"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21667"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216d8"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21749"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217ba"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2182c"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2189d"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2190d"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2197e"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219f0"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a5f"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ad3"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b42"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bb3"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c24"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c95"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d06"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d77"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21de8"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e59"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21eca"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f3d"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fab"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2201c"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2208e"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220fe"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22170"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221e1"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22251"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222c1"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22334"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223a3"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22413"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22487"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224f8"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22568"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225da"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2264b"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226bc"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2272c"),
+	"availableSeats" : 0,
+	"capacity" : 16,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2279e"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22810"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2287f"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228f1"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22962"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229d3"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a44"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ab5"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b25"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b96"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c08"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c77"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ce8"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d59"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dcb"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e40"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eae"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f1f"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f91"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23000"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23072"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230e2"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23153"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231c5"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23235"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232a8"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23318"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23387"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233fa"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2346b"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234da"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2354d"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235bd"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2362d"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2369f"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23711"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23782"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237f2"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23863"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238d4"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23946"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239b7"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a28"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a99"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b08"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b7b"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bec"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c5e"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cce"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d3e"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23db0"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e21"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e92"),
+	"availableSeats" : 6,
+	"capacity" : 9,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f01"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f74"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fe5"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24054"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240c7"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24136"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241a9"),
+	"availableSeats" : 10,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2421a"),
+	"availableSeats" : 10,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2428a"),
+	"availableSeats" : 10,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242fd"),
+	"availableSeats" : 10,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2436d"),
+	"availableSeats" : 10,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243de"),
+	"availableSeats" : 10,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2444f"),
+	"availableSeats" : 8,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244c0"),
+	"availableSeats" : 6,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24530"),
+	"availableSeats" : 4,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245a2"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24613"),
+	"availableSeats" : 4,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24684"),
+	"availableSeats" : 4,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246f3"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24766"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247d7"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24848"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248b9"),
+	"availableSeats" : 7,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2492a"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2499c"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a0c"),
+	"availableSeats" : 1,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a7d"),
+	"availableSeats" : 1,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24aee"),
+	"availableSeats" : 1,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b5f"),
+	"availableSeats" : 1,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bce"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c41"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cb2"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d23"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d94"),
+	"availableSeats" : 7,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e05"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e76"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ee7"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f59"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fc9"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2503b"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250ab"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2511b"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2518c"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251fd"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2526f"),
+	"availableSeats" : 7,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252e0"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25351"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253c1"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25434"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254a4"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2551e"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25587"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255f9"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25669"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256d9"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2574b"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257bb"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2582c"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2589d"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2590e"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2597d"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259f1"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a60"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ad2"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b41"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bb4"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c25"),
+	"availableSeats" : 6,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c96"),
+	"availableSeats" : 6,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d07"),
+	"availableSeats" : 6,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d78"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25de8"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e5a"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ecb"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f3c"),
+	"availableSeats" : 1,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fad"),
+	"availableSeats" : 1,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26021"),
+	"availableSeats" : 1,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2608f"),
+	"availableSeats" : 5,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26100"),
+	"availableSeats" : 5,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26170"),
+	"availableSeats" : 5,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261e2"),
+	"availableSeats" : 5,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26253"),
+	"availableSeats" : 5,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262c4"),
+	"availableSeats" : 4,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26336"),
+	"availableSeats" : 3,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263a6"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26417"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26488"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264f9"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2656a"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265db"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2664c"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266bd"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2672d"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267a0"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26810"),
+	"availableSeats" : 3,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26881"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268f2"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26961"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269d4"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a45"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ab6"),
+	"availableSeats" : 1,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b28"),
+	"availableSeats" : 1,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b97"),
+	"availableSeats" : 1,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c0a"),
+	"availableSeats" : 1,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c7a"),
+	"availableSeats" : 3,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ceb"),
+	"availableSeats" : 1,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d5c"),
+	"availableSeats" : 1,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dcc"),
+	"availableSeats" : 1,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e3e"),
+	"availableSeats" : 1,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eaf"),
+	"availableSeats" : 1,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f1f"),
+	"availableSeats" : 1,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f93"),
+	"availableSeats" : 1,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27003"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27073"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270e4"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27155"),
+	"availableSeats" : 2,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271c5"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27236"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272aa"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27321"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2738a"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273fb"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27471"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274dc"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2754e"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275be"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27644"),
+	"availableSeats" : 2,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276a1"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2770f"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27783"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277f4"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27865"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278d4"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27945"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279b6"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a29"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a9a"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b0b"),
+	"availableSeats" : 2,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b7e"),
+	"availableSeats" : 1,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bed"),
+	"availableSeats" : 0,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c5d"),
+	"availableSeats" : 1,
+	"capacity" : 21,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ccf"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d3f"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27db8"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e21"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e93"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f04"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f75"),
+	"availableSeats" : 1,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fe5"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28056"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280c8"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28139"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281aa"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2821b"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2828c"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282fd"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2836e"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283df"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28450"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284c1"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28531"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285a6"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28614"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28685"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286ff"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28766"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287d8"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28849"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288ba"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2892b"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2899c"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a0d"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a7e"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aef"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b60"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bd1"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c42"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cb3"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d24"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d93"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e05"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e77"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ee7"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f58"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fc9"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2903c"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290ac"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2911d"),
+	"availableSeats" : 0,
+	"capacity" : 30,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2918e"),
+	"availableSeats" : 19,
+	"capacity" : 60,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291fe"),
+	"availableSeats" : 17,
+	"capacity" : 60,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29271"),
+	"availableSeats" : 7,
+	"capacity" : 60,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292e2"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29352"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293c3"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29433"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294a5"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29516"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29586"),
+	"availableSeats" : 1,
+	"capacity" : 60,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295f8"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29669"),
+	"availableSeats" : 2,
+	"capacity" : 60,
+	"code" : "GE3106",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Documentary and Everyday Urban Life",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

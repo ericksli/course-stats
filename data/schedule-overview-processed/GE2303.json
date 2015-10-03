@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e99d"),
+	"availableSeats" : 14,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea0e"),
+	"availableSeats" : 13,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea7f"),
+	"availableSeats" : 13,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eaef"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb61"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebd2"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec43"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecb7"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed24"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed96"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee06"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee78"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eee9"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef5a"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efcb"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f03b"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0ad"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f11d"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f18f"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f200"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f271"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2e2"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f351"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3c4"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f434"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4a4"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f517"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f588"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5fa"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f66b"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6dc"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f74b"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7bd"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f82c"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f89f"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f90e"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f981"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9f0"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa63"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fad4"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb45"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbb7"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc26"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc98"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd09"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd7a"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdeb"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe5b"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fecd"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff3d"),
+	"availableSeats" : 9,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffaf"),
+	"availableSeats" : 9,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20020"),
+	"availableSeats" : 17,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20092"),
+	"availableSeats" : 16,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20100"),
+	"availableSeats" : 14,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20174"),
+	"availableSeats" : 14,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201e5"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20255"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202c6"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20337"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203a8"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20419"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2048a"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204fc"),
+	"availableSeats" : 12,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2056c"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205dc"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2064e"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206bf"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20730"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207a1"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20812"),
+	"availableSeats" : 10,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20882"),
+	"availableSeats" : 11,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208f3"),
+	"availableSeats" : 34,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20965"),
+	"availableSeats" : 34,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209d6"),
+	"availableSeats" : 34,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a47"),
+	"availableSeats" : 34,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ab8"),
+	"availableSeats" : 34,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b29"),
+	"availableSeats" : 31,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b99"),
+	"availableSeats" : 28,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c0b"),
+	"availableSeats" : 20,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c7d"),
+	"availableSeats" : 18,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cec"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d5e"),
+	"availableSeats" : 18,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dcd"),
+	"availableSeats" : 18,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e40"),
+	"availableSeats" : 18,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20eb0"),
+	"availableSeats" : 18,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f21"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f93"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21004"),
+	"availableSeats" : 24,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21076"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210e5"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21157"),
+	"availableSeats" : 17,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211c8"),
+	"availableSeats" : 18,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21238"),
+	"availableSeats" : 18,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212aa"),
+	"availableSeats" : 19,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2131b"),
+	"availableSeats" : 19,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2138c"),
+	"availableSeats" : 19,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213fc"),
+	"availableSeats" : 19,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2146c"),
+	"availableSeats" : 19,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214df"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2154d"),
+	"availableSeats" : 19,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215c2"),
+	"availableSeats" : 19,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21632"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216a3"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21714"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21786"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217f5"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21869"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218d8"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2194a"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219b7"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a2b"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a9a"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b0d"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b7e"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bf8"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c62"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cd0"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d42"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21db3"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e24"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e95"),
+	"availableSeats" : 20,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f05"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f77"),
+	"availableSeats" : 20,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fe8"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22059"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220ca"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2213b"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221ab"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2221d"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2228e"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22300"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22370"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223e1"),
+	"availableSeats" : 22,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22452"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224c3"),
+	"availableSeats" : 20,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22534"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225a4"),
+	"availableSeats" : 21,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22616"),
+	"availableSeats" : 22,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22685"),
+	"availableSeats" : 22,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226f8"),
+	"availableSeats" : 22,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22769"),
+	"availableSeats" : 22,
+	"capacity" : 43,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227da"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2284b"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228bc"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2292d"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2299e"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a0e"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a80"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22af0"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b61"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bd3"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c44"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cb5"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d25"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d97"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e08"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e79"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eea"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f5b"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fcd"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2303b"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230ad"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2311e"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23190"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23201"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23272"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232e2"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23357"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233c5"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23436"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234a7"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23518"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23589"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235fa"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2366b"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236db"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2374f"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237bd"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2382f"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2389f"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23911"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23982"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239f3"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a64"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ad5"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b46"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bb7"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c28"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c98"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d08"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d78"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dec"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e5d"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ecd"),
+	"availableSeats" : 21,
+	"capacity" : 21,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f40"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fb0"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24021"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24092"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24103"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24172"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241e5"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24256"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242c8"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24338"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243a9"),
+	"availableSeats" : 66,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2441a"),
+	"availableSeats" : 62,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2448a"),
+	"availableSeats" : 55,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244fd"),
+	"availableSeats" : 45,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2456d"),
+	"availableSeats" : 47,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245de"),
+	"availableSeats" : 46,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2464f"),
+	"availableSeats" : 47,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246c0"),
+	"availableSeats" : 45,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24731"),
+	"availableSeats" : 45,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247a2"),
+	"availableSeats" : 45,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2481b"),
+	"availableSeats" : 44,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24884"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248f5"),
+	"availableSeats" : 53,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24966"),
+	"availableSeats" : 44,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249d7"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a48"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ab8"),
+	"availableSeats" : 41,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b2a"),
+	"availableSeats" : 39,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b9b"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c0c"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c7d"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cee"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d5e"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dd1"),
+	"availableSeats" : 51,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e40"),
+	"availableSeats" : 36,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24eb8"),
+	"availableSeats" : 36,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f23"),
+	"availableSeats" : 35,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f93"),
+	"availableSeats" : 35,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25005"),
+	"availableSeats" : 35,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25075"),
+	"availableSeats" : 35,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250e7"),
+	"availableSeats" : 35,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25158"),
+	"availableSeats" : 35,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251c9"),
+	"availableSeats" : 35,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2523b"),
+	"availableSeats" : 35,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252b5"),
+	"availableSeats" : 49,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2531a"),
+	"availableSeats" : 35,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2538d"),
+	"availableSeats" : 35,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253fe"),
+	"availableSeats" : 35,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2546e"),
+	"availableSeats" : 34,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254de"),
+	"availableSeats" : 35,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25551"),
+	"availableSeats" : 35,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255c2"),
+	"availableSeats" : 36,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25632"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256a1"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25715"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25786"),
+	"availableSeats" : 48,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257f7"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25868"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258d9"),
+	"availableSeats" : 36,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2594a"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259b9"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a2b"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a9d"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b0e"),
+	"availableSeats" : 36,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b7f"),
+	"availableSeats" : 37,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bf0"),
+	"availableSeats" : 47,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c61"),
+	"availableSeats" : 47,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cd1"),
+	"availableSeats" : 46,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d44"),
+	"availableSeats" : 45,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25db2"),
+	"availableSeats" : 38,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e22"),
+	"availableSeats" : 38,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e97"),
+	"availableSeats" : 38,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f08"),
+	"availableSeats" : 38,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f78"),
+	"availableSeats" : 38,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fe8"),
+	"availableSeats" : 38,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26059"),
+	"availableSeats" : 38,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260cb"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2613b"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261ac"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2621f"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2628f"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26300"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2637a"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263e2"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26453"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264c4"),
+	"availableSeats" : 30,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26534"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265a6"),
+	"availableSeats" : 30,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26617"),
+	"availableSeats" : 30,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26688"),
+	"availableSeats" : 28,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266f9"),
+	"availableSeats" : 29,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2676c"),
+	"availableSeats" : 30,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267db"),
+	"availableSeats" : 30,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2684c"),
+	"availableSeats" : 38,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268bd"),
+	"availableSeats" : 30,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2692d"),
+	"availableSeats" : 30,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269a0"),
+	"availableSeats" : 30,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a10"),
+	"availableSeats" : 30,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a81"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26af1"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b63"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bd5"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c44"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cb7"),
+	"availableSeats" : 36,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d26"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d98"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e09"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e77"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eeb"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f5c"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fcd"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2703f"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270af"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27120"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27191"),
+	"availableSeats" : 35,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27202"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27270"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272e3"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27355"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273c6"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27437"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274a8"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27519"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2758a"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275fb"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2766c"),
+	"availableSeats" : 34,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276dd"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2774f"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277bf"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2782e"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278a1"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27912"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27982"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279f5"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a65"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ad6"),
+	"availableSeats" : 32,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b47"),
+	"availableSeats" : 33,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bb8"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c2a"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ca8"),
+	"availableSeats" : 31,
+	"capacity" : 59,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d0b"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d7b"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ded"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e5e"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ecc"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f3f"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27faf"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28022"),
+	"availableSeats" : 45,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28094"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28103"),
+	"availableSeats" : 41,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28175"),
+	"availableSeats" : 41,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281e6"),
+	"availableSeats" : 41,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28255"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282c9"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28337"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283aa"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2841a"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2848c"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284fd"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2856d"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285df"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28650"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286c0"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28731"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287a1"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28814"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28885"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288f5"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28965"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289d8"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a49"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28aba"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b2a"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b9c"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c0c"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c7f"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cef"),
+	"availableSeats" : 43,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d5e"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dd1"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e40"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28eb3"),
+	"availableSeats" : 42,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f24"),
+	"availableSeats" : 29,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f92"),
+	"availableSeats" : 25,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29006"),
+	"availableSeats" : 24,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29078"),
+	"availableSeats" : 21,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290e8"),
+	"availableSeats" : 20,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29159"),
+	"availableSeats" : 13,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291ca"),
+	"availableSeats" : 7,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2923b"),
+	"availableSeats" : 6,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292ac"),
+	"availableSeats" : 2,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2931d"),
+	"availableSeats" : 0,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2938d"),
+	"availableSeats" : 0,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293ff"),
+	"availableSeats" : 2,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2946e"),
+	"availableSeats" : 0,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294df"),
+	"availableSeats" : 1,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29551"),
+	"availableSeats" : 0,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295c6"),
+	"availableSeats" : 1,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29633"),
+	"availableSeats" : 6,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a296a6"),
+	"availableSeats" : 18,
+	"capacity" : 91,
+	"code" : "GE2303",
+	"credit" : 3,
+	"department" : "Architecture and Civil Engg",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Save the Earth: Sustainable Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

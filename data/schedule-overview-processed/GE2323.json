@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9a7"),
+	"availableSeats" : 6,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea17"),
+	"availableSeats" : 6,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea89"),
+	"availableSeats" : 5,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eaf7"),
+	"availableSeats" : 5,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb6b"),
+	"availableSeats" : 4,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebdc"),
+	"availableSeats" : 4,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec4f"),
+	"availableSeats" : 4,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecbe"),
+	"availableSeats" : 4,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed2f"),
+	"availableSeats" : 4,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed9e"),
+	"availableSeats" : 4,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee11"),
+	"availableSeats" : 3,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee82"),
+	"availableSeats" : 3,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eef3"),
+	"availableSeats" : 3,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef64"),
+	"availableSeats" : 3,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efd5"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f048"),
+	"availableSeats" : 2,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0b7"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f128"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f199"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f20a"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f27b"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2ec"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f35e"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3cf"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f43c"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4b2"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f521"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f592"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f603"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f672"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6e5"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f755"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7c7"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f837"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8a9"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f91a"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f98a"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9fc"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa6d"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fadd"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb4f"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbbf"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc31"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fca2"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd13"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd84"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdf5"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe68"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fed8"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff48"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffb9"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2002a"),
+	"availableSeats" : 8,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2009b"),
+	"availableSeats" : 7,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2010d"),
+	"availableSeats" : 7,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2017d"),
+	"availableSeats" : 6,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201ee"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2025e"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202cf"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20341"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203b2"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20423"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20494"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20505"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20575"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205e6"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20658"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206c8"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2073b"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207ab"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2081c"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2088d"),
+	"availableSeats" : 0,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208fe"),
+	"availableSeats" : 38,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2096f"),
+	"availableSeats" : 38,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209e0"),
+	"availableSeats" : 38,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a52"),
+	"availableSeats" : 38,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ac2"),
+	"availableSeats" : 38,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b33"),
+	"availableSeats" : 34,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ba4"),
+	"availableSeats" : 22,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c14"),
+	"availableSeats" : 9,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c87"),
+	"availableSeats" : 9,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cf5"),
+	"availableSeats" : 8,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d6c"),
+	"availableSeats" : 7,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dd9"),
+	"availableSeats" : 6,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e4a"),
+	"availableSeats" : 6,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ebb"),
+	"availableSeats" : 6,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f2c"),
+	"availableSeats" : 6,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f9c"),
+	"availableSeats" : 6,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2100b"),
+	"availableSeats" : 20,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2107f"),
+	"availableSeats" : 6,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210f0"),
+	"availableSeats" : 7,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21161"),
+	"availableSeats" : 7,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211d2"),
+	"availableSeats" : 7,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21242"),
+	"availableSeats" : 6,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212b5"),
+	"availableSeats" : 6,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21326"),
+	"availableSeats" : 5,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21396"),
+	"availableSeats" : 5,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21408"),
+	"availableSeats" : 5,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21477"),
+	"availableSeats" : 6,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214ed"),
+	"availableSeats" : 15,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21558"),
+	"availableSeats" : 6,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215ca"),
+	"availableSeats" : 6,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2163c"),
+	"availableSeats" : 5,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216ad"),
+	"availableSeats" : 5,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21720"),
+	"availableSeats" : 4,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21793"),
+	"availableSeats" : 4,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21800"),
+	"availableSeats" : 4,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21870"),
+	"availableSeats" : 4,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218e3"),
+	"availableSeats" : 4,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21954"),
+	"availableSeats" : 5,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219c3"),
+	"availableSeats" : 15,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a34"),
+	"availableSeats" : 5,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21aa6"),
+	"availableSeats" : 5,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b17"),
+	"availableSeats" : 5,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b88"),
+	"availableSeats" : 4,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bf9"),
+	"availableSeats" : 4,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c6a"),
+	"availableSeats" : 4,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cdc"),
+	"availableSeats" : 4,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d4b"),
+	"availableSeats" : 4,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dbd"),
+	"availableSeats" : 4,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e2e"),
+	"availableSeats" : 3,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e9e"),
+	"availableSeats" : 14,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f10"),
+	"availableSeats" : 3,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f80"),
+	"availableSeats" : 3,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ff1"),
+	"availableSeats" : 2,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22063"),
+	"availableSeats" : 2,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220d5"),
+	"availableSeats" : 2,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22145"),
+	"availableSeats" : 2,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221b6"),
+	"availableSeats" : 2,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22227"),
+	"availableSeats" : 2,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22299"),
+	"availableSeats" : 2,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22309"),
+	"availableSeats" : 2,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2237a"),
+	"availableSeats" : 13,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223ec"),
+	"availableSeats" : 12,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2245c"),
+	"availableSeats" : 11,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224ce"),
+	"availableSeats" : 9,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2253e"),
+	"availableSeats" : 2,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225af"),
+	"availableSeats" : 2,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2261f"),
+	"availableSeats" : 2,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2268f"),
+	"availableSeats" : 2,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22703"),
+	"availableSeats" : 2,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22773"),
+	"availableSeats" : 2,
+	"capacity" : 74,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227e5"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22853"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228c6"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22937"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229a7"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a19"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a87"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22afa"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b6c"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bdd"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c51"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cbf"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d31"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d9f"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e12"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e83"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ef8"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f65"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fd6"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23046"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230bb"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23129"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2319a"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2320b"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2327c"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232ed"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2335e"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233cd"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2343d"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234b1"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23522"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23593"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23604"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23675"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236e6"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23757"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237c8"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23839"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238aa"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2391b"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2398a"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239fe"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a6d"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ae0"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b50"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bc1"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c32"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ca3"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d14"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d85"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23df6"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e67"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ed8"),
+	"availableSeats" : 34,
+	"capacity" : 38,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f49"),
+	"availableSeats" : 1,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fba"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2402b"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2409c"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2410c"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2417f"),
+	"availableSeats" : 0,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241ef"),
+	"availableSeats" : 61,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2425f"),
+	"availableSeats" : 61,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242d1"),
+	"availableSeats" : 61,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24342"),
+	"availableSeats" : 61,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243b4"),
+	"availableSeats" : 61,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24424"),
+	"availableSeats" : 57,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24495"),
+	"availableSeats" : 45,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24506"),
+	"availableSeats" : 27,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24577"),
+	"availableSeats" : 27,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245e9"),
+	"availableSeats" : 27,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24659"),
+	"availableSeats" : 28,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246ca"),
+	"availableSeats" : 26,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2473b"),
+	"availableSeats" : 26,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247ac"),
+	"availableSeats" : 26,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2481e"),
+	"availableSeats" : 27,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2488e"),
+	"availableSeats" : 24,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248ff"),
+	"availableSeats" : 42,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24974"),
+	"availableSeats" : 24,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249e1"),
+	"availableSeats" : 24,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a53"),
+	"availableSeats" : 23,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ac3"),
+	"availableSeats" : 23,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b34"),
+	"availableSeats" : 23,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ba3"),
+	"availableSeats" : 23,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c16"),
+	"availableSeats" : 22,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c87"),
+	"availableSeats" : 22,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cf8"),
+	"availableSeats" : 20,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d68"),
+	"availableSeats" : 20,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ddd"),
+	"availableSeats" : 43,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e4b"),
+	"availableSeats" : 19,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ebc"),
+	"availableSeats" : 19,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f2e"),
+	"availableSeats" : 19,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f9d"),
+	"availableSeats" : 19,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2500f"),
+	"availableSeats" : 19,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25080"),
+	"availableSeats" : 19,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250f1"),
+	"availableSeats" : 17,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25162"),
+	"availableSeats" : 17,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251d4"),
+	"availableSeats" : 17,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25248"),
+	"availableSeats" : 17,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252b4"),
+	"availableSeats" : 36,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25326"),
+	"availableSeats" : 17,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25397"),
+	"availableSeats" : 16,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25408"),
+	"availableSeats" : 16,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25478"),
+	"availableSeats" : 16,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254ea"),
+	"availableSeats" : 15,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2555c"),
+	"availableSeats" : 15,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255cb"),
+	"availableSeats" : 15,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2563d"),
+	"availableSeats" : 15,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256ae"),
+	"availableSeats" : 15,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2571f"),
+	"availableSeats" : 15,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25791"),
+	"availableSeats" : 34,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25801"),
+	"availableSeats" : 15,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25872"),
+	"availableSeats" : 15,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258e3"),
+	"availableSeats" : 15,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25953"),
+	"availableSeats" : 14,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259c5"),
+	"availableSeats" : 14,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a36"),
+	"availableSeats" : 14,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25aa7"),
+	"availableSeats" : 14,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b18"),
+	"availableSeats" : 14,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b89"),
+	"availableSeats" : 14,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bf8"),
+	"availableSeats" : 31,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c6c"),
+	"availableSeats" : 29,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cdb"),
+	"availableSeats" : 28,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d4e"),
+	"availableSeats" : 27,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dbd"),
+	"availableSeats" : 14,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e2f"),
+	"availableSeats" : 14,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ea0"),
+	"availableSeats" : 14,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f11"),
+	"availableSeats" : 14,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f82"),
+	"availableSeats" : 14,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ff3"),
+	"availableSeats" : 14,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26063"),
+	"availableSeats" : 15,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260d5"),
+	"availableSeats" : 31,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2614a"),
+	"availableSeats" : 31,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261b7"),
+	"availableSeats" : 31,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26228"),
+	"availableSeats" : 31,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26298"),
+	"availableSeats" : 31,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26309"),
+	"availableSeats" : 28,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2637b"),
+	"availableSeats" : 18,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263ea"),
+	"availableSeats" : 14,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2645d"),
+	"availableSeats" : 13,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264cd"),
+	"availableSeats" : 12,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26540"),
+	"availableSeats" : 11,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265b0"),
+	"availableSeats" : 9,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2661f"),
+	"availableSeats" : 9,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26692"),
+	"availableSeats" : 9,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26703"),
+	"availableSeats" : 9,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26774"),
+	"availableSeats" : 9,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267e5"),
+	"availableSeats" : 9,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26856"),
+	"availableSeats" : 16,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268c7"),
+	"availableSeats" : 8,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26938"),
+	"availableSeats" : 8,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269a8"),
+	"availableSeats" : 8,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a1a"),
+	"availableSeats" : 6,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a8b"),
+	"availableSeats" : 6,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26afc"),
+	"availableSeats" : 4,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b6d"),
+	"availableSeats" : 4,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bde"),
+	"availableSeats" : 4,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c4f"),
+	"availableSeats" : 4,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cbf"),
+	"availableSeats" : 16,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d32"),
+	"availableSeats" : 4,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26da0"),
+	"availableSeats" : 5,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e13"),
+	"availableSeats" : 5,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e84"),
+	"availableSeats" : 4,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ef5"),
+	"availableSeats" : 4,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f66"),
+	"availableSeats" : 4,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fd5"),
+	"availableSeats" : 4,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27048"),
+	"availableSeats" : 3,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270b6"),
+	"availableSeats" : 2,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2712a"),
+	"availableSeats" : 2,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2719b"),
+	"availableSeats" : 16,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2720c"),
+	"availableSeats" : 2,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2727d"),
+	"availableSeats" : 2,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272ee"),
+	"availableSeats" : 2,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2735f"),
+	"availableSeats" : 2,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273cf"),
+	"availableSeats" : 2,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2743f"),
+	"availableSeats" : 2,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274b6"),
+	"availableSeats" : 2,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27522"),
+	"availableSeats" : 2,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27594"),
+	"availableSeats" : 2,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27605"),
+	"availableSeats" : 2,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27676"),
+	"availableSeats" : 16,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276eb"),
+	"availableSeats" : 2,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27758"),
+	"availableSeats" : 1,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277c9"),
+	"availableSeats" : 1,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2783a"),
+	"availableSeats" : 1,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278ab"),
+	"availableSeats" : 1,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2791c"),
+	"availableSeats" : 1,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2798a"),
+	"availableSeats" : 1,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279fe"),
+	"availableSeats" : 1,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a6f"),
+	"availableSeats" : 2,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ae1"),
+	"availableSeats" : 1,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b51"),
+	"availableSeats" : 15,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bc2"),
+	"availableSeats" : 15,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c37"),
+	"availableSeats" : 14,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ca3"),
+	"availableSeats" : 14,
+	"capacity" : 100,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d15"),
+	"availableSeats" : 20,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d86"),
+	"availableSeats" : 20,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27df8"),
+	"availableSeats" : 20,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e69"),
+	"availableSeats" : 20,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27eda"),
+	"availableSeats" : 20,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f49"),
+	"availableSeats" : 20,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fba"),
+	"availableSeats" : 19,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2802c"),
+	"availableSeats" : 14,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2809d"),
+	"availableSeats" : 11,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2810e"),
+	"availableSeats" : 12,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2817f"),
+	"availableSeats" : 8,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281f0"),
+	"availableSeats" : 7,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28261"),
+	"availableSeats" : 8,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282d3"),
+	"availableSeats" : 7,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28343"),
+	"availableSeats" : 6,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283b4"),
+	"availableSeats" : 5,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28422"),
+	"availableSeats" : 4,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28496"),
+	"availableSeats" : 4,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28509"),
+	"availableSeats" : 3,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28575"),
+	"availableSeats" : 2,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285e9"),
+	"availableSeats" : 1,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2865a"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286c9"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2873a"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287ad"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2881e"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2888f"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288fd"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28970"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289e2"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a53"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ac4"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b35"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ba6"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c17"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c88"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cf8"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d6a"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ddb"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e4d"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ebb"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f2e"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f9d"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29010"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29080"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290f3"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29162"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291d4"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29245"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292b6"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29327"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29397"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29408"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2947a"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294eb"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2955d"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295cc"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29640"),
+	"availableSeats" : 0,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a296b1"),
+	"availableSeats" : 2,
+	"capacity" : 150,
+	"code" : "GE2323",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Mobile Social Networks: Practices, Challenges, and Beyond",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

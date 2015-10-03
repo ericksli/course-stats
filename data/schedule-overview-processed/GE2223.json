@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e97c"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9ed"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea5c"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eacd"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb40"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebb1"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec21"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec93"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed04"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed75"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ede5"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee56"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eec8"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef3b"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efa9"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f01b"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f08c"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0fe"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f16f"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1e1"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f24f"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2c1"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f332"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3a3"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f415"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f485"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4f6"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f566"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5db"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f648"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6ba"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f72a"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f79c"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f80d"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f87d"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8f0"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f960"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9dc"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa42"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fab3"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb23"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb94"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc06"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc77"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fce8"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd5a"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdca"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe3b"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fead"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff1e"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff8e"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffff"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2006e"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200e2"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20152"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201c4"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20234"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202a5"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20315"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20387"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203f7"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20469"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204da"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20548"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205bb"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2062d"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2069c"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2070f"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20781"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207f1"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20863"),
+	"availableSeats" : 0,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208d2"),
+	"availableSeats" : 8,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20944"),
+	"availableSeats" : 8,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209b5"),
+	"availableSeats" : 8,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a26"),
+	"availableSeats" : 8,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a97"),
+	"availableSeats" : 8,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b08"),
+	"availableSeats" : 1,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b79"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bea"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c5b"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ccb"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d3c"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dae"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e1e"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e90"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f01"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f72"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fe3"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21053"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210c4"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21136"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211a4"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21219"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21289"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212fa"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2136a"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213dc"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2144d"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214bb"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2152f"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215a1"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21611"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21682"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216f9"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21765"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217d5"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21846"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218b7"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21928"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21999"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a0a"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a7b"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21aec"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b5d"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bce"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c3f"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cb0"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d21"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d92"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e03"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e74"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ee5"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f56"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fc8"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22037"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220a8"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2211b"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2218b"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221fc"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2226d"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222dd"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2234d"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223c0"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22431"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224a2"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22513"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22584"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225f4"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22666"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226d7"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22748"),
+	"availableSeats" : 0,
+	"capacity" : 22,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227b9"),
+	"availableSeats" : 7,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22829"),
+	"availableSeats" : 7,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2289b"),
+	"availableSeats" : 7,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2290d"),
+	"availableSeats" : 7,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2297d"),
+	"availableSeats" : 7,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229ed"),
+	"availableSeats" : 6,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a5f"),
+	"availableSeats" : 5,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ad0"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b42"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bb0"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c23"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c94"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d05"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d76"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22de7"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e55"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ec9"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f3a"),
+	"availableSeats" : 5,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fab"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2301c"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2308d"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230fe"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2316f"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231e0"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23251"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232c2"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23332"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233a3"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23415"),
+	"availableSeats" : 5,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23487"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234f7"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23568"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235d9"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2364a"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236bb"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2372c"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2379c"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2380f"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2387f"),
+	"availableSeats" : 5,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238f0"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23960"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239d0"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a43"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ab4"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b25"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b96"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c07"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c78"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ce7"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d59"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dcb"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e3c"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ead"),
+	"availableSeats" : 4,
+	"capacity" : 14,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f1e"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f8f"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24000"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24071"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240e3"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24153"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241c4"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24235"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242a6"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24317"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24386"),
+	"availableSeats" : 12,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243f9"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2446a"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244e8"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2454c"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245bc"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2462d"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2469c"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24710"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24781"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247f2"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24863"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248d4"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24944"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249b5"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a26"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a97"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b08"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b7a"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24be9"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c5c"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ccd"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d3f"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dae"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e1f"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e91"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f02"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f73"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fe4"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25052"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250c7"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25137"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251a8"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2521a"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2528a"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252f8"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2536d"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253dd"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2544e"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254be"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25530"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255a1"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25611"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25683"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256f3"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25765"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257d6"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25847"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258b9"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25929"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2599a"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a0a"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a7c"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25aed"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b5e"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bcf"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c40"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cc6"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d24"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d90"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e04"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e75"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ee6"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f57"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fc8"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26039"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260a8"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2611b"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2618c"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261fb"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2626f"),
+	"availableSeats" : 7,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262df"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26350"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263c1"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26432"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264a2"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26513"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26585"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265f7"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26667"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266d8"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26749"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267ba"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2682b"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2689e"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2690d"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2697e"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269ef"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a5f"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ad1"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b42"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bb3"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c24"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c95"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d06"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d77"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26de7"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e58"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26eca"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f3d"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fac"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2701d"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27090"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270fe"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27170"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271e1"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27252"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272c3"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27333"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273a4"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27416"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27486"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274f8"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27569"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275da"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2764c"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276bc"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2772c"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2779e"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27811"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2787f"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278f0"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27962"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279d3"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a44"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ab5"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b27"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b98"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c08"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c79"),
+	"availableSeats" : 0,
+	"capacity" : 28,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ceb"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d5b"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dcc"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e3d"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27eae"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f1e"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f8f"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28001"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28072"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280ed"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28152"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281c4"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28237"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282a7"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28317"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28388"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283fa"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2846b"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284db"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2854d"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285bc"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2862f"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286a0"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28712"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28783"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287f3"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28861"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288d3"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28946"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289b7"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a27"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a9f"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b0a"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b7b"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bec"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c5d"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ccd"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d3f"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28db1"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e29"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e91"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f03"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f74"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fe5"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29055"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290c6"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29138"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291a6"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2921a"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2928b"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292fa"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2936d"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293de"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2944f"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294bf"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29531"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2959f"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29613"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29684"),
+	"availableSeats" : 0,
+	"capacity" : 40,
+	"code" : "GE2223",
+	"credit" : 3,
+	"department" : "Applied Social Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Interpersonal Skills and Positive Personal Development",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

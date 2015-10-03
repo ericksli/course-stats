@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e976"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9e7"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea58"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eac7"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb3a"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebab"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec1a"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec8d"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecfe"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed6e"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ede0"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee51"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eec2"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef33"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efa3"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f014"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f086"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0f8"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f168"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1d9"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f249"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2bb"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f32c"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f39d"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f411"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f47f"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4f0"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f561"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5d1"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f643"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6b5"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f724"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f796"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f806"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f876"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8e7"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f95a"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9ca"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa3b"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1faad"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb1e"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb8c"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbfe"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc71"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fce2"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd53"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdc4"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe35"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fea7"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff17"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff88"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fff9"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20073"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200d9"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2014c"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201bd"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2022f"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2029f"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20326"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20381"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203f2"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20463"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204d4"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20545"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205b5"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20626"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20695"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20709"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2077a"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207eb"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2085b"),
+	"availableSeats" : 12,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208ce"),
+	"availableSeats" : 26,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2093e"),
+	"availableSeats" : 26,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209af"),
+	"availableSeats" : 26,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a22"),
+	"availableSeats" : 26,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a91"),
+	"availableSeats" : 26,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b02"),
+	"availableSeats" : 26,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b73"),
+	"availableSeats" : 25,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20be4"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c55"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cc6"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d38"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20da8"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e19"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e8a"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20efa"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f6b"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fe1"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2104e"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210be"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21130"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211a1"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21212"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21283"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212f4"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21365"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213d7"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21447"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214b8"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21528"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2159a"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2160b"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2167c"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216ed"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2175e"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217cf"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21840"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218b2"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21922"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21993"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a04"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a74"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ae5"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b57"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bc9"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c39"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ca9"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d1b"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d8c"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dfd"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e6e"),
+	"availableSeats" : 23,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21edf"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f50"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fc1"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22032"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220a3"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22114"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22186"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221f6"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22268"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222d9"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22349"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223b9"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2242b"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2249b"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2250d"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2257e"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225ef"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2265f"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226d3"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22742"),
+	"availableSeats" : 24,
+	"capacity" : 50,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227b3"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22823"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22897"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22906"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22977"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229e8"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a59"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22aca"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b3b"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bac"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c1c"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c8e"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cfe"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d6f"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22de0"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e52"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ec3"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f32"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fa5"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23016"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23087"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230f9"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23169"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231da"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2324b"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232bc"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2332b"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2339e"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23410"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23481"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234f0"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23562"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235d3"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23644"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236b5"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23726"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23797"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23808"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23879"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238f3"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2395c"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239cb"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a3d"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23aae"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b1f"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b8e"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c01"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c72"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ce3"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d57"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dc5"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e36"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ea7"),
+	"availableSeats" : 13,
+	"capacity" : 36,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f17"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f8a"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ffa"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2406a"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240dc"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2414d"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241be"),
+	"availableSeats" : 53,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2422d"),
+	"availableSeats" : 53,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242a0"),
+	"availableSeats" : 53,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24311"),
+	"availableSeats" : 53,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24381"),
+	"availableSeats" : 53,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243f3"),
+	"availableSeats" : 53,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24463"),
+	"availableSeats" : 51,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244d5"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24546"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245b6"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24627"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24697"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2470a"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2477b"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247ed"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2485d"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248cd"),
+	"availableSeats" : 51,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2493f"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249ae"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a21"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a91"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b05"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b74"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24be6"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c56"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cc7"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d38"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24da9"),
+	"availableSeats" : 51,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e19"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e89"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ef9"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f6d"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fde"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2504e"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250c0"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25132"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251a2"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25213"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25284"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252f5"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25366"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253d7"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25448"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254b9"),
+	"availableSeats" : 47,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2552a"),
+	"availableSeats" : 47,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2559b"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2560f"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2567d"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256ee"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2575e"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257cf"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25841"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258b1"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25923"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25994"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a0b"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a76"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ae7"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b58"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bc7"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c3a"),
+	"availableSeats" : 48,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cab"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d1c"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d8b"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dfe"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e6f"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ee0"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f51"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fc1"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26034"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260a2"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26115"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26187"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261f7"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26266"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262d9"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2634a"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263bc"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2642c"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2649d"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2650e"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2657f"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265f1"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26661"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266d2"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26743"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267b4"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26825"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26894"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26909"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26977"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269e8"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a5a"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26acb"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b3c"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bad"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c1f"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c8f"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d00"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d71"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26de1"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e52"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ec4"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f33"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fa6"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27017"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27088"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270f9"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2716a"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271db"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2724a"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272bd"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2732d"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2739f"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27411"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27480"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274f2"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27562"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275d3"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27645"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276b5"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27727"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27797"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27808"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2787a"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278eb"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27961"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279ce"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a3f"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27aaf"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b20"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b90"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c02"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c73"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ce3"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d54"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dc5"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e37"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ea8"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f19"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f8a"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ffa"),
+	"availableSeats" : 50,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2806c"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280dd"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2814d"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281bf"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28230"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282a2"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28312"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28383"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283f4"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28465"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284d6"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28546"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285b6"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28628"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2869a"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2870b"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2877c"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287ef"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2885b"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288ce"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2893f"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289b1"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a21"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a93"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b04"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b75"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28be6"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c56"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cc8"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d39"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dad"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e1c"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e8a"),
+	"availableSeats" : 49,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28efc"),
+	"availableSeats" : 45,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f6e"),
+	"availableSeats" : 43,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fdd"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29050"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290c3"),
+	"availableSeats" : 38,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29132"),
+	"availableSeats" : 38,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291a3"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29214"),
+	"availableSeats" : 35,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29283"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292f9"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29367"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293d7"),
+	"availableSeats" : 35,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29449"),
+	"availableSeats" : 38,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294ba"),
+	"availableSeats" : 40,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2952b"),
+	"availableSeats" : 40,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2959c"),
+	"availableSeats" : 40,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2960c"),
+	"availableSeats" : 40,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2967d"),
+	"availableSeats" : 44,
+	"capacity" : 80,
+	"code" : "GE2212",
+	"credit" : 3,
+	"department" : "Management",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Contemporary Business Communication",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

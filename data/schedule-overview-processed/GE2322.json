@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9a6"),
+	"availableSeats" : 20,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea18"),
+	"availableSeats" : 20,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea88"),
+	"availableSeats" : 19,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eaf8"),
+	"availableSeats" : 19,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb6a"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebdb"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec4b"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecbd"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed2e"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed9d"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee10"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee80"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eef2"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef63"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efd4"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f044"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0b6"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f127"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f198"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f209"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f27a"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2eb"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f35b"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3cd"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f442"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4b1"),
+	"availableSeats" : 18,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f51f"),
+	"availableSeats" : 17,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f58f"),
+	"availableSeats" : 17,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f602"),
+	"availableSeats" : 17,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f677"),
+	"availableSeats" : 17,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6e4"),
+	"availableSeats" : 17,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f756"),
+	"availableSeats" : 17,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7c6"),
+	"availableSeats" : 17,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f838"),
+	"availableSeats" : 17,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8a8"),
+	"availableSeats" : 17,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f918"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f987"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9fb"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa6c"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fadc"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb4e"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbbe"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc30"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fca1"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd11"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd82"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdf4"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe65"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fed6"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff46"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffb8"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20028"),
+	"availableSeats" : 19,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20099"),
+	"availableSeats" : 20,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2010b"),
+	"availableSeats" : 20,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2017c"),
+	"availableSeats" : 20,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201ed"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2025d"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202ce"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2033f"),
+	"availableSeats" : 17,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203b1"),
+	"availableSeats" : 17,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20422"),
+	"availableSeats" : 17,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20493"),
+	"availableSeats" : 17,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20504"),
+	"availableSeats" : 17,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20576"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205e5"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20657"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206c7"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20738"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207aa"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2081b"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2088c"),
+	"availableSeats" : 16,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208fd"),
+	"availableSeats" : 47,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2096e"),
+	"availableSeats" : 47,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209de"),
+	"availableSeats" : 47,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a50"),
+	"availableSeats" : 47,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ac1"),
+	"availableSeats" : 47,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b32"),
+	"availableSeats" : 46,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ba3"),
+	"availableSeats" : 43,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c15"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c85"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cf7"),
+	"availableSeats" : 38,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d66"),
+	"availableSeats" : 37,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dd8"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e48"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20eba"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f2b"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f9d"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21012"),
+	"availableSeats" : 41,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2107e"),
+	"availableSeats" : 38,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210ef"),
+	"availableSeats" : 38,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2115f"),
+	"availableSeats" : 38,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211d1"),
+	"availableSeats" : 38,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21241"),
+	"availableSeats" : 38,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212b3"),
+	"availableSeats" : 38,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21324"),
+	"availableSeats" : 38,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21394"),
+	"availableSeats" : 38,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21406"),
+	"availableSeats" : 38,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21475"),
+	"availableSeats" : 38,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214e7"),
+	"availableSeats" : 41,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21557"),
+	"availableSeats" : 38,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215c9"),
+	"availableSeats" : 38,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2163b"),
+	"availableSeats" : 38,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216ab"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2171d"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21790"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217ff"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2186e"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218e1"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21952"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219c2"),
+	"availableSeats" : 41,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a35"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21aa5"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b16"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b87"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bf7"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c68"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cd9"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d4a"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dbc"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e2d"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e9d"),
+	"availableSeats" : 41,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f0f"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f7f"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ff2"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22062"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220d2"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22144"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221b5"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22226"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22297"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22308"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22379"),
+	"availableSeats" : 41,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223ea"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2245b"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224cc"),
+	"availableSeats" : 40,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2253d"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225ae"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22620"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2268e"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22701"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22772"),
+	"availableSeats" : 39,
+	"capacity" : 56,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227e3"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22852"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228c5"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22935"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229a8"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a18"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a8e"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22af8"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b6b"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bdc"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c4d"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cbe"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d2f"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22da1"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e11"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e81"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ef3"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f64"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fd4"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23045"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230b6"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23128"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23199"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2320a"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2327b"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232ec"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2335d"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233ce"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2343c"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234b0"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23521"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23591"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23603"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23674"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236e4"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23756"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237c4"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23837"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238a9"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23918"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2398b"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239fc"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a6e"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ade"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b4f"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bc0"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c31"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ca2"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d13"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d84"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23df5"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e66"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ed6"),
+	"availableSeats" : 27,
+	"capacity" : 27,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f48"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fb9"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2402a"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2409b"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2410b"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2417d"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241ee"),
+	"availableSeats" : 99,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2425e"),
+	"availableSeats" : 99,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242cf"),
+	"availableSeats" : 99,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24341"),
+	"availableSeats" : 99,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243b1"),
+	"availableSeats" : 99,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24423"),
+	"availableSeats" : 99,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24493"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24505"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24576"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245e7"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24658"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246c9"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24739"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247ab"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2481c"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2488d"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248fe"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2496d"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249e0"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a51"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ac2"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b33"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ba6"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c14"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c86"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cf7"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d67"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dde"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e4a"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24eba"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f2c"),
+	"availableSeats" : 96,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f9b"),
+	"availableSeats" : 96,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2500e"),
+	"availableSeats" : 96,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2507f"),
+	"availableSeats" : 96,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250f0"),
+	"availableSeats" : 96,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25161"),
+	"availableSeats" : 96,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251d3"),
+	"availableSeats" : 96,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25242"),
+	"availableSeats" : 96,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252b3"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25324"),
+	"availableSeats" : 96,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25396"),
+	"availableSeats" : 96,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25406"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25477"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254e9"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2555a"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255cc"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2563c"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256ac"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2571e"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2578f"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25800"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25871"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258e2"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25955"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259c3"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a35"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25aa5"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b16"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b88"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bf7"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c69"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cda"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d4c"),
+	"availableSeats" : 97,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dbc"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e2d"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e9f"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f10"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f81"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ff0"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26062"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260d4"),
+	"availableSeats" : 61,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26145"),
+	"availableSeats" : 61,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261b6"),
+	"availableSeats" : 61,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26227"),
+	"availableSeats" : 61,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26296"),
+	"availableSeats" : 61,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26308"),
+	"availableSeats" : 60,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26379"),
+	"availableSeats" : 57,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263f0"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2645c"),
+	"availableSeats" : 56,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264cc"),
+	"availableSeats" : 56,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2653d"),
+	"availableSeats" : 56,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265af"),
+	"availableSeats" : 56,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2661d"),
+	"availableSeats" : 56,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26691"),
+	"availableSeats" : 56,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26702"),
+	"availableSeats" : 56,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26773"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267e4"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26855"),
+	"availableSeats" : 57,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268c6"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26937"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269aa"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a18"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a8a"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26afb"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b6c"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bdd"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c4c"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cbe"),
+	"availableSeats" : 57,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d30"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d9f"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e12"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e80"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ef4"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f65"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fd4"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27045"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270b5"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27129"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2719a"),
+	"availableSeats" : 57,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2720b"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2727c"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272ec"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2735e"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273ce"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27440"),
+	"availableSeats" : 53,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274b2"),
+	"availableSeats" : 53,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27521"),
+	"availableSeats" : 53,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27593"),
+	"availableSeats" : 53,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27604"),
+	"availableSeats" : 53,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27675"),
+	"availableSeats" : 57,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276e6"),
+	"availableSeats" : 53,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27757"),
+	"availableSeats" : 53,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277c8"),
+	"availableSeats" : 53,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27839"),
+	"availableSeats" : 53,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278aa"),
+	"availableSeats" : 53,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2791b"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2798b"),
+	"availableSeats" : 54,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279fd"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a6d"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27adf"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b50"),
+	"availableSeats" : 56,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bc1"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c36"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ca2"),
+	"availableSeats" : 55,
+	"capacity" : 77,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d14"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d85"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27df6"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e66"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ed8"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f48"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fb9"),
+	"availableSeats" : 95,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2802b"),
+	"availableSeats" : 93,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2809c"),
+	"availableSeats" : 93,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2810d"),
+	"availableSeats" : 93,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2817e"),
+	"availableSeats" : 93,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281ef"),
+	"availableSeats" : 93,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28260"),
+	"availableSeats" : 94,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282d1"),
+	"availableSeats" : 93,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28341"),
+	"availableSeats" : 92,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283b3"),
+	"availableSeats" : 93,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28421"),
+	"availableSeats" : 92,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28494"),
+	"availableSeats" : 92,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28506"),
+	"availableSeats" : 92,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2857c"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285e8"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28659"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286c8"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28739"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287ac"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2881d"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2888e"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28902"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28971"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289e1"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a52"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ac2"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b33"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ba5"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c16"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c87"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cf9"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d68"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dda"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e4b"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28eba"),
+	"availableSeats" : 91,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f2d"),
+	"availableSeats" : 88,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f9c"),
+	"availableSeats" : 90,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2900e"),
+	"availableSeats" : 89,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29081"),
+	"availableSeats" : 89,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290f1"),
+	"availableSeats" : 88,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29163"),
+	"availableSeats" : 87,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291d3"),
+	"availableSeats" : 87,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29244"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292b5"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29325"),
+	"availableSeats" : 84,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29396"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29407"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29478"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294ea"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2955b"),
+	"availableSeats" : 86,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295cb"),
+	"availableSeats" : 85,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2963d"),
+	"availableSeats" : 83,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a296ae"),
+	"availableSeats" : 84,
+	"capacity" : 120,
+	"code" : "GE2322",
+	"credit" : 3,
+	"department" : "Biology & Chemistry",
+	"levels" : [
+		"B"
+	],
+	"title" : "The Nobel Spirit",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

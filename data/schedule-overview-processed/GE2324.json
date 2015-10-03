@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9a8"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea19"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea8a"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eafa"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb6c"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebdd"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec51"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecbf"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed30"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed9f"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee12"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee83"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eef4"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef65"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efd6"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f046"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0b8"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f129"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f19a"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f20b"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f27d"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2ed"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f35d"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3ce"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f43d"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4af"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f522"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f593"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f604"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f678"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6e6"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f757"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7c8"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f839"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8aa"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f91c"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f98d"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9fd"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa6e"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fade"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb51"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbc0"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc32"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fca3"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd14"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd86"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdf6"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe66"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fed7"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff49"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffba"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2002b"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2009c"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a2010c"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2017e"),
+	"availableSeats" : 0,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201ef"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20260"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202d0"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20342"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203b3"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20424"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20495"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20506"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20577"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205e7"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20659"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206c9"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2073a"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207ac"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2081d"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2088e"),
+	"availableSeats" : 1,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208ff"),
+	"availableSeats" : 15,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20970"),
+	"availableSeats" : 15,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209e1"),
+	"availableSeats" : 15,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a51"),
+	"availableSeats" : 15,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ac3"),
+	"availableSeats" : 15,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b34"),
+	"availableSeats" : 15,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ba5"),
+	"availableSeats" : 12,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c16"),
+	"availableSeats" : 8,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c86"),
+	"availableSeats" : 8,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cf8"),
+	"availableSeats" : 8,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d68"),
+	"availableSeats" : 8,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dda"),
+	"availableSeats" : 7,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e4b"),
+	"availableSeats" : 7,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ebc"),
+	"availableSeats" : 7,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f2d"),
+	"availableSeats" : 7,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f9e"),
+	"availableSeats" : 7,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2100d"),
+	"availableSeats" : 10,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21081"),
+	"availableSeats" : 7,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210f1"),
+	"availableSeats" : 7,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21162"),
+	"availableSeats" : 7,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211d3"),
+	"availableSeats" : 7,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21243"),
+	"availableSeats" : 7,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212b4"),
+	"availableSeats" : 6,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21325"),
+	"availableSeats" : 6,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21395"),
+	"availableSeats" : 6,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21407"),
+	"availableSeats" : 6,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21479"),
+	"availableSeats" : 6,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214e8"),
+	"availableSeats" : 8,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21559"),
+	"availableSeats" : 6,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215cb"),
+	"availableSeats" : 6,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2163d"),
+	"availableSeats" : 5,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216b0"),
+	"availableSeats" : 5,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2171e"),
+	"availableSeats" : 5,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21791"),
+	"availableSeats" : 5,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21801"),
+	"availableSeats" : 5,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21871"),
+	"availableSeats" : 5,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218e2"),
+	"availableSeats" : 5,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21953"),
+	"availableSeats" : 5,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219c5"),
+	"availableSeats" : 8,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a36"),
+	"availableSeats" : 5,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21aa7"),
+	"availableSeats" : 4,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b18"),
+	"availableSeats" : 4,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b8a"),
+	"availableSeats" : 4,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bfa"),
+	"availableSeats" : 4,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c6b"),
+	"availableSeats" : 3,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cdb"),
+	"availableSeats" : 3,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d4e"),
+	"availableSeats" : 3,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dbe"),
+	"availableSeats" : 3,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e2f"),
+	"availableSeats" : 3,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ea0"),
+	"availableSeats" : 8,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f11"),
+	"availableSeats" : 3,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f84"),
+	"availableSeats" : 2,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ff4"),
+	"availableSeats" : 2,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22064"),
+	"availableSeats" : 2,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220d4"),
+	"availableSeats" : 2,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22149"),
+	"availableSeats" : 3,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221b7"),
+	"availableSeats" : 3,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22228"),
+	"availableSeats" : 3,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22298"),
+	"availableSeats" : 4,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2230b"),
+	"availableSeats" : 4,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2237b"),
+	"availableSeats" : 8,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223eb"),
+	"availableSeats" : 7,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2245d"),
+	"availableSeats" : 7,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224cd"),
+	"availableSeats" : 8,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22540"),
+	"availableSeats" : 4,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225b0"),
+	"availableSeats" : 4,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22621"),
+	"availableSeats" : 4,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22691"),
+	"availableSeats" : 4,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22702"),
+	"availableSeats" : 4,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22774"),
+	"availableSeats" : 4,
+	"capacity" : 31,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227e4"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22854"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228c7"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22939"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229a9"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a1a"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a88"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22afb"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b6d"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22be0"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c52"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cc0"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d30"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22da2"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e13"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e84"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ef6"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f66"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fd7"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23047"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230b8"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2312a"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2319b"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2320c"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2327d"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232ef"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2335f"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233cf"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23440"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234b2"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23526"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23594"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23605"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23676"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236e7"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23758"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237ca"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2383c"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238ab"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2391c"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2398c"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239fd"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a6f"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23adf"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b51"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bc2"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c33"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ca4"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d15"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d86"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23df7"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e68"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ed9"),
+	"availableSeats" : 13,
+	"capacity" : 17,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f4a"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fbb"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2402c"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2409d"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2410e"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2417e"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241f0"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24260"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242d3"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24343"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243b3"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24425"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24496"),
+	"availableSeats" : 34,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24507"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24579"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245e8"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2465a"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246cb"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2473c"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247af"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2481d"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2488f"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24901"),
+	"availableSeats" : 33,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2496f"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249e2"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a52"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ac6"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b35"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ba4"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c17"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c88"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cfa"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d69"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dd8"),
+	"availableSeats" : 33,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e4c"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ebd"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f2d"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f9c"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25010"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25081"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250f2"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25163"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251d2"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25243"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252b6"),
+	"availableSeats" : 33,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25328"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25398"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2540a"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25479"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254eb"),
+	"availableSeats" : 31,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2555b"),
+	"availableSeats" : 30,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255cd"),
+	"availableSeats" : 30,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2563e"),
+	"availableSeats" : 30,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256af"),
+	"availableSeats" : 30,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25720"),
+	"availableSeats" : 30,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25790"),
+	"availableSeats" : 33,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25802"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25873"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258e4"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25954"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259c6"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a37"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25aa8"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b19"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b8a"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bf9"),
+	"availableSeats" : 33,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c6b"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cdc"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d4f"),
+	"availableSeats" : 32,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dbf"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e31"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ea1"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f12"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f83"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ff4"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26065"),
+	"availableSeats" : 29,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260d6"),
+	"availableSeats" : 17,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26146"),
+	"availableSeats" : 17,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261b8"),
+	"availableSeats" : 17,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26229"),
+	"availableSeats" : 17,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26297"),
+	"availableSeats" : 17,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2630b"),
+	"availableSeats" : 17,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2637c"),
+	"availableSeats" : 17,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263eb"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2645e"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264ce"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2653f"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265b1"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26621"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26693"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26704"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26775"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267e6"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26857"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268c8"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26939"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269a9"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a1b"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a8c"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26afd"),
+	"availableSeats" : 14,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b6e"),
+	"availableSeats" : 14,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26be0"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c50"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cc0"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d31"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26da1"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e14"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e85"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ef6"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f67"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fd6"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27047"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270b7"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2712b"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2719d"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2720d"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2727e"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272ed"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27363"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273d0"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27442"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274b1"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27524"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27595"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27606"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27677"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276e7"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27759"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277ca"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2783b"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278ac"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2791e"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2798d"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279ff"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a70"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ae0"),
+	"availableSeats" : 15,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b52"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bc3"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c32"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ca4"),
+	"availableSeats" : 16,
+	"capacity" : 41,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d16"),
+	"availableSeats" : 28,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d88"),
+	"availableSeats" : 28,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27df7"),
+	"availableSeats" : 28,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e68"),
+	"availableSeats" : 28,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ed9"),
+	"availableSeats" : 28,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f4a"),
+	"availableSeats" : 28,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fbc"),
+	"availableSeats" : 28,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2802d"),
+	"availableSeats" : 27,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2809e"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28110"),
+	"availableSeats" : 26,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28180"),
+	"availableSeats" : 25,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281f4"),
+	"availableSeats" : 25,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28262"),
+	"availableSeats" : 25,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282d2"),
+	"availableSeats" : 23,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28342"),
+	"availableSeats" : 22,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283b5"),
+	"availableSeats" : 23,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28423"),
+	"availableSeats" : 22,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28497"),
+	"availableSeats" : 22,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28507"),
+	"availableSeats" : 22,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28576"),
+	"availableSeats" : 22,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285ea"),
+	"availableSeats" : 22,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2865b"),
+	"availableSeats" : 22,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286ca"),
+	"availableSeats" : 22,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2873b"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287ae"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28820"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28890"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288fe"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28973"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289e3"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a54"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ac5"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b36"),
+	"availableSeats" : 23,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ba7"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c18"),
+	"availableSeats" : 22,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c89"),
+	"availableSeats" : 22,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cfa"),
+	"availableSeats" : 22,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d6b"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ddc"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e4c"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ebd"),
+	"availableSeats" : 21,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f30"),
+	"availableSeats" : 12,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f9e"),
+	"availableSeats" : 10,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29011"),
+	"availableSeats" : 9,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29082"),
+	"availableSeats" : 10,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290f2"),
+	"availableSeats" : 10,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29164"),
+	"availableSeats" : 9,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291d5"),
+	"availableSeats" : 9,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29246"),
+	"availableSeats" : 7,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292b7"),
+	"availableSeats" : 5,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29328"),
+	"availableSeats" : 1,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29398"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29409"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2947b"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294ec"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2955c"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295cd"),
+	"availableSeats" : 0,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2963e"),
+	"availableSeats" : 2,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a296b3"),
+	"availableSeats" : 3,
+	"capacity" : 60,
+	"code" : "GE2324",
+	"credit" : 3,
+	"department" : "Computer Science",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "The Art and Science of Data",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

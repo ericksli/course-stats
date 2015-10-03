@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e944"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9b5"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea25"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea96"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb08"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb79"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebea"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec5b"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eccc"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed3d"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edaf"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee1f"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee90"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef01"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef71"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efe2"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f054"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0c5"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f136"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1a6"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f217"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f289"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2fa"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f370"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3df"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f44d"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4be"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f52e"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5a0"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f611"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f682"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6f2"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f764"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7d5"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f846"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8b7"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f928"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f998"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa0d"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa7b"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1faeb"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb5d"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbce"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc3f"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcb0"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd20"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd91"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe05"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe74"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fee6"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff57"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffc6"),
+	"availableSeats" : 106,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20038"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200a9"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20119"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2018b"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20201"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2026d"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202de"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2034e"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203c0"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20431"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204a2"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20513"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20583"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205f5"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20666"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206d7"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20747"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207b9"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2082a"),
+	"availableSeats" : 105,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2089b"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2090c"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2097d"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209ee"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a5f"),
+	"availableSeats" : 104,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ad0"),
+	"availableSeats" : 102,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b41"),
+	"availableSeats" : 99,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bb2"),
+	"availableSeats" : 85,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c21"),
+	"availableSeats" : 84,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c95"),
+	"availableSeats" : 83,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d05"),
+	"availableSeats" : 82,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d77"),
+	"availableSeats" : 83,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20de7"),
+	"availableSeats" : 82,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e58"),
+	"availableSeats" : 83,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ec9"),
+	"availableSeats" : 83,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f3a"),
+	"availableSeats" : 83,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fa9"),
+	"availableSeats" : 97,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2101c"),
+	"availableSeats" : 82,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2108d"),
+	"availableSeats" : 82,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210fe"),
+	"availableSeats" : 82,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2116f"),
+	"availableSeats" : 81,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211df"),
+	"availableSeats" : 81,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21250"),
+	"availableSeats" : 81,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212c2"),
+	"availableSeats" : 79,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21333"),
+	"availableSeats" : 79,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213a4"),
+	"availableSeats" : 79,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21415"),
+	"availableSeats" : 79,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21486"),
+	"availableSeats" : 92,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214f6"),
+	"availableSeats" : 79,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21568"),
+	"availableSeats" : 79,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215d9"),
+	"availableSeats" : 78,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2164a"),
+	"availableSeats" : 78,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216bb"),
+	"availableSeats" : 78,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2172c"),
+	"availableSeats" : 78,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2179d"),
+	"availableSeats" : 78,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2180d"),
+	"availableSeats" : 78,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2187f"),
+	"availableSeats" : 78,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218f0"),
+	"availableSeats" : 78,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21960"),
+	"availableSeats" : 91,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219d4"),
+	"availableSeats" : 78,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a42"),
+	"availableSeats" : 78,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ab4"),
+	"availableSeats" : 78,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b25"),
+	"availableSeats" : 78,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b96"),
+	"availableSeats" : 78,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c07"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c78"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ce9"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d5a"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dca"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e3c"),
+	"availableSeats" : 89,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ead"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f1d"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f8f"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22000"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22071"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220e2"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22153"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221c4"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22236"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222a6"),
+	"availableSeats" : 75,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22317"),
+	"availableSeats" : 89,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22388"),
+	"availableSeats" : 87,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223f9"),
+	"availableSeats" : 86,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2246a"),
+	"availableSeats" : 86,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224da"),
+	"availableSeats" : 75,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2254c"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225bd"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2262e"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2269f"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22711"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22781"),
+	"availableSeats" : 119,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227f3"),
+	"availableSeats" : 119,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22864"),
+	"availableSeats" : 119,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228d4"),
+	"availableSeats" : 119,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22945"),
+	"availableSeats" : 119,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229b6"),
+	"availableSeats" : 119,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a27"),
+	"availableSeats" : 119,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a97"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b0a"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b79"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bea"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c5c"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ccb"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d3e"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22daf"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e20"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e91"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f02"),
+	"availableSeats" : 119,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f72"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fe4"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23055"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230c6"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23137"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231a8"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23219"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2328a"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232fb"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2336b"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233dd"),
+	"availableSeats" : 119,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2344e"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234c2"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23533"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235a1"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23611"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23683"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236f4"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23765"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237d6"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23847"),
+	"availableSeats" : 119,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238b8"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23929"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2399a"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a0b"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a7c"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23aed"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b5d"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bcf"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c42"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cb1"),
+	"availableSeats" : 119,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d22"),
+	"availableSeats" : 119,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d93"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e04"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e75"),
+	"availableSeats" : 118,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ee6"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f57"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fc7"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24038"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240aa"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2411a"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2418c"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241fd"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2426e"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242df"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24350"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243c1"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24432"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244a3"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24514"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24586"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245f5"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24667"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246d7"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24749"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247ba"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2482b"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2489c"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2490d"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2497e"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249f0"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a60"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ad1"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b42"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bb3"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c27"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c94"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d06"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d77"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24de7"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e59"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24eca"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f3b"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fac"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2501d"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25092"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250fe"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25170"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251e1"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25252"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252c7"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25333"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253a4"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25416"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25487"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254f8"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25568"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255da"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2564b"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256bb"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2572d"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2579e"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2580f"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25880"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258f1"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25962"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259d3"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a44"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ab5"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b25"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b97"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c08"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c79"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ce9"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d5b"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dcc"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e3d"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25eae"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f1e"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f90"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26001"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26071"),
+	"availableSeats" : 77,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260e3"),
+	"availableSeats" : 77,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26153"),
+	"availableSeats" : 77,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261c5"),
+	"availableSeats" : 77,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26236"),
+	"availableSeats" : 77,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262a7"),
+	"availableSeats" : 77,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26318"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26389"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a263fa"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2646c"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264dc"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2654f"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265be"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2662f"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266a2"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26711"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26782"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267f3"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26863"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268d5"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26946"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269b8"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a27"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a99"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b0c"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b7b"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bec"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c5d"),
+	"availableSeats" : 76,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cce"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d3f"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26db0"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e21"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e92"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f03"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f74"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fe4"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27055"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270c7"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27138"),
+	"availableSeats" : 75,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271a9"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2721a"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2728a"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272fc"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2736c"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273de"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27452"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274c0"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27531"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275a2"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27617"),
+	"availableSeats" : 75,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27686"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276f5"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27766"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277d9"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27848"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278b8"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2792a"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2799b"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a0c"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a7d"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27aed"),
+	"availableSeats" : 75,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b5e"),
+	"availableSeats" : 75,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bd0"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c41"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cb3"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d23"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d94"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e05"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e76"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ee6"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f5a"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fc9"),
+	"availableSeats" : 78,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2803a"),
+	"availableSeats" : 74,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280ab"),
+	"availableSeats" : 72,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2811c"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2818d"),
+	"availableSeats" : 72,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281fe"),
+	"availableSeats" : 72,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2826f"),
+	"availableSeats" : 72,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282f0"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28350"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283c1"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28433"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284a4"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28515"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28586"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a285f9"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28668"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286d9"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2874a"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287bb"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2882b"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2889d"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2890d"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2897e"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289f0"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a61"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ad2"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b46"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bb4"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c25"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c96"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d07"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d78"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28de9"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e5a"),
+	"availableSeats" : 73,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ec9"),
+	"availableSeats" : 71,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f3b"),
+	"availableSeats" : 70,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fad"),
+	"availableSeats" : 71,
+	"capacity" : 250,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2901c"),
+	"availableSeats" : 48,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2908f"),
+	"availableSeats" : 54,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290ff"),
+	"availableSeats" : 52,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29170"),
+	"availableSeats" : 54,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291e2"),
+	"availableSeats" : 53,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29253"),
+	"availableSeats" : 52,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292c4"),
+	"availableSeats" : 49,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29335"),
+	"availableSeats" : 57,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293a7"),
+	"availableSeats" : 57,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29419"),
+	"availableSeats" : 55,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29487"),
+	"availableSeats" : 58,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294f9"),
+	"availableSeats" : 63,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29569"),
+	"availableSeats" : 65,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295da"),
+	"availableSeats" : 68,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2964c"),
+	"availableSeats" : 70,
+	"capacity" : 225,
+	"code" : "GE3401",
+	"credit" : 3,
+	"department" : "English",
+	"levels" : [
+		"B"
+	],
+	"title" : "Exploring English Cinema",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}

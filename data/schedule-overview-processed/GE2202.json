@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e970"),
+	"availableSeats" : 4,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9e0"),
+	"availableSeats" : 4,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea52"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eac1"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb34"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eba5"),
+	"availableSeats" : 3,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec16"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec86"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecfa"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed68"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edd9"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee4b"),
+	"availableSeats" : 1,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eebc"),
+	"availableSeats" : 1,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef2d"),
+	"availableSeats" : 1,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef9d"),
+	"availableSeats" : 2,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f00f"),
+	"availableSeats" : 4,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f080"),
+	"availableSeats" : 4,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0f1"),
+	"availableSeats" : 4,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f161"),
+	"availableSeats" : 4,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1d3"),
+	"availableSeats" : 4,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f243"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2b5"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f326"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f397"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f408"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f478"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4e9"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f55b"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5cc"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f63d"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6ae"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f71e"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f78f"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7ff"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f871"),
+	"availableSeats" : 6,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8e2"),
+	"availableSeats" : 6,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f954"),
+	"availableSeats" : 6,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9c5"),
+	"availableSeats" : 6,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa35"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1faa6"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb18"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb93"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbfa"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc6b"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcdc"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd4d"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdbe"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe2f"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe9f"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff15"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff82"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fff3"),
+	"availableSeats" : 9,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20064"),
+	"availableSeats" : 7,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200dd"),
+	"availableSeats" : 6,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20146"),
+	"availableSeats" : 6,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201b7"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20227"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2029c"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2030a"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2037b"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203ec"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2045d"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204ce"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2053f"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205b0"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20621"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20692"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20703"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20774"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207e5"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20857"),
+	"availableSeats" : 5,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208c7"),
+	"availableSeats" : 21,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20937"),
+	"availableSeats" : 21,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209a9"),
+	"availableSeats" : 21,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a1a"),
+	"availableSeats" : 21,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a8a"),
+	"availableSeats" : 21,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20afc"),
+	"availableSeats" : 20,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b6d"),
+	"availableSeats" : 20,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bde"),
+	"availableSeats" : 14,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c4f"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cc0"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d31"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20da2"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e12"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e84"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ef6"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f65"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fd7"),
+	"availableSeats" : 19,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21048"),
+	"availableSeats" : 12,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210b9"),
+	"availableSeats" : 12,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2112a"),
+	"availableSeats" : 12,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2119b"),
+	"availableSeats" : 12,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2120c"),
+	"availableSeats" : 12,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2127d"),
+	"availableSeats" : 12,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212ee"),
+	"availableSeats" : 12,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2135f"),
+	"availableSeats" : 11,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213cf"),
+	"availableSeats" : 11,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21441"),
+	"availableSeats" : 12,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214b2"),
+	"availableSeats" : 18,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21524"),
+	"availableSeats" : 12,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21594"),
+	"availableSeats" : 12,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21605"),
+	"availableSeats" : 12,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21676"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216e7"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21756"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217c9"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21839"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218aa"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2191b"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2198d"),
+	"availableSeats" : 17,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219fe"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a6f"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ade"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b51"),
+	"availableSeats" : 13,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bc2"),
+	"availableSeats" : 14,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c33"),
+	"availableSeats" : 14,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ca4"),
+	"availableSeats" : 14,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d14"),
+	"availableSeats" : 14,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d86"),
+	"availableSeats" : 14,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21df4"),
+	"availableSeats" : 14,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e68"),
+	"availableSeats" : 16,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ed9"),
+	"availableSeats" : 14,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f49"),
+	"availableSeats" : 14,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fbc"),
+	"availableSeats" : 14,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2202c"),
+	"availableSeats" : 15,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2209d"),
+	"availableSeats" : 15,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2210e"),
+	"availableSeats" : 15,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2217e"),
+	"availableSeats" : 15,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221ee"),
+	"availableSeats" : 15,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22260"),
+	"availableSeats" : 15,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222d2"),
+	"availableSeats" : 15,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22343"),
+	"availableSeats" : 16,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223b3"),
+	"availableSeats" : 16,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22424"),
+	"availableSeats" : 15,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22496"),
+	"availableSeats" : 14,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22505"),
+	"availableSeats" : 15,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22578"),
+	"availableSeats" : 15,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225ea"),
+	"availableSeats" : 15,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22658"),
+	"availableSeats" : 15,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226cb"),
+	"availableSeats" : 15,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2273c"),
+	"availableSeats" : 15,
+	"capacity" : 46,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227ac"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2282a"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2288e"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22901"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22971"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229e2"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a52"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ac4"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b36"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ba7"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c14"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c88"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cf9"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d69"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dd9"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e4c"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ebd"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f2e"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f9f"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23010"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23081"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230f2"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23163"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231d6"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23245"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232b6"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23327"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23398"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23409"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2347a"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234e9"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2355c"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235cd"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2363d"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236af"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23720"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23790"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23803"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23873"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238e4"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23956"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239c6"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a38"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23aa8"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b1a"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b88"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bfa"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c6c"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cdd"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d50"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23dbf"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e30"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ea1"),
+	"availableSeats" : 14,
+	"capacity" : 30,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f12"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f80"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ff4"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24062"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240d7"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24146"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241b8"),
+	"availableSeats" : 46,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24228"),
+	"availableSeats" : 46,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2429a"),
+	"availableSeats" : 46,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2430b"),
+	"availableSeats" : 46,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2437c"),
+	"availableSeats" : 46,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243ed"),
+	"availableSeats" : 44,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2445e"),
+	"availableSeats" : 46,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244cf"),
+	"availableSeats" : 39,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24540"),
+	"availableSeats" : 39,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245b1"),
+	"availableSeats" : 39,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24622"),
+	"availableSeats" : 40,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24692"),
+	"availableSeats" : 39,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24704"),
+	"availableSeats" : 39,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24775"),
+	"availableSeats" : 40,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247e6"),
+	"availableSeats" : 40,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24856"),
+	"availableSeats" : 40,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248c8"),
+	"availableSeats" : 44,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24939"),
+	"availableSeats" : 40,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249a9"),
+	"availableSeats" : 40,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a1a"),
+	"availableSeats" : 40,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a8c"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24afc"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b6e"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24be0"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c50"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cc0"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d33"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24da3"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e14"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e8f"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ef5"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f67"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fd8"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25048"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250ba"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25129"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2519c"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2520d"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2527e"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252f0"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2535e"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253d1"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25442"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254b3"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25523"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25594"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25606"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25676"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256e8"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25756"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257c9"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2583b"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258b4"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2591d"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2598e"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259ff"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a71"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ae1"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b52"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bc1"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c33"),
+	"availableSeats" : 40,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ca5"),
+	"availableSeats" : 38,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d19"),
+	"availableSeats" : 38,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d87"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25df7"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e6a"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25eda"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f4b"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fbc"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2602d"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2609f"),
+	"availableSeats" : 25,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2610f"),
+	"availableSeats" : 25,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26180"),
+	"availableSeats" : 25,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261f1"),
+	"availableSeats" : 25,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26262"),
+	"availableSeats" : 25,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262d3"),
+	"availableSeats" : 25,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26345"),
+	"availableSeats" : 22,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263b5"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26426"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26497"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26507"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26578"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265e9"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2665b"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266cc"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2673d"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267ae"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2681f"),
+	"availableSeats" : 22,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26890"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26901"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26972"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269e2"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a54"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ac8"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b36"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ba6"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c18"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c8a"),
+	"availableSeats" : 21,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cfa"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d6b"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ddd"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e4d"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ec3"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f2f"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fa0"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27011"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27082"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270f3"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27164"),
+	"availableSeats" : 21,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271d5"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27246"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272b7"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27328"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27398"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2740a"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2747b"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274ec"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2755d"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275cc"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2763f"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276b0"),
+	"availableSeats" : 19,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27721"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27792"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27803"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27874"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278e6"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27956"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279c7"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a37"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27aa9"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b1c"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b8b"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bfb"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c6d"),
+	"availableSeats" : 20,
+	"capacity" : 57,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ce4"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d4f"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27dc1"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e31"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ea0"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f11"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f84"),
+	"availableSeats" : 42,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ff5"),
+	"availableSeats" : 41,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28066"),
+	"availableSeats" : 39,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280d7"),
+	"availableSeats" : 39,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28147"),
+	"availableSeats" : 38,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281b8"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2822a"),
+	"availableSeats" : 38,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2829b"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2830b"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2837d"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283ee"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2845f"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284d1"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28540"),
+	"availableSeats" : 35,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285b1"),
+	"availableSeats" : 35,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28623"),
+	"availableSeats" : 35,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28691"),
+	"availableSeats" : 35,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28706"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28776"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287e7"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28858"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288c9"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2893a"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289ab"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a1c"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a8b"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28afe"),
+	"availableSeats" : 35,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b6f"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bdf"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c51"),
+	"availableSeats" : 36,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cc6"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d33"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28da4"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e14"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e95"),
+	"availableSeats" : 37,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ef7"),
+	"availableSeats" : 32,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f68"),
+	"availableSeats" : 30,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fd7"),
+	"availableSeats" : 31,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2904a"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290bb"),
+	"availableSeats" : 29,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2912a"),
+	"availableSeats" : 26,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2919d"),
+	"availableSeats" : 25,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2920e"),
+	"availableSeats" : 21,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2927d"),
+	"availableSeats" : 21,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292f0"),
+	"availableSeats" : 21,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29361"),
+	"availableSeats" : 18,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293d2"),
+	"availableSeats" : 9,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29443"),
+	"availableSeats" : 3,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294b4"),
+	"availableSeats" : 9,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29525"),
+	"availableSeats" : 3,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29596"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29606"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29677"),
+	"availableSeats" : 3,
+	"capacity" : 80,
+	"code" : "GE2202",
+	"credit" : 3,
+	"department" : "Management Sciences",
+	"levels" : [
+		"B"
+	],
+	"title" : "Globalization and Business",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

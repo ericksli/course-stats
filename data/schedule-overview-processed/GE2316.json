@@ -1,0 +1,5503 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9a2"),
+	"availableSeats" : 5,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea13"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea84"),
+	"availableSeats" : 4,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eaf4"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb66"),
+	"availableSeats" : 2,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ebd7"),
+	"availableSeats" : 3,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec48"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecb6"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed2a"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed9b"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee0c"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee7e"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eeef"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef5e"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efd0"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f040"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0b2"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f123"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f195"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f206"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f276"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f2e6"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f357"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3c8"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f439"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4aa"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f51c"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f58d"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f600"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f66f"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6e2"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f750"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7c2"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f831"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8a4"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f915"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f986"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9f7"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa68"),
+	"availableSeats" : 1,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fad9"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb4a"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbba"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc2c"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc9d"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd0e"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd7f"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fdf0"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe61"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fed2"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff44"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffb3"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20024"),
+	"availableSeats" : 8,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20096"),
+	"availableSeats" : 7,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20106"),
+	"availableSeats" : 5,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20178"),
+	"availableSeats" : 4,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a201e7"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2025a"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202ca"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2033c"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203ad"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2041e"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2048f"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204ff"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20570"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205e1"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20653"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206c3"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20734"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207a6"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20816"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20888"),
+	"availableSeats" : 0,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208f9"),
+	"availableSeats" : 56,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2096a"),
+	"availableSeats" : 56,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209db"),
+	"availableSeats" : 56,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a4c"),
+	"availableSeats" : 56,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20abd"),
+	"availableSeats" : 56,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b2e"),
+	"availableSeats" : 47,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b9f"),
+	"availableSeats" : 28,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c10"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c80"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20cf2"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d63"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20dd2"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e47"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20eb4"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f26"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f98"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21008"),
+	"availableSeats" : 10,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21079"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a210eb"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2115c"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211cd"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2123c"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212ae"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21320"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21391"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21403"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21471"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a214e9"),
+	"availableSeats" : 1,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21553"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215c6"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21637"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216a8"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21719"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2178b"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217fb"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2186b"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218dc"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2194e"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219bd"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a30"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21aa1"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b12"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b82"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21bf3"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c65"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cd8"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d47"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21db8"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e27"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e9b"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f09"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f7e"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21fec"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2205d"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220cf"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2213f"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221b0"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22223"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22293"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22305"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22374"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a223e6"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22457"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224c8"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2253a"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225aa"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2261a"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2268a"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226fd"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2276d"),
+	"availableSeats" : 0,
+	"capacity" : 105,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227df"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22850"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228c1"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22931"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229a3"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a15"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a84"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22afc"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b67"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bd6"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c49"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cbb"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d2c"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d9c"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e0c"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e7e"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22eee"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f60"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22fd1"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23040"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230b3"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23124"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23195"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23206"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23277"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a232e7"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23359"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233ca"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23443"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234ac"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2351d"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2358e"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235fe"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23670"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a236e1"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23752"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237c1"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23836"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238a5"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23916"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23987"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239f8"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a68"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ada"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b4b"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bbb"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c2d"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c9e"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d0e"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d80"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23df0"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e62"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ed3"),
+	"availableSeats" : 49,
+	"capacity" : 51,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f44"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fb5"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24026"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24097"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24108"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24178"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a241ea"),
+	"availableSeats" : 81,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2425a"),
+	"availableSeats" : 81,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242cc"),
+	"availableSeats" : 81,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2433d"),
+	"availableSeats" : 81,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243ad"),
+	"availableSeats" : 81,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2441f"),
+	"availableSeats" : 80,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24490"),
+	"availableSeats" : 56,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24501"),
+	"availableSeats" : 38,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24571"),
+	"availableSeats" : 38,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a245e3"),
+	"availableSeats" : 38,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24654"),
+	"availableSeats" : 38,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246c4"),
+	"availableSeats" : 36,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24735"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247a7"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24816"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24888"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248fa"),
+	"availableSeats" : 50,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2496b"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249dc"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a4d"),
+	"availableSeats" : 37,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24abe"),
+	"availableSeats" : 36,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b2f"),
+	"availableSeats" : 36,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ba0"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c10"),
+	"availableSeats" : 34,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c82"),
+	"availableSeats" : 34,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24cf3"),
+	"availableSeats" : 34,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d65"),
+	"availableSeats" : 34,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24dd5"),
+	"availableSeats" : 47,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e45"),
+	"availableSeats" : 34,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24eb5"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f29"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f96"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2500b"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2507b"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a250eb"),
+	"availableSeats" : 34,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2515d"),
+	"availableSeats" : 34,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251cd"),
+	"availableSeats" : 34,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2523f"),
+	"availableSeats" : 34,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252af"),
+	"availableSeats" : 43,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25321"),
+	"availableSeats" : 34,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25393"),
+	"availableSeats" : 33,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25403"),
+	"availableSeats" : 34,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25474"),
+	"availableSeats" : 34,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a254e4"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25556"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255c6"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25638"),
+	"availableSeats" : 33,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256a9"),
+	"availableSeats" : 33,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2571b"),
+	"availableSeats" : 33,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2578b"),
+	"availableSeats" : 39,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257fd"),
+	"availableSeats" : 33,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2586d"),
+	"availableSeats" : 33,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258de"),
+	"availableSeats" : 33,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2594f"),
+	"availableSeats" : 34,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259be"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a31"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25aa1"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b13"),
+	"availableSeats" : 36,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b84"),
+	"availableSeats" : 36,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25bf3"),
+	"availableSeats" : 38,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c66"),
+	"availableSeats" : 38,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cd8"),
+	"availableSeats" : 38,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d48"),
+	"availableSeats" : 38,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25db7"),
+	"availableSeats" : 36,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e29"),
+	"availableSeats" : 36,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e9a"),
+	"availableSeats" : 36,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f0c"),
+	"availableSeats" : 36,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f7d"),
+	"availableSeats" : 36,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25fee"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26068"),
+	"availableSeats" : 34,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260d0"),
+	"availableSeats" : 45,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26141"),
+	"availableSeats" : 45,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261b2"),
+	"availableSeats" : 45,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26223"),
+	"availableSeats" : 45,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26292"),
+	"availableSeats" : 45,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26305"),
+	"availableSeats" : 40,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26374"),
+	"availableSeats" : 19,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a263e7"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26458"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264c8"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26538"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265aa"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2661a"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2668d"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266fe"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2676f"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267df"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26850"),
+	"availableSeats" : 16,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268c1"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26933"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269a4"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a15"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a86"),
+	"availableSeats" : 1,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26af8"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b68"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bd8"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c49"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cba"),
+	"availableSeats" : 13,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d2c"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26da5"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e0d"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e7d"),
+	"availableSeats" : 1,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ef0"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f61"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26fcf"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2704c"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270b3"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27125"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27196"),
+	"availableSeats" : 11,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27207"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27276"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a272e9"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27359"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273ca"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2743c"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274ad"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2751d"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2758e"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27600"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27672"),
+	"availableSeats" : 11,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a276e2"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27753"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277c4"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27834"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278a6"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27917"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27986"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279f9"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a6a"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27adb"),
+	"availableSeats" : 0,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b4c"),
+	"availableSeats" : 9,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bbe"),
+	"availableSeats" : 6,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c2e"),
+	"availableSeats" : 4,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c9e"),
+	"availableSeats" : 2,
+	"capacity" : 144,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d10"),
+	"availableSeats" : 37,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d80"),
+	"availableSeats" : 37,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27df2"),
+	"availableSeats" : 37,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e63"),
+	"availableSeats" : 37,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ed3"),
+	"availableSeats" : 37,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f42"),
+	"availableSeats" : 37,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fb5"),
+	"availableSeats" : 35,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28027"),
+	"availableSeats" : 19,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28098"),
+	"availableSeats" : 9,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28107"),
+	"availableSeats" : 4,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2817a"),
+	"availableSeats" : 4,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a281ea"),
+	"availableSeats" : 1,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2825c"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282cc"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2833c"),
+	"availableSeats" : 1,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283af"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2841f"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28490"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28502"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28573"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a285e4"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28655"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286c6"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28738"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287a8"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2881a"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2888a"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288fb"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2896a"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289de"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a4e"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28abf"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b2f"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ba1"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c12"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c83"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28cf4"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d63"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28dd6"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e46"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28eb8"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f29"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f98"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2900b"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2907c"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a290ec"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2915e"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291ce"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2923e"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292b4"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29322"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2939b"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29403"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29474"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a294e5"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29556"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295c7"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29638"),
+	"availableSeats" : 0,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a296ab"),
+	"availableSeats" : 1,
+	"capacity" : 220,
+	"code" : "GE2316",
+	"credit" : 3,
+	"department" : "Electronic Engineering",
+	"levels" : [
+		"B"
+	],
+	"title" : "Computing Snapshot, Today and Tomorrow",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}

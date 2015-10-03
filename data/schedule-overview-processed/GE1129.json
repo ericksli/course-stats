@@ -1,0 +1,5896 @@
+connecting to: course
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e94e"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1e9c1"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ea33"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eaa7"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb14"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1eb8f"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec06"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ec67"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ecd7"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ed48"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1edba"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee2a"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ee9c"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef0c"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ef7e"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1efef"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f060"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f0d1"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f144"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f1b3"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f226"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f292"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f306"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f377"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f3e8"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f459"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f4c9"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f53a"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f5ac"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f61d"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f68d"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f6ff"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f76f"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f7e2"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f850"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f8c4"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f934"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1f9ad"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa15"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fa84"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1faf8"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fb6a"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fbd8"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fc4b"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fcb9"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd2e"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fd9e"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe0f"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fe80"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1fef0"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ff62"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a1ffd3"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a20043"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7934a6080e0ad1a200b4"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20125"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2019b"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20205"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20276"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a202ea"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20359"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a203cc"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2043f"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a204ae"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2051f"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20590"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a205fe"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20672"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a206e6"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20755"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a207c5"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20836"),
+	"availableSeats" : 0,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a208a7"),
+	"availableSeats" : 17,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20917"),
+	"availableSeats" : 17,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20987"),
+	"availableSeats" : 17,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a209f8"),
+	"availableSeats" : 17,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20a6a"),
+	"availableSeats" : 17,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20adb"),
+	"availableSeats" : 13,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20b4b"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20bbe"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20c30"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ca0"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d11"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20d80"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20df3"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20e64"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20ed5"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20f47"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a20fb7"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21029"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21099"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2110a"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21179"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a211ec"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2125d"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a212ce"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2133f"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a213b1"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21421"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21491"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21503"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21574"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a215e4"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21656"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a216c7"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21738"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a217a9"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2181a"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2188b"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a218fc"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2196d"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a219de"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21a4e"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ac0"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21b30"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21ba2"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c13"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21c83"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21cf2"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21d64"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21dd7"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21e48"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21eb9"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f29"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a21f9b"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2200a"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2207c"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a220ed"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a2215f"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a221d0"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a22241"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7935a6080e0ad1a222b2"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22323"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22394"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22404"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22476"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a224e6"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22561"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a225c8"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2263b"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a226ab"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2271b"),
+	"availableSeats" : 0,
+	"capacity" : 44,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2278c"),
+	"availableSeats" : 15,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a227fe"),
+	"availableSeats" : 15,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22874"),
+	"availableSeats" : 15,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a228e0"),
+	"availableSeats" : 15,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22951"),
+	"availableSeats" : 15,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a229c0"),
+	"availableSeats" : 14,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22a32"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22aa3"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b16"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22b86"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22bf5"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22c68"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22cdd"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22d4a"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22dbb"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e2a"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22e9d"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f0c"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22f7f"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a22ff0"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23061"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a230d2"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23144"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a231b4"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23222"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23296"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23308"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23378"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a233e9"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2345b"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a234cb"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2353c"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a235ad"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2361e"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2368e"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23700"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23770"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a237e2"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23853"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a238c5"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2393c"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a239a6"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a17"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23a89"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23af9"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23b6a"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23bdb"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23c4c"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23cbe"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d30"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23d9f"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e10"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23e81"),
+	"availableSeats" : 11,
+	"capacity" : 27,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23ef2"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23f62"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a23fd4"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24044"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a240b6"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24127"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24199"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a24209"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2427a"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a242eb"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a2435c"),
+	"availableSeats" : 24,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7936a6080e0ad1a243cd"),
+	"availableSeats" : 21,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2443e"),
+	"availableSeats" : 2,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a244af"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2451e"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24591"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24602"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24672"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a246e6"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24755"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a247c4"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24837"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a248a8"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24917"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2498a"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a249fb"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24a6b"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24adb"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24b4c"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24bbf"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24c31"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ca1"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d11"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24d83"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24df4"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24e68"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24ed5"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24f47"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a24fb7"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25028"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25099"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2510a"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2517e"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a251ec"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2525d"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a252cc"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25340"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a253b1"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25422"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25493"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25504"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25575"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a255e4"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25655"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a256c8"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25738"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a257aa"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2581b"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2588c"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a258fc"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2596e"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a259de"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25a50"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ac0"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25b32"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25ba3"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c14"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25c85"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25cf6"),
+	"availableSeats" : 1,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25d68"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25dd8"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25e49"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25eba"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f2c"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a25f9c"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2600d"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a2607e"),
+	"availableSeats" : 13,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a260ef"),
+	"availableSeats" : 13,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26160"),
+	"availableSeats" : 13,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a261d1"),
+	"availableSeats" : 13,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26245"),
+	"availableSeats" : 13,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a262b3"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26325"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7937a6080e0ad1a26395"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26407"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26479"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a264e8"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26559"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a265ca"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2663c"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a266ac"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2671d"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2678f"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a267ff"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26870"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a268df"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26952"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a269c3"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26a34"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26aa4"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b16"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26b87"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26bf7"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26c68"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26cd9"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26d49"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26dbd"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e2d"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26e9e"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f0f"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26f80"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a26ff1"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27062"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a270d2"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27144"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a271b5"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27225"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2729c"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27306"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27378"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a273e9"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2745b"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a274c9"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2753d"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a275af"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2761f"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2768f"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27701"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27771"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a277e3"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27852"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a278c5"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27936"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a279a7"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a18"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27a89"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27af9"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27b6b"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27bdb"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27c4b"),
+	"availableSeats" : 0,
+	"capacity" : 56,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "N",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27cbc"),
+	"availableSeats" : 2,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d2f"),
+	"availableSeats" : 2,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27d9f"),
+	"availableSeats" : 2,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e13"),
+	"availableSeats" : 2,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27e82"),
+	"availableSeats" : 2,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27ef3"),
+	"availableSeats" : 2,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27f64"),
+	"availableSeats" : 2,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a27fd6"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28046"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a280b6"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28128"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28197"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2820a"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2827b"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a282e9"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2835d"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a283ce"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a2843f"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a284b0"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28522"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7938a6080e0ad1a28591"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28603"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28674"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a286e2"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28756"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a287c6"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28838"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a288a9"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2891c"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2898b"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a289fc"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28a6d"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28adf"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28b4e"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28bc0"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28c31"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ca2"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d13"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28d84"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28df5"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28e66"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28ed7"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28f4c"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a28fb9"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2902a"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29099"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2910c"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2917c"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a291ed"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a2925f"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a292d3"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29341"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "FULL",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a293b2"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29423"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29494"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29505"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29576"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a295e7"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
+{
+	"_id" : ObjectId("560f7939a6080e0ad1a29658"),
+	"availableSeats" : 0,
+	"capacity" : 80,
+	"code" : "GE1129",
+	"credit" : 3,
+	"department" : "School of Creative Media",
+	"levels" : [
+		"A",
+		"B"
+	],
+	"title" : "Creative Photography",
+	"waitlistAvailable" : "Y",
+	"webEnabled" : true
+}
