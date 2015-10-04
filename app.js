@@ -1,72 +1,89 @@
+/**
+ * Created by Eric on 10/4/2015.
+ */
+
+var credentials = require('./parseCredentials.json');
 var fs = require("fs");
 var path = require("path");
 var Q = require("q");
+var Parse = require('parse/node').Parse;
+
 var rootPath = 'data';
+var academicYear = '1516';
+var semester = 'A';
 
 Q.longStackSupport = true;
+Parse.initialize(credentials.appId, credentials.jsKey);
+
+var AddDropLog = Parse.Object.extend('AddDropLog');
+
 
 // read root path
 Q.nfcall(fs.readdir, rootPath).then(function (files) {
     // get stats of each directory/file
-    var promises = [];
+    var promise = Q();
     files.forEach(function (file) {
         var p = path.join(rootPath, file);
-        promises.push(Q.nfcall(fs.stat, p).then(function (stat) {
-            return {
-                dir: p,
-                stat: stat
-            };
-        }));
-    });
-    return Q.all(promises);
-}).then(function (results) {
-    // read the directories
-    var promises = [];
-    var c = 0;
-    results.forEach(function (result) {
-        c++;
-        if (result.stat.isDirectory() && c < 3) {
-            console.log("dir " + result.dir);
-            promises.push(Q.nfcall(fs.readdir, result.dir).then(function (files) {
+        promise = promise.then(function () {
+            return Q.nfcall(fs.stat, p).then(function (stat) {
                 return {
-                    dir: result.dir,
-                    files: files
+                    dir: p,
+                    stat: stat
+                };
+            })
+        }).then(function (result) {
+            // read the directory
+            if (result.stat.isDirectory()) {
+                console.log("1 " + result.dir);
+                return Q.nfcall(fs.readdir, result.dir).then(function (files) {
+                    return {
+                        dir: result.dir,
+                        files: files
+                    }
+                });
+            }
+        }).then(function (result) {
+            // parse the json files in the directory
+            if (result === undefined) {
+                return [];
+            }
+            console.log("2");
+            var jsonFiles = [];
+            result.files.forEach(function (file) {
+                if (path.extname(file) === '.json') {
+                    var p = path.join(result.dir, file);
+                    jsonFiles.push(p);
                 }
-            }));
-        }
-    });
-    return Q.all(promises);
-}).then(function (results) {
-    // parse the json files in each directory
-    var promises = [];
-    results.forEach(function (result) {
-        result.files.forEach(function (file) {
-            if (path.extname(file) === '.json') {
-                var p = path.join(result.dir, file);
-                promises.push(Q.nfcall(fs.readFile, p, "utf-8").then(function (jsonStr) {
+            });
+            return jsonFiles;
+        }).then(function (files) {
+            // read json file
+            console.log("3");
+            var promise = Q();
+            files.forEach(function (file) {
+                promise = promise.then(Q.nfcall(fs.readFile, file, "utf-8").then(function (jsonStr) {
+                    // parse the file name to obtain timestamp and convert json string to JS object
+                    console.log("4 " + file);
                     var filename = path.basename(file);
                     var timestamp = /^(\d+)-(\d+)-(\d+)_(\d+)-(\d+)-(\d+)/.exec(filename);
                     return {
                         timestamp: new Date(~~timestamp[1], ~~timestamp[2] - 1, ~~timestamp[3], ~~timestamp[4], ~~timestamp[5], ~~timestamp[6]),
                         courses: JSON.parse(jsonStr)
                     }
+                }).then(function (result) {
+                    // write file
+                    console.log("5", result.timestamp, result.courses[0].code);
+                    var promise = Q();
+                    result.courses.forEach(function (course) {
+                        var filename = 'output/' + course.code + '.txt';
+                        var line = result.timestamp.toISOString() + '>> ' + course.code + ' - ' + course.title + ' > ' + course.capacity + '\n';
+                        promise = promise.then(Q.nfcall(fs.appendFile, filename, line));
+                    });
+                    return promise;
                 }));
-            }
-        })
-    });
-    return Q.all(promises);
-}).then(function (results) {
-    // write files for each course
-    var promises = [];
-    results.forEach(function (data) {
-        data.courses.forEach(function (course) {
-            console.log(data.timestamp.toISOString() + '>> ' + course.code + ' - ' + course.title + ' > ' + course.capacity);
-            var filename = 'output/' + course.code + '.txt';
-            var line = data.timestamp.toISOString() + '>> ' + course.code + ' - ' + course.title + ' > ' + course.capacity + '\n';
-            promises.push(Q.nfcall(fs.appendFile, filename, line));
+            });
+            return promise;
         });
     });
-    return Q.all(promises);
-}).then(function () {
-    console.log('all done!');
+    return promise;
 }).done();

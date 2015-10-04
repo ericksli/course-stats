@@ -2,6 +2,8 @@
   "name": "course-stats",
   "version": "0.0.1",
   "dependencies": {
+    "lodash": "^3.10.1",
+    "parse": "^1.6.4",
     "q": "^1.4.1"
   }
 }
