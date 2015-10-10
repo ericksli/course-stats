@@ -2,24 +2,27 @@
  * Created by Eric on 10/4/2015.
  */
 
-var credentials = require('./parseCredentials.json');
 var fs = require("fs");
 var path = require("path");
+var _ = require("lodash");
 var Q = require("q");
-var Parse = require('parse/node').Parse;
 
 var rootPath = 'data';
 var academicYear = '1516';
 var semester = 'A';
 
+var courseData = [];
+var outputFile;
+var firstRecord = true;
+
 Q.longStackSupport = true;
-Parse.initialize(credentials.appId, credentials.jsKey);
 
-var AddDropLog = Parse.Object.extend('AddDropLog');
-
-
-// read root path
-Q.nfcall(fs.readdir, rootPath).then(function (files) {
+Q.nfcall(fs.open, 'output/log.json', 'w').then(function (fd) {
+    outputFile = fd;
+    return Q.nfcall(fs.write, outputFile, '{"results":[\n');
+}).then(function () {
+    return Q.nfcall(fs.readdir, rootPath);
+}).then(function (files) {
     // get stats of each directory/file
     var promise = Q();
     files.forEach(function (file) {
@@ -43,7 +46,7 @@ Q.nfcall(fs.readdir, rootPath).then(function (files) {
                 });
             }
         }).then(function (result) {
-            // parse the json files in the directory
+            // parse the json dataFiles in the directory
             if (result === undefined) {
                 return [];
             }
@@ -75,9 +78,25 @@ Q.nfcall(fs.readdir, rootPath).then(function (files) {
                     console.log("5", result.timestamp, result.courses[0].code);
                     var promise = Q();
                     result.courses.forEach(function (course) {
-                        var filename = 'output/' + course.code + '.txt';
-                        var line = result.timestamp.toISOString() + '>> ' + course.code + ' - ' + course.title + ' > ' + course.capacity + '\n';
-                        promise = promise.then(Q.nfcall(fs.appendFile, filename, line));
+                        courseData[course.code] = _.pick(course, ['credit', 'department', 'levels', 'title']);
+
+                        var data = _.extend(_.pick(course, ['code', 'availableSeats', 'capacity', 'waitlistAvailable', 'webEnabled']), {
+                            capturedAt: {
+                                "__type": "Date",
+                                "iso": result.timestamp
+                            },
+                            academicYear: academicYear,
+                            semester: semester
+                        });
+
+                        var line;
+                        if (firstRecord) {
+                            line = JSON.stringify(data);
+                            firstRecord = false;
+                        } else {
+                            line = ',\n' + JSON.stringify(data);
+                        }
+                        promise = promise.then(Q.nfcall(fs.write, outputFile, line));
                     });
                     return promise;
                 }));
@@ -86,4 +105,16 @@ Q.nfcall(fs.readdir, rootPath).then(function (files) {
         });
     });
     return promise;
+}).then(function () {
+    console.log("6");
+    return Q.nfcall(fs.write, outputFile, ']}');
+}).then(function () {
+    console.log("7");
+    return Q.nfcall(fs.close, outputFile);
+}).then(function () {
+    console.log("8");
+    var exportCourseData = {
+        results: courseData
+    };
+    return Q.nfcall(fs.writeFile, 'output/courses.json', JSON.stringify(exportCourseData));
 }).done();
